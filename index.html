@@ -1,0 +1,1640 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cassiopaean Transcript Summaries</title>
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Google Fonts: Inter (for UI) and Playfair Display (for headings) -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" />
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        /* Color scheme variables - Light Theme (default) */
+        :root {
+            --primary-color: #3a6ea5;
+            --secondary-color: #004e98;
+            --accent-color: #7fb8e6;
+            --light-bg: #f8f9fa;
+            --card-bg: #ffffff;
+            --card-border: #e9ecef;
+            --text-primary: #2c3e50;
+            --text-secondary: #6c757d;
+            --hover-color: #c7ddf4;
+            --topic-header-color: #406294;
+        }
+
+        /* Gray Theme */
+        :root[data-theme="gray"] {
+            --primary-color: #546E7A;
+            --secondary-color: #37474F;
+            --accent-color: #78909C;
+            --light-bg: #eceff1;
+            --card-bg: #fafafa;
+            --card-border: #cfd8dc;
+            --text-primary: #263238;
+            --text-secondary: #607d8b;
+            --hover-color: #cfd8dc;
+            --topic-header-color: #455a64;
+        }
+
+        /* Dark Theme */
+        :root[data-theme="dark"] {
+            --primary-color: #1f4068;
+            --secondary-color: #162447;
+            --accent-color: #3282b8;
+            --light-bg: #1b262c;
+            --card-bg: #222831;
+            --card-border: #393e46;
+            --text-primary: #e9e9e9;
+            --text-secondary: #bbb;
+            --hover-color: #293b57;
+            --topic-header-color: #3282b8;
+        }
+
+        /* Base typography */
+        body {
+            color: var(--text-primary);
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            letter-spacing: 0.01em;
+        }
+
+        /* Increase line spacing for main content */
+        #main-content * {
+            line-height: 1.8;
+        }
+
+        #main-content ul li {
+            font-size: 18px;
+            font-family: Charter, Georgia, 'Times New Roman', serif;
+            line-height: 2.2;
+        }
+
+        p {
+            font-size: 18px;
+            font-family: Charter, Georgia, 'Times New Roman', serif;
+        }
+
+        /* Improved navbar with gradient */
+        .navbar-dark.bg-primary {
+            background: linear-gradient(135deg, var(--secondary-color), var(--primary-color)) !important;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* h2 headings: Playfair Display with enhanced styling */
+        #main-content h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.2rem;
+            font-weight: 600;
+            margin-top: 1em;
+            margin-bottom: 0.5em;
+            color: var(--topic-header-color);
+            text-decoration: none;
+            padding-bottom: 0.5rem;
+            letter-spacing: -0.01em;
+            border-bottom: none;
+            position: relative;
+        }
+
+        #main-content h2::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(to right, var(--accent-color), rgba(127, 184, 230, 0.3));
+            border-radius: 2px;
+        }
+
+        /* For summary headings, remove underline from "Summary of" part */
+        .underlined-part {
+            text-decoration: underline;
+        }
+
+        /* Card styling for all cards */
+        .card {
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            border-radius: 8px;
+            border: 1px solid var(--card-border);
+            transition: transform 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Card styling for snippet search results */
+        .snippet-card {
+            margin-bottom: 1rem;
+            border: 1px solid #e1e1e1;
+        }
+
+        /* Card header for transcripts */
+        .card-header {
+            background: linear-gradient(135deg, #e6f2ff 0%, #f0f7ff 50%, #ffffff 100%);
+            border-left: 4px solid var(--accent-color);
+            border-bottom: 1px solid var(--card-border);
+            padding: 0.9rem 1.2rem;
+            font-family: 'Inter', system-ui, sans-serif;
+        }
+
+        .card-header strong {
+            font-family: 'Inter', system-ui, sans-serif;
+            font-weight: 600;
+            color: var(--secondary-color);
+            letter-spacing: 0.02em;
+        }
+
+        /* Snippet card header styling */
+        .snippet-card-header {
+            background: linear-gradient(135deg, #e1f0fb 0%, #d0e8f9 100%);
+            cursor: pointer;
+            color: var(--secondary-color);
+            font-weight: 600;
+            text-decoration: none;
+            padding: 0.9rem 1.2rem;
+            border-left: 4px solid #6db4e9;
+        }
+
+        .snippet-card-header:hover {
+            background: linear-gradient(135deg, #d0e8f9 0%, #c0e0f7 100%);
+            color: var(--primary-color);
+        }
+
+        .snippet-line {
+            border-top: 1px solid #f1f1f1;
+            padding: 1rem 1rem;
+            line-height: 2.2;
+        }
+
+        /* Sidebar styling */
+        .col-3.border-end {
+            background-color: var(--light-bg);
+            border-right: 1px solid var(--card-border) !important;
+        }
+
+        /* Accordion styling */
+        .accordion-item {
+            border-radius: 6px;
+            overflow: hidden;
+            margin-bottom: 0.5rem;
+            border: 1px solid var(--card-border);
+        }
+
+        .accordion-button {
+            padding: 0.8rem 1.2rem;
+            background-color: var(--card-bg);
+            color: var(--primary-color);
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+
+        .accordion-button:not(.collapsed) {
+            background-color: var(--accent-color);
+            color: var(--secondary-color);
+            font-weight: 700;
+        }
+
+        .accordion-button:hover {
+            background-color: var(--hover-color);
+        }
+
+        /* Topic links styling */
+        .list-group-item-action {
+            border-left: 3px solid transparent;
+            transition: all 0.2s ease;
+        }
+
+        .list-group-item-action:hover {
+            background-color: var(--hover-color);
+            border-left-color: var(--primary-color);
+        }
+
+        /* Welcome container styles */
+        .welcome-container {
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 3px 15px rgba(0, 0, 0, 0.08);
+            border-radius: 10px;
+        }
+
+        .welcome-container .lead {
+            font-size: 1.15rem;
+            color: #495057;
+        }
+
+        .welcome-container .list-group-item {
+            font-size: 1.05rem;
+            padding: 0.75rem 1.25rem;
+        }
+
+        .welcome-container .alert {
+            border-left: 4px solid #17a2b8;
+        }
+
+        /* Search bar styling */
+        .input-group {
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        #search-input {
+            border: 1px solid var(--card-border);
+            padding: 0.6rem 1rem;
+            font-size: 0.95rem;
+            border-left: none;
+        }
+
+        #search-input:focus {
+            box-shadow: 0 0 0 3px rgba(58, 110, 165, 0.2);
+            border-color: var(--primary-color);
+        }
+
+        .input-group-text {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+        }
+
+        /* Highlighted search terms */
+        mark {
+            background-color: rgba(255, 230, 0, 0.4);
+            padding: 0.1em 0.2em;
+            border-radius: 2px;
+        }
+
+        /* List styling */
+        #main-content ul {
+            padding-left: 1.2rem;
+        }
+
+        #main-content ul li {
+            margin-bottom: 0.8rem;
+            position: relative;
+        }
+
+        #main-content ul li::marker {
+            color: var(--primary-color);
+        }
+
+        /* Session date links styling */
+        a.session-date {
+            display: inline-block;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+            font-weight: 500;
+            padding: 0.2rem 0.5rem;
+            background-color: rgba(127, 184, 230, 0.1);
+            border-radius: 4px;
+            text-decoration: none;
+            transition: all 0.2s ease;
+        }
+
+        a.session-date:hover {
+            background-color: rgba(127, 184, 230, 0.2);
+            color: var(--secondary-color);
+        }
+
+        /* Theme toggle button group styling */
+        .theme-toggle {
+            margin-left: auto;
+        }
+
+        .theme-toggle .btn-outline-light {
+            padding: 0.25rem 0.5rem;
+            border-color: rgba(255, 255, 255, 0.5);
+        }
+
+        .theme-toggle .btn-outline-light:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .theme-toggle .btn-outline-light.active {
+            background-color: rgba(255, 255, 255, 0.3);
+            border-color: white;
+        }
+
+        /* Dark theme specific overrides */
+        /* Body and general containers */
+        [data-theme="dark"] body {
+            background-color: var(--light-bg);
+            color: var(--text-primary);
+        }
+
+        [data-theme="dark"] .welcome-container {
+            background-color: var(--card-bg) !important;
+            color: var(--text-primary);
+            box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        [data-theme="dark"] .welcome-container .lead {
+            color: var(--text-secondary);
+        }
+
+        /* Card elements */
+        [data-theme="dark"] .card {
+            background-color: var(--card-bg);
+        }
+
+        [data-theme="dark"] .card-header {
+            background: linear-gradient(135deg, #1e3147 0%, #243a54 100%);
+            color: var(--text-primary);
+        }
+
+        [data-theme="dark"] .card-header strong {
+            color: var(--accent-color);
+        }
+
+        [data-theme="dark"] .snippet-card-header {
+            background: linear-gradient(135deg, #1a334d 0%, #1e3a56 100%);
+            color: var(--text-primary);
+            border-left: 4px solid var(--accent-color);
+        }
+
+        [data-theme="dark"] .snippet-card-header:hover {
+            background: linear-gradient(135deg, #1e3a56 0%, #254666 100%);
+        }
+
+        /* List items and sections with bg-light */
+        [data-theme="dark"] .list-group-item.bg-light,
+        [data-theme="dark"] .card.border-0.bg-light {
+            background-color: var(--light-bg) !important;
+            color: var(--text-primary);
+        }
+
+        /* Info alerts */
+        [data-theme="dark"] .alert-info {
+            background-color: rgba(23, 162, 184, 0.15);
+            border-color: rgba(23, 162, 184, 0.4);
+            color: var(--text-primary);
+        }
+
+        /* Links */
+        [data-theme="dark"] a {
+            color: var(--accent-color);
+        }
+
+        /* Text primary class */
+        [data-theme="dark"] .text-primary {
+            color: var(--accent-color) !important;
+        }
+
+        /* Accordion styling */
+        [data-theme="dark"] .accordion-item {
+            background-color: var(--card-bg);
+            border-color: var(--card-border);
+        }
+
+        [data-theme="dark"] .accordion-button {
+            background-color: var(--card-bg);
+            color: var(--accent-color);
+        }
+
+        [data-theme="dark"] .accordion-button:not(.collapsed) {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        [data-theme="dark"] .accordion-button::after {
+            filter: brightness(2);
+        }
+
+        [data-theme="dark"] .accordion-button:not(.collapsed)::after {
+            filter: brightness(3);
+        }
+
+        [data-theme="dark"] .accordion-body {
+            background-color: var(--light-bg);
+        }
+
+        /* Search input */
+        [data-theme="dark"] #search-input {
+            background-color: var(--card-bg);
+            border-color: var(--card-border);
+            color: var(--text-primary);
+        }
+
+        [data-theme="dark"] #search-input::placeholder {
+            color: var(--text-secondary);
+        }
+
+        /* Topic list items */
+        [data-theme="dark"] .list-group-item-action {
+            background-color: var(--light-bg);
+            color: var(--text-primary);
+            border-color: var(--card-border);
+        }
+
+        [data-theme="dark"] .list-group-item-action:hover {
+            background-color: var(--hover-color);
+        }
+
+        /* Additional dark theme fixes */
+        [data-theme="dark"] #main-content {
+            color: var(--text-primary);
+        }
+
+        /* Improve welcome page in dark mode */
+        [data-theme="dark"] .welcome-container h2.display-5 {
+            color: var(--accent-color);
+        }
+
+        [data-theme="dark"] .welcome-container p {
+            color: var(--text-primary);
+        }
+
+        /* Fix for highlighted search terms in dark mode */
+        [data-theme="dark"] mark {
+            background-color: rgba(255, 200, 0, 0.3);
+            color: white !important;
+            padding: 0.1em 0.2em;
+            border-radius: 3px;
+        }
+
+        /* Improve contrast for the search results */
+        [data-theme="dark"] .snippet-line,
+        [data-theme="dark"] .card-body {
+            background-color: var(--card-bg);
+            color: var(--text-primary);
+        }
+
+        /* Better heading contrast in dark mode */
+        [data-theme="dark"] h2,
+        [data-theme="dark"] h3,
+        [data-theme="dark"] h4 {
+            color: var(--accent-color);
+        }
+
+        /* Enhance card background in dark mode */
+        [data-theme="dark"] .card {
+            background-color: var(--card-bg);
+        }
+
+        /* Fix for the text-primary class in dark mode */
+        [data-theme="dark"] .text-primary {
+            color: var(--accent-color) !important;
+        }
+
+        /* Ensure all list items in dark mode are properly colored */
+        [data-theme="dark"] li {
+            color: var(--text-primary);
+        }
+
+        /* Gray theme specific overrides for search results */
+        [data-theme="gray"] .snippet-card-header {
+            background: linear-gradient(135deg, #cfd8dc 0%, #b0bec5 100%);
+            color: var(--secondary-color);
+            border-left: 4px solid var(--accent-color);
+        }
+
+        [data-theme="gray"] .snippet-card-header:hover {
+            background: linear-gradient(135deg, #b0bec5 0%, #90a4ae 100%);
+        }
+
+        /* ADDED: Gray theme styling for regular card headers (topic cards) */
+        [data-theme="gray"] .card-header {
+            background: linear-gradient(135deg, #cfd8dc 0%, #b0bec5 50%, #eceff1 100%);
+            border-left: 4px solid var(--accent-color);
+            color: var(--text-primary);
+        }
+
+        [data-theme="gray"] .card-header strong {
+            color: var(--secondary-color);
+        }
+
+        /* Added: Fix for card-header with bg-light class in gray mode */
+        [data-theme="gray"] .card-header.bg-light {
+            background: linear-gradient(135deg, #cfd8dc 0%, #b0bec5 50%, #eceff1 100%) !important;
+        }
+
+        [data-theme="gray"] mark {
+            background-color: rgba(255, 193, 7, 0.3);
+            color: var(--text-primary);
+        }
+
+        /* Ensure "no results" messages are properly styled */
+        [data-theme="dark"] #main-content p,
+        [data-theme="gray"] #main-content p {
+            color: var(--text-primary);
+        }
+
+        [data-theme="gray"] .alert-info {
+            background-color: rgba(96, 125, 139, 0.15);
+            border-color: rgba(96, 125, 139, 0.4);
+            color: var(--text-primary);
+            border-left: 4px solid var(--accent-color);
+        }
+
+        [data-theme="gray"] .alert-info .alert-link {
+            color: var(--secondary-color);
+        }
+
+        /* Force color on dark mode marked text */
+        [data-theme="dark"] p mark,
+        [data-theme="dark"] li mark {
+            color: white !important;
+        }
+    </style>
+</head>
+
+<body class="bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a href="#" class="navbar-brand mb-0 h1" id="site-title">Cassiopaean Transcript Summaries</a>
+
+            <!-- Theme Toggle Buttons -->
+            <div class="btn-group theme-toggle" role="group" aria-label="Theme toggle">
+                <button type="button" class="btn btn-sm btn-outline-light" data-theme="light" title="Light Theme">
+                    <i class="fas fa-sun"></i>
+                </button>
+                <button type="button" class="btn btn-sm btn-outline-light" data-theme="gray" title="Gray Theme">
+                    <i class="fas fa-cloud"></i>
+                </button>
+                <button type="button" class="btn btn-sm btn-outline-light" data-theme="dark" title="Dark Theme">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- MAIN LAYOUT -->
+    <div class="container-fluid" style="height: calc(100vh - 56px);">
+        <div class="row h-100">
+            <!-- SIDEBAR (Search + Accordion) -->
+            <div class="col-3 border-end p-3 overflow-auto">
+                <!-- SEARCH BAR -->
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="search-icon">
+                        <i class="fa fa-search"></i>
+                    </span>
+                    <input type="text" class="form-control" placeholder="Search transcripts..." id="search-input"
+                        aria-label="Search transcripts" aria-describedby="search-icon" />
+                </div>
+                <!-- Accordion for years -->
+                <div class="accordion" id="yearAccordion"></div>
+            </div>
+            <!-- MAIN CONTENT AREA -->
+            <div class="col-9 p-3 overflow-auto" id="main-content">
+                <div class="welcome-container ${bgClass} rounded shadow-sm">
+                    <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Archive</h2>
+
+                    <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from
+                        2019 through 2025.
+                        The sessions cover topics including metaphysics, earth changes, geopolitical analysis, health
+                        information, and more.</p>
+
+                    <div class="card mb-4 border-0 ${cardBgClass}">
+                        <div class="card-body">
+                            <h3 class="h4 mb-3 text-primary">To explore the archive:</h3>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item ${cardBgClass}"><i class="fas fa-search me-2"></i> Use the
+                                    search box to find specific topics across all transcripts</li>
+                                <li class="list-group-item ${cardBgClass}"><i class="fas fa-filter me-2"></i> Filter
+                                    search results by year range</li>
+                                <li class="list-group-item ${cardBgClass}"><i class="fas fa-calendar-alt me-2"></i>
+                                    Browse sessions chronologically by year in the sidebar</li>
+                                <li class="list-group-item ${cardBgClass}"><i class="fas fa-list-ul me-2"></i> Navigate
+                                    by topic categories in the sidebar</li>
+                                <li class="list-group-item ${cardBgClass}"><i class="fas fa-file-alt me-2"></i> Click
+                                    any session date to view its complete summary</li>
+                                <li class="list-group-item ${cardBgClass}"><i class="fas fa-adjust me-2"></i> Switch
+                                    between Light, Gray, and Dark themes using the buttons in the header</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <p>The contents are organized chronologically with each transcript containing consistent sections
+                        for different topics discussed during the sessions.</p>
+
+                    <div class="alert alert-info mt-4">
+                        <p class="mb-2"><strong><i class="fas fa-info-circle me-2"></i>Project Development:</strong> I
+                            am currently working on this project to make it better. You can share your feedback under
+                            <a href="https://cassiopaea.org/forum/threads/summary-of-cassiopaean-transcripts.55693/"
+                                target="_blank" class="alert-link">
+                                this forum thread</a>.
+                        </p>
+                        <p class="mb-0"><strong><i class="fas fa-code-branch me-2"></i>Contribute:</strong> If you would
+                            like to contribute to the project, the source code is available
+                            <a href="https://github.com/OmerYilmazlar/Cassiopaean-Transcripts-Summaries" target="_blank"
+                                class="alert-link">on GitHub</a>
+                            and you can fork the project freely.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script>
+        /*******************************************************
+         * THEME HANDLING
+         *******************************************************/
+        let currentSearchTerm = '';
+        // Store all transcripts globally
+        let allTranscripts = [];
+
+        // Handle theme toggling
+        function initThemeToggle() {
+            const themeButtons = document.querySelectorAll('.theme-toggle button');
+            const savedTheme = localStorage.getItem('preferredTheme') || 'light';
+
+            // Apply theme on page load
+            setTheme(savedTheme);
+
+            // Add click handlers
+            themeButtons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const theme = btn.getAttribute('data-theme');
+                    setTheme(theme);
+                });
+            });
+        }
+
+        // Set theme and update UI
+        function setTheme(theme) {
+            // Existing theme code
+            document.documentElement.setAttribute('data-theme', theme);
+
+            // Update active button state
+            const themeButtons = document.querySelectorAll('.theme-toggle button');
+            themeButtons.forEach(btn => {
+                if (btn.getAttribute('data-theme') === theme) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+
+            // Handle body class
+            if (theme === 'dark') {
+                document.body.classList.remove('bg-light');
+                document.body.classList.add('bg-dark');
+            } else {
+                document.body.classList.remove('bg-dark');
+                document.body.classList.add('bg-light');
+            }
+
+            // Handle welcome container
+            const welcomeContainer = document.querySelector('.welcome-container');
+            if (welcomeContainer) {
+                if (theme === 'dark') {
+                    welcomeContainer.classList.remove('bg-white');
+                    welcomeContainer.classList.add('bg-dark');
+                } else {
+                    welcomeContainer.classList.remove('bg-dark');
+                    welcomeContainer.classList.add('bg-white');
+                }
+            }
+
+            // Handle the "To explore the archive:" card specifically
+            const archiveCard = document.querySelector('.welcome-container .card.mb-4.border-0');
+            if (archiveCard) {
+                if (theme === 'dark') {
+                    archiveCard.classList.remove('bg-light');
+                    archiveCard.classList.add('bg-dark');
+                } else {
+                    archiveCard.classList.remove('bg-dark');
+                    archiveCard.classList.add('bg-light');
+                }
+
+                // Also update all list-group-items inside this card
+                archiveCard.querySelectorAll('.list-group-item').forEach(item => {
+                    if (theme === 'dark') {
+                        item.classList.remove('bg-light');
+                        item.classList.add('bg-dark');
+                    } else {
+                        item.classList.remove('bg-dark');
+                        item.classList.add('bg-light');
+                    }
+                });
+            }
+
+            // Handle all bg-light elements
+            document.querySelectorAll('.bg-light, .list-group-item.bg-light, .card-header.bg-light').forEach(item => {
+                if (theme === 'dark') {
+                    item.classList.remove('bg-light');
+                    item.classList.add('bg-dark');
+                } else {
+                    item.classList.remove('bg-dark');
+                    item.classList.add('bg-light');
+                }
+            });
+
+            // Apply theme to search filters if they exist
+            applyThemeToFilters(theme);
+
+            // NEW: Style any existing search results when theme changes
+            if (currentSearchTerm) {
+                // Re-apply proper styling to snippet cards
+                document.querySelectorAll('.snippet-card').forEach(card => {
+                    // Ensure proper card styling for the theme
+                    if (theme === 'dark') {
+                        card.querySelectorAll('.snippet-line, .card-body').forEach(element => {
+                            element.style.backgroundColor = 'var(--card-bg)';
+                            element.style.color = 'var(--text-primary)';
+                        });
+
+                        // Style highlighted text
+                        card.querySelectorAll('mark').forEach(mark => {
+                            mark.style.backgroundColor = 'rgba(255, 200, 0, 0.3)';
+                            mark.style.color = '#ffffff';
+                        });
+                    } else if (theme === 'gray') {
+                        card.querySelectorAll('mark').forEach(mark => {
+                            mark.style.backgroundColor = 'rgba(255, 193, 7, 0.3)';
+                            mark.style.color = 'var(--text-primary)';
+                        });
+                    }
+                });
+            }
+
+            // Add this inside the setTheme function
+            // Inside the existing setTheme function, near where other theme updates happen
+            if (document.getElementById('topic-toggle-filters')) {
+                applyThemeToTopicFilter(theme);
+            }
+
+            // Save to localStorage
+            localStorage.setItem('preferredTheme', theme);
+        }
+
+        // Add search filters UI below search input
+        // This function was missing in your code - this fixes the sidebar layout issue
+        function addSearchFilters(availableYears) {
+            // Create the filter container
+            const filterContainer = document.createElement('div');
+            filterContainer.classList.add('filter-container', 'mb-3', 'mt-2');
+
+            // Add filter UI
+            filterContainer.innerHTML = `
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <button class="btn btn-sm btn-outline-secondary" id="toggle-filters">
+                <i class="fas fa-sliders-h"></i> Date Filters
+            </button>
+        </div>
+        <div id="filter-options" class="d-none">
+            <div class="mb-2">
+                <div class="d-flex">
+                    <select class="form-select form-select-sm me-2" id="year-from">
+                        <option value="">From Year</option>
+                    </select>
+                    <select class="form-select form-select-sm" id="year-to">
+                        <option value="">To Year</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    `;
+
+            // Insert after search input
+            document.querySelector('.input-group').after(filterContainer);
+
+            // Populate year dropdowns
+            const fromSelect = document.getElementById('year-from');
+            const toSelect = document.getElementById('year-to');
+
+            availableYears.forEach(year => {
+                fromSelect.innerHTML += `<option value="${year}">${year}</option>`;
+                toSelect.innerHTML += `<option value="${year}">${year}</option>`;
+            });
+
+            // Add event listener for filter toggle
+            document.getElementById('toggle-filters').addEventListener('click', () => {
+                const filterOptions = document.getElementById('filter-options');
+                filterOptions.classList.toggle('d-none');
+            });
+
+            // Add event listeners for year filters
+            fromSelect.addEventListener('change', () => {
+                if (currentSearchTerm) {
+                    handleSearch(allTranscripts, currentSearchTerm);
+                }
+            });
+
+            toSelect.addEventListener('change', () => {
+                if (currentSearchTerm) {
+                    handleSearch(allTranscripts, currentSearchTerm);
+                }
+            });
+
+            // Apply theme to the filters
+            const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+            applyThemeToFilters(currentTheme);
+        }
+
+        // Apply theme to filter elements - this function was missing too
+        function applyThemeToFilters(theme) {
+            const filterContainer = document.querySelector('.filter-container');
+            if (!filterContainer) return;
+
+            const toggleButton = document.getElementById('toggle-filters');
+            if (!toggleButton) return;
+
+            if (theme === 'dark') {
+                toggleButton.classList.add('btn-outline-light');
+                toggleButton.classList.remove('btn-outline-secondary');
+            } else {
+                toggleButton.classList.remove('btn-outline-light');
+                toggleButton.classList.add('btn-outline-secondary');
+            }
+        }
+
+        // Add this function to filter transcript results by year for topics
+        function addTopicYearFilter(mainContent, availableYears, topic, matchingTranscripts) {
+            // Create the filter container
+            const filterContainer = document.createElement('div');
+            filterContainer.classList.add('search-filters', 'mb-3', 'p-2', 'border', 'rounded');
+
+            // Add filter UI
+            filterContainer.innerHTML = `
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <span class="fw-bold small">Filter by Year</span>
+            <button class="btn btn-sm btn-outline-secondary" id="topic-toggle-filters">
+                <i class="fas fa-sliders-h"></i>
+            </button>
+        </div>
+        <div id="topic-filter-options" class="d-none">
+            <div class="mb-2">
+                <div class="d-flex">
+                    <select class="form-select form-select-sm me-2" id="topic-year-from">
+                        <option value="">From Year</option>
+                    </select>
+                    <select class="form-select form-select-sm" id="topic-year-to">
+                        <option value="">To Year</option>
+                    </select>
+                    <button class="btn btn-sm btn-primary ms-2" id="apply-topic-filter">
+                        <i class="fas fa-filter"></i> Apply
+                    </button>
+                    <button class="btn btn-sm btn-outline-secondary ms-2" id="reset-topic-filter">
+                        <i class="fas fa-times"></i> Reset
+                    </button>
+                </div>
+            </div>
+        </div>
+    `;
+
+            // Insert after the topic heading
+            mainContent.querySelector('h2').after(filterContainer);
+
+            // Populate year dropdowns with available years from transcripts
+            const fromSelect = document.getElementById('topic-year-from');
+            const toSelect = document.getElementById('topic-year-to');
+
+            availableYears.forEach(year => {
+                fromSelect.innerHTML += `<option value="${year}">${year}</option>`;
+                toSelect.innerHTML += `<option value="${year}">${year}</option>`;
+            });
+
+            // Apply theme to filter container
+            const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+            applyThemeToTopicFilter(currentTheme);
+
+            // Add event listeners for filter buttons
+            document.getElementById('apply-topic-filter').addEventListener('click', () => {
+                const fromYear = fromSelect.value;
+                const toYear = toSelect.value;
+                filterAndDisplayTranscripts(topic, matchingTranscripts, fromYear, toYear);
+            });
+
+            document.getElementById('reset-topic-filter').addEventListener('click', () => {
+                fromSelect.value = '';
+                toSelect.value = '';
+                filterAndDisplayTranscripts(topic, matchingTranscripts, '', '');
+            });
+
+            document.getElementById('topic-toggle-filters').addEventListener('click', () => {
+                const filterOptions = document.getElementById('topic-filter-options');
+                filterOptions.classList.toggle('d-none');
+            });
+        }
+
+        // Apply current theme to topic filter elements
+        function applyThemeToTopicFilter(theme) {
+            const filterContainer = document.querySelector('.search-filters');
+            if (!filterContainer) return;
+
+            if (theme === 'dark') {
+                filterContainer.classList.add('border-dark', 'text-light');
+                filterContainer.style.backgroundColor = 'var(--card-bg)';
+                document.getElementById('topic-toggle-filters').classList.add('btn-outline-light');
+                document.getElementById('topic-toggle-filters').classList.remove('btn-outline-secondary');
+                document.getElementById('reset-topic-filter').classList.add('btn-outline-light');
+                document.getElementById('reset-topic-filter').classList.remove('btn-outline-secondary');
+            } else {
+                filterContainer.classList.remove('border-dark', 'text-light');
+                filterContainer.style.backgroundColor = '';
+                document.getElementById('topic-toggle-filters').classList.remove('btn-outline-light');
+                document.getElementById('topic-toggle-filters').classList.add('btn-outline-secondary');
+                document.getElementById('reset-topic-filter').classList.remove('btn-outline-light');
+                document.getElementById('reset-topic-filter').classList.add('btn-outline-secondary');
+            }
+        }
+
+        /*******************************************************
+         * 1) Utility: Convert Markdown -> HTML and highlight searchTerm.
+         * Also, process the summary heading to remove underline from "Summary of"
+         *******************************************************/
+        function renderMarkdownWithHighlight(rawMarkdown, searchTerm) {
+            // First parse the markdown to HTML
+            let html = marked.parse(rawMarkdown);
+
+            // Then process the HTML for summary headings
+            html = processSummaryHeading(html);
+
+            // Finally add search highlighting if needed
+            if (searchTerm) {
+                const re = new RegExp(`(${searchTerm})`, 'gi');
+                html = html.replace(re, '<mark>$1</mark>');
+            }
+
+            return html;
+        }
+
+        // Process <h2> that starts with "Summary of " to split styles.
+        function processSummaryHeading(html) {
+            // More specific regex to match how marked.js generates headings
+            return html.replace(
+                /(<h2(?:\s+[^>]*)?>)(Summary of\s+)(.+?)(<\/h2>)/gi,
+                (match, h2Open, summaryPart, contentPart, h2Close) => {
+                    return `${h2Open}<span class="no-underline no-link">${summaryPart}</span><span class="underlined-part">${contentPart}</span>${h2Close}`;
+                }
+            );
+        }
+
+        /*******************************************************
+         * 2) Return snippet lines that contain the search term.
+         *******************************************************/
+        function getSnippetLines(rawMarkdown, searchTerm) {
+            const lines = rawMarkdown.split('\n');
+            return lines
+                .filter(line => line.toLowerCase().includes(searchTerm.toLowerCase()))
+                .map(line => {
+                    let lineHTML = marked.parse(line);
+                    return lineHTML.replace(
+                        new RegExp(searchTerm, 'gi'),
+                        match => `<mark>${match}</mark>`
+                    );
+                });
+        }
+
+        /*******************************************************
+         * 3) Show full transcript in the main content area.
+         *******************************************************/
+        function showFullTranscript(transcript, searchTerm) {
+            const mainContent = document.getElementById('main-content');
+            mainContent.innerHTML = '';
+
+            // Full transcript content with optional highlighting.
+            const fullHTML = renderMarkdownWithHighlight(transcript.content, searchTerm);
+            const transcriptDiv = document.createElement('div');
+            transcriptDiv.innerHTML = fullHTML;
+            mainContent.appendChild(transcriptDiv);
+
+            // Scroll to the first highlighted match.
+            const firstMark = mainContent.querySelector('mark');
+            if (firstMark) {
+                firstMark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        }
+
+        /*******************************************************
+         * 4) Global snippet-based search handler with date filtering.
+         *******************************************************/
+        function handleSearch(transcripts, keyword) {
+            const mainContent = document.getElementById('main-content');
+            mainContent.innerHTML = '';
+
+            if (!keyword) {
+                mainContent.innerHTML = `<p>Type a keyword to see matching lines or click a transcript date to view its full content.</p>`;
+                return;
+            }
+
+            // Get date filters if they exist
+            const fromYear = document.getElementById('year-from')?.value || '';
+            const toYear = document.getElementById('year-to')?.value || '';
+
+            // Filter transcripts by date range if filters are set
+            let filteredTranscripts = [...transcripts];
+            if (fromYear || toYear) {
+                filteredTranscripts = filteredTranscripts.filter(transcript => {
+                    const year = extractYearFromTitle(transcript.title);
+                    if (!year) return false;
+
+                    if (fromYear && year < parseInt(fromYear)) return false;
+                    if (toYear && year > parseInt(toYear)) return false;
+                    return true;
+                });
+            }
+
+            // Create a copy of transcripts that we can sort
+            const sortedTranscripts = [...filteredTranscripts].sort((a, b) => {
+                // Extract year from title (e.g., "29 July 2023" -> 2023)
+                const yearA = extractYearFromTitle(a.title) || 9999;
+                const yearB = extractYearFromTitle(b.title) || 9999;
+
+                // Sort by year (ascending)
+                if (yearA !== yearB) {
+                    return yearA - yearB;
+                }
+
+                // If years are the same, sort by month/day
+                return parseDateFromTitle(a.title) - parseDateFromTitle(b.title);
+            });
+
+            let totalMatches = 0;
+            sortedTranscripts.forEach(transcript => {
+                const snippetLines = getSnippetLines(transcript.content, keyword);
+                if (snippetLines.length > 0) {
+                    totalMatches += snippetLines.length;
+
+                    // Build a snippet card using Bootstrap card component.
+                    const cardDiv = document.createElement('div');
+                    cardDiv.classList.add('card', 'mb-3', 'snippet-card');
+
+                    const cardHeader = document.createElement('div');
+                    cardHeader.classList.add('card-header', 'snippet-card-header');
+                    cardHeader.textContent = transcript.title;
+                    cardHeader.addEventListener('click', () => {
+                        showFullTranscript(transcript, keyword);
+                    });
+                    cardDiv.appendChild(cardHeader);
+
+                    snippetLines.forEach(lineHTML => {
+                        const cardBody = document.createElement('div');
+                        cardBody.classList.add('card-body', 'snippet-line');
+                        cardBody.innerHTML = lineHTML;
+                        cardDiv.appendChild(cardBody);
+                    });
+
+                    mainContent.appendChild(cardDiv);
+                }
+            });
+
+            if (totalMatches === 0) {
+                mainContent.innerHTML = `<p>No matches found for "${keyword}"${fromYear || toYear ? " with the selected date range" : ""}.</p>`;
+            } else {
+                // Add a result summary at the top with theme-aware styling
+                const resultSummary = document.createElement('div');
+                resultSummary.classList.add('alert', 'alert-info', 'mb-3');
+
+                // Apply current theme styling
+                const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+                if (currentTheme === 'gray') {
+                    resultSummary.style.backgroundColor = 'rgba(96, 125, 139, 0.15)';
+                    resultSummary.style.borderColor = 'rgba(96, 125, 139, 0.4)';
+                    resultSummary.style.color = 'var(--text-primary)';
+                    resultSummary.style.borderLeft = '4px solid var(--accent-color)';
+                }
+
+                resultSummary.innerHTML = `
+        <strong>${totalMatches}</strong> results found for "${keyword}"
+        ${(fromYear || toYear) ? ` (filtered by year: ${fromYear ? 'from ' + fromYear : ''}${toYear ? ' to ' + toYear : ''})` : ''}.
+    `;
+                mainContent.insertBefore(resultSummary, mainContent.firstChild);
+            }
+        }
+
+        // Helper function to extract year from transcript title
+        function extractYearFromTitle(title) {
+            const yearMatch = title.match(/\b(\d{4})\b$/);
+            return yearMatch ? parseInt(yearMatch[1], 10) : null;
+        }
+
+        /*******************************************************
+         * 5) Parse date from transcript title for sorting (month/day).
+         *******************************************************/
+        const monthMap = {
+            january: 1,
+            february: 2,
+            march: 3,
+            april: 4,
+            may: 5,
+            june: 6,
+            july: 7,
+            august: 8,
+            september: 9,
+            october: 10,
+            november: 11,
+            december: 12
+        };
+
+        function parseDateFromTitle(title) {
+            // e.g. "29 July 2023"
+            const parts = title.trim().split(/\s+/);
+            let day = 1;
+            let monthNum = 1;
+            if (parts.length >= 3) {
+                const possibleDay = parseInt(parts[0], 10);
+                if (!isNaN(possibleDay)) {
+                    day = possibleDay;
+                }
+                const possibleMonth = parts[1].toLowerCase();
+                if (monthMap[possibleMonth]) {
+                    monthNum = monthMap[possibleMonth];
+                }
+            }
+            return monthNum * 100 + day;
+        }
+
+        /*******************************************************
+         * 6) Build a Bootstrap Accordion for years.
+         *******************************************************/
+        function buildYearAccordion(groupedByYear, transcripts) {
+            const accordionContainer = document.getElementById('yearAccordion');
+            accordionContainer.innerHTML = '';
+
+            // Create a parent accordion item for all years
+            const yearParentItem = document.createElement('div');
+            yearParentItem.classList.add('accordion-item');
+
+            // Create parent header
+            const yearParentHeader = document.createElement('h2');
+            yearParentHeader.classList.add('accordion-header');
+            yearParentHeader.id = 'headingYears';
+
+            const yearParentButton = document.createElement('button');
+            yearParentButton.classList.add('accordion-button');  // Not collapsed by default
+            yearParentButton.type = 'button';
+            yearParentButton.setAttribute('data-bs-toggle', 'collapse');
+            yearParentButton.setAttribute('data-bs-target', '#collapseYears');
+            yearParentButton.setAttribute('aria-expanded', 'true');
+            yearParentButton.setAttribute('aria-controls', 'collapseYears');
+            yearParentButton.innerHTML = '<strong>Browse by Year</strong>';
+
+            yearParentHeader.appendChild(yearParentButton);
+            yearParentItem.appendChild(yearParentHeader);
+
+            // Create parent collapse container
+            const yearParentCollapse = document.createElement('div');
+            yearParentCollapse.id = 'collapseYears';
+            yearParentCollapse.classList.add('accordion-collapse', 'collapse', 'show');
+            yearParentCollapse.setAttribute('aria-labelledby', 'headingYears');
+
+            const yearParentBody = document.createElement('div');
+            yearParentBody.classList.add('accordion-body', 'p-2');
+
+            // Create a nested accordion for the years
+            const yearsNestedAccordion = document.createElement('div');
+            yearsNestedAccordion.classList.add('accordion');
+            yearsNestedAccordion.id = 'yearsNestedAccordion';
+
+            // Sort years in ascending order (oldest first)
+            const sortedYears = Object.keys(groupedByYear).sort((a, b) => {
+                if (a === 'Unknown') return 1;
+                if (b === 'Unknown') return -1;
+                return parseInt(a) - parseInt(b);
+            });
+
+            sortedYears.forEach((year, index) => {
+                // Unique IDs for accordion items.
+                const collapseId = `collapseYear${year}`;
+                const headingId = `headingYear${year}`;
+
+                // Accordion item.
+                const accordionItem = document.createElement('div');
+                accordionItem.classList.add('accordion-item');
+
+                // Accordion header.
+                const header = document.createElement('h2');
+                header.classList.add('accordion-header');
+                header.id = headingId;
+
+                const button = document.createElement('button');
+                button.classList.add('accordion-button', 'collapsed');
+                button.type = 'button';
+                button.setAttribute('data-bs-toggle', 'collapse');
+                button.setAttribute('data-bs-target', `#${collapseId}`);
+                button.setAttribute('aria-expanded', 'false');
+                button.setAttribute('aria-controls', collapseId);
+                button.textContent = year;
+
+                header.appendChild(button);
+                accordionItem.appendChild(header);
+
+                // Accordion collapse (body).
+                const collapseDiv = document.createElement('div');
+                collapseDiv.id = collapseId;
+                collapseDiv.classList.add('accordion-collapse', 'collapse');
+                collapseDiv.setAttribute('aria-labelledby', headingId);
+                collapseDiv.setAttribute('data-bs-parent', '#yearsNestedAccordion');
+
+                const bodyDiv = document.createElement('div');
+                bodyDiv.classList.add('accordion-body');
+
+                const ul = document.createElement('ul');
+                ul.classList.add('list-unstyled');
+
+                // Sort transcripts for this year by month/day (ascending)
+                const transcriptsForYear = groupedByYear[year];
+                transcriptsForYear.sort((a, b) => parseDateFromTitle(a.title) - parseDateFromTitle(b.title));
+
+                transcriptsForYear.forEach(t => {
+                    const li = document.createElement('li');
+                    li.classList.add('text-primary', 'fw-semibold', 'mb-1');
+                    li.style.cursor = 'pointer';
+                    li.textContent = t.title;
+                    li.addEventListener('click', () => {
+                        showFullTranscript(t, currentSearchTerm);
+                    });
+                    ul.appendChild(li);
+                });
+
+                bodyDiv.appendChild(ul);
+                collapseDiv.appendChild(bodyDiv);
+                accordionItem.appendChild(collapseDiv);
+                yearsNestedAccordion.appendChild(accordionItem);
+            });
+
+            // Add the nested years accordion to the parent
+            yearParentBody.appendChild(yearsNestedAccordion);
+            yearParentCollapse.appendChild(yearParentBody);
+            yearParentItem.appendChild(yearParentCollapse);
+
+            // Add the parent item to the main accordion container
+            accordionContainer.appendChild(yearParentItem);
+        }
+
+        /*******************************************************
+        * 7) Build Topic-based Accordions 
+        *******************************************************/
+        function buildTopicAccordions(transcripts) {
+            // Define the two topic categories
+            const mainTopics = [
+                "Afterlife & Soul Topics",
+                "Cosmic Structure & Densities",
+                "Earth Changes & Environmental Events",
+                "Health, Diet, and Supplements",
+                "Control System & Sociopolitical Manipulation",
+                "Esoteric Work & Personal Development",
+                "Books, Research, and Cultural Commentary",
+                "Notable Warnings or Predictions"
+            ];
+
+            const addOnTopics = [
+                "Technology and Artificial Intelligence",
+                "Contact and Alien Interactions",
+                "Spiritual Practices & Ritual",
+                "Genetics and Ancestry",
+                "Religious and Historical Preservation",
+                "Historical Insights",
+                "Political Power Structures",
+                "Environmental & Industrial Events"
+            ];
+
+            // Create container for topic accordions (after the year accordion)
+            const topicContainer = document.createElement('div');
+            topicContainer.classList.add('mt-4');
+
+            // Create the main topics accordion
+            const mainTopicsAccordion = createTopicAccordion(transcripts, mainTopics, "mainTopics", "Main Topics");
+            topicContainer.appendChild(mainTopicsAccordion);
+
+            // Create the add-on topics accordion
+            const addOnTopicsAccordion = createTopicAccordion(transcripts, addOnTopics, "addOnTopics", "Optional Topics");
+            topicContainer.appendChild(addOnTopicsAccordion);
+
+            // Add to the sidebar after year accordion
+            document.getElementById('yearAccordion').after(topicContainer);
+        }
+
+        function createTopicAccordion(transcripts, topics, accordionId, accordionTitle) {
+            // Create accordion container
+            const accordion = document.createElement('div');
+            accordion.classList.add('accordion', 'mt-3');
+            accordion.id = accordionId;
+
+            // Create accordion header/title
+            const titleItem = document.createElement('div');
+            titleItem.classList.add('accordion-item');
+
+            const titleHeader = document.createElement('h2');
+            titleHeader.classList.add('accordion-header');
+            titleHeader.id = `heading-${accordionId}`;
+
+            const titleButton = document.createElement('button');
+            titleButton.classList.add('accordion-button', 'collapsed');
+            titleButton.type = 'button';
+            titleButton.setAttribute('data-bs-toggle', 'collapse');
+            titleButton.setAttribute('data-bs-target', `#collapse-${accordionId}`);
+            titleButton.setAttribute('aria-expanded', 'false');
+            titleButton.setAttribute('aria-controls', `collapse-${accordionId}`);
+            titleButton.innerHTML = `<strong>${accordionTitle}</strong>`;
+
+            titleHeader.appendChild(titleButton);
+            titleItem.appendChild(titleHeader);
+            accordion.appendChild(titleItem);
+
+            // Create accordion body
+            const collapseDiv = document.createElement('div');
+            collapseDiv.id = `collapse-${accordionId}`;
+            collapseDiv.classList.add('accordion-collapse', 'collapse');
+            collapseDiv.setAttribute('aria-labelledby', `heading-${accordionId}`);
+
+            const bodyDiv = document.createElement('div');
+            bodyDiv.classList.add('accordion-body', 'p-0');
+
+            // Add each topic as a list item
+            topics.forEach(topic => {
+                const li = document.createElement('li');
+                li.classList.add('list-group-item', 'list-group-item-action', 'py-2');
+                li.style.cursor = 'pointer';
+                li.textContent = topic;
+
+                // When clicked, show all transcripts containing this topic
+                li.addEventListener('click', () => {
+                    showTopicTranscripts(transcripts, topic);
+                });
+
+                bodyDiv.appendChild(li);
+            });
+
+            collapseDiv.appendChild(bodyDiv);
+            accordion.appendChild(collapseDiv);
+
+            return accordion;
+        }
+
+        // Modified showTopicTranscripts function to include year filter
+        function showTopicTranscripts(transcripts, topic) {
+            const mainContent = document.getElementById('main-content');
+            mainContent.innerHTML = '';
+
+            // Add a heading for the topic
+            const heading = document.createElement('h2');
+            heading.textContent = topic;
+            heading.classList.add('mb-4', 'border-bottom', 'pb-2');
+            mainContent.appendChild(heading);
+
+            // Find all transcripts that contain this topic
+            const matchingTranscripts = transcripts.filter(t =>
+                t.content.includes(`## ${topic}`) ||
+                t.content.includes(`\n${topic}\n`)
+            );
+
+            if (matchingTranscripts.length === 0) {
+                const noResults = document.createElement('p');
+                noResults.textContent = 'No transcripts found for this topic.';
+                mainContent.appendChild(noResults);
+                return;
+            }
+
+            // Extract all available years from the matching transcripts
+            const availableYears = [...new Set(matchingTranscripts
+                .map(t => extractYearFromTitle(t.title))
+                .filter(year => year !== null)
+            )].sort();
+
+            // Add year filter controls
+            addTopicYearFilter(mainContent, availableYears, topic, matchingTranscripts);
+
+            // Initial display of all matching transcripts (no filter)
+            filterAndDisplayTranscripts(topic, matchingTranscripts, '', '');
+        }
+
+        // Filter and display transcripts by year
+        function filterAndDisplayTranscripts(topic, allTranscripts, fromYear, toYear) {
+            const mainContent = document.getElementById('main-content');
+
+            // Keep the heading and filter area, remove all cards
+            const heading = mainContent.querySelector('h2');
+            const filterContainer = mainContent.querySelector('.search-filters');
+
+            // Clear all content after the filter container
+            let nextElement = filterContainer.nextElementSibling;
+            while (nextElement) {
+                const elementToRemove = nextElement;
+                nextElement = nextElement.nextElementSibling;
+                mainContent.removeChild(elementToRemove);
+            }
+
+            // Filter transcripts by year if needed
+            let filteredTranscripts = [...allTranscripts];
+            if (fromYear || toYear) {
+                filteredTranscripts = filteredTranscripts.filter(transcript => {
+                    const year = extractYearFromTitle(transcript.title);
+                    if (!year) return false;
+
+                    if (fromYear && year < parseInt(fromYear)) return false;
+                    if (toYear && year > parseInt(toYear)) return false;
+                    return true;
+                });
+            }
+
+            // Sort by year (oldest first)
+            filteredTranscripts.sort((a, b) => {
+                const yearA = extractYearFromTitle(a.title) || 9999;
+                const yearB = extractYearFromTitle(b.title) || 9999;
+                if (yearA !== yearB) return yearA - yearB;
+                return parseDateFromTitle(a.title) - parseDateFromTitle(b.title);
+            });
+
+            if (filteredTranscripts.length === 0) {
+                const noResults = document.createElement('p');
+                noResults.textContent = `No transcripts found for "${topic}" ${fromYear || toYear ?
+                    `in the selected year range ${fromYear ? 'from ' + fromYear : ''}${toYear ? ' to ' + toYear : ''}` : ''}.`;
+                mainContent.appendChild(noResults);
+                return;
+            }
+
+            // Add a result count summary
+            const resultSummary = document.createElement('div');
+            resultSummary.classList.add('alert', 'alert-info', 'mb-3');
+
+            // Apply theme-specific styling
+            const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+            if (currentTheme === 'gray') {
+                resultSummary.style.backgroundColor = 'rgba(96, 125, 139, 0.15)';
+                resultSummary.style.borderColor = 'rgba(96, 125, 139, 0.4)';
+                resultSummary.style.color = 'var(--text-primary)';
+                resultSummary.style.borderLeft = '4px solid var(--accent-color)';
+            }
+
+            resultSummary.innerHTML = `
+<strong>${filteredTranscripts.length}</strong> transcripts found for "${topic}"
+${(fromYear || toYear) ? ` (filtered by year: ${fromYear ? 'from ' + fromYear : ''}${toYear ? ' to ' + toYear : ''})` : ''}.
+`;
+            mainContent.appendChild(resultSummary);
+
+            // Display filtered transcript cards
+            filteredTranscripts.forEach(transcript => {
+                const card = document.createElement('div');
+                card.classList.add('card', 'mb-3');
+
+                const cardHeader = document.createElement('div');
+                cardHeader.classList.add('card-header', 'bg-light');
+                cardHeader.innerHTML = `<strong>${transcript.title}</strong>`;
+                cardHeader.style.cursor = 'pointer';
+                cardHeader.addEventListener('click', () => {
+                    showFullTranscript(transcript, '');
+                });
+
+                const cardBody = document.createElement('div');
+                cardBody.classList.add('card-body');
+
+                const content = extractTopicSection(transcript.content, topic);
+                cardBody.innerHTML = marked.parse(content);
+
+                card.appendChild(cardHeader);
+                card.appendChild(cardBody);
+                mainContent.appendChild(card);
+            });
+        }
+
+        // Function to extract just the section for a specific topic from a transcript
+        function extractTopicSection(content, topic) {
+            const lines = content.split('\n');
+            let extracting = false;
+            let extractedContent = [];
+            let nextSectionFound = false;
+
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i];
+
+                // Start extracting when we find the topic heading
+                if (line.includes(`## ${topic}`) || line === topic) {
+                    extracting = true;
+                    extractedContent.push(line);
+                    continue;
+                }
+
+                // Stop extracting when we hit the next major heading (starts with ##)
+                if (extracting && line.startsWith('##') && !line.includes(topic)) {
+                    break;
+                }
+
+                // Add line if we're in extraction mode
+                if (extracting) {
+                    extractedContent.push(line);
+                }
+            }
+
+            return extractedContent.join('\n');
+        }
+
+        // Reset page to default view when clicking the site title
+        function setupSiteTitleHandler() {
+            document.getElementById('site-title').addEventListener('click', function (e) {
+                e.preventDefault();
+                const mainContent = document.getElementById('main-content');
+                const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+                const bgClass = currentTheme === 'dark' ? 'bg-dark' : 'bg-white';
+                const cardBgClass = currentTheme === 'dark' ? 'bg-dark' : 'bg-light';
+
+                mainContent.innerHTML = `
+<div class="welcome-container ${bgClass} rounded shadow-sm">
+    <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Archive</h2>
+    
+    <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from 2019 through 2025. 
+      The sessions cover topics including metaphysics, earth changes, geopolitical analysis, health information, and more.</p>
+    
+    <div class="card mb-4 border-0 ${cardBgClass}">
+        <div class="card-body">
+            <h3 class="h4 mb-3 text-primary">To explore the archive:</h3>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item ${cardBgClass}"><i class="fas fa-search me-2"></i> Use the search box to find specific topics across all transcripts</li>
+                <li class="list-group-item ${cardBgClass}"><i class="fas fa-filter me-2"></i> Filter search results by year range</li>
+                <li class="list-group-item ${cardBgClass}"><i class="fas fa-calendar-alt me-2"></i> Browse sessions chronologically by year in the sidebar</li>
+                <li class="list-group-item ${cardBgClass}"><i class="fas fa-list-ul me-2"></i> Navigate by topic categories in the sidebar</li>
+                <li class="list-group-item ${cardBgClass}"><i class="fas fa-file-alt me-2"></i> Click any session date to view its complete summary</li>
+                <li class="list-group-item ${cardBgClass}"><i class="fas fa-adjust me-2"></i> Switch between Light, Gray, and Dark themes using the buttons in the header</li>
+            </ul>
+        </div>
+    </div>
+    
+    <p>The contents are organized chronologically with each transcript containing consistent sections for different topics discussed during the sessions.</p>
+    
+    <div class="alert alert-info mt-4">
+        <p class="mb-2"><strong><i class="fas fa-info-circle me-2"></i>Project Development:</strong> I am currently working on this project to make it better. You can share your feedback under 
+          <a href="https://cassiopaea.org/forum/threads/summary-of-cassiopaean-transcripts.55693/" target="_blank" class="alert-link">
+          this forum thread</a>.</p>
+        <p class="mb-0"><strong><i class="fas fa-code-branch me-2"></i>Contribute:</strong> If you would like to contribute to the project, the source code is available 
+          <a href="https://github.com/OmerYilmazlar/Cassiopaean-Transcripts-Summaries" target="_blank" class="alert-link">on GitHub</a> 
+          and you can fork the project freely.</p>
+    </div>
+</div>
+        `;
+
+                // Clear search input if there's any
+                document.getElementById('search-input').value = '';
+                currentSearchTerm = '';
+            });
+        }
+
+        /*******************************************************
+         * MAIN SCRIPT - Initialize everything on page load
+         *******************************************************/
+        document.addEventListener('DOMContentLoaded', function () {
+            // Initialize theme toggle
+            initThemeToggle();
+
+            // Set up site title click handler
+            setupSiteTitleHandler();
+
+            // Load transcript data
+            fetch('transcripts.json')
+                .then(res => res.json())
+                .then(transcripts => {
+                    // Store transcripts globally
+                    allTranscripts = transcripts;
+
+                    // Group transcripts by year (parse year from title)
+                    const groupedByYear = {};
+                    transcripts.forEach(t => {
+                        const yearMatch = t.title.match(/\b(\d{4})\b$/);
+                        let year = 'Unknown';
+                        if (yearMatch) {
+                            year = yearMatch[1];
+                        }
+                        if (!groupedByYear[year]) {
+                            groupedByYear[year] = [];
+                        }
+                        groupedByYear[year].push(t);
+                    });
+
+                    // Get unique years for filters
+                    const availableYears = Object.keys(groupedByYear)
+                        .filter(year => year !== 'Unknown')
+                        .sort();
+
+                    // Add search filters
+                    addSearchFilters(availableYears);
+
+                    // Build the Bootstrap Accordion for years
+                    buildYearAccordion(groupedByYear, transcripts);
+
+                    // Build the topic-based accordions
+                    buildTopicAccordions(transcripts);
+
+                    // Handle search input
+                    const searchInput = document.getElementById('search-input');
+                    searchInput.addEventListener('input', function () {
+                        currentSearchTerm = this.value.trim();
+                        handleSearch(transcripts, currentSearchTerm);
+                    });
+                })
+                .catch(err => {
+                    console.error('Error loading transcripts:', err);
+                    document.getElementById('main-content').innerHTML =
+                        `<p class="text-danger">Failed to load transcripts.json</p>`;
+                });
+        });
+    </script>
+</body>
+
+</html>
