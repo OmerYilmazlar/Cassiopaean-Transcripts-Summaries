@@ -580,6 +580,9 @@
                     </span>
                     <input type="text" class="form-control" placeholder="Search transcripts..." id="search-input"
                         aria-label="Search transcripts" aria-describedby="search-icon" />
+                    <button class="btn btn-primary" type="button" id="search-button">
+                        Search
+                    </button>
                 </div>
                 <!-- Accordion for years -->
                 <div class="accordion" id="yearAccordion"></div>
@@ -590,7 +593,7 @@
                     <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Archive</h2>
 
                     <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from
-                        2019 through 2025.
+                        2001 through 2025.
                         The sessions cover topics including metaphysics, earth changes, geopolitical analysis, health
                         information, and more.</p>
 
@@ -980,17 +983,71 @@
         /*******************************************************
          * 2) Return snippet lines that contain the search term.
          *******************************************************/
+        // Update the getSnippetLines function to improve the context extraction and fix highlighting
         function getSnippetLines(rawMarkdown, searchTerm) {
             const lines = rawMarkdown.split('\n');
-            return lines
-                .filter(line => line.toLowerCase().includes(searchTerm.toLowerCase()))
-                .map(line => {
-                    let lineHTML = marked.parse(line);
-                    return lineHTML.replace(
-                        new RegExp(searchTerm, 'gi'),
-                        match => `<mark>${match}</mark>`
-                    );
-                });
+            const results = [];
+            // Escape special regex characters in the search term
+            const escapeRegExp = (string) => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const searchPattern = escapeRegExp(searchTerm);
+            const searchRegex = new RegExp(searchPattern, 'i');
+        
+            // Look for matching lines and add context
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i];
+        
+                // If this line contains the search term, include it
+                if (searchRegex.test(line)) {
+                    // Don't add duplicate headers - check if we already included this line
+                    if (!results.includes(line)) {
+                        // Special handling for headings
+                        if (line.startsWith('#')) {
+                            // For headers, peek ahead to get some content beneath the header
+                            results.push(line);
+        
+                            // Look ahead for content lines (limited to 5 content lines max)
+                            let contentLinesAdded = 0;
+                            let j = i + 1;
+                            while (j < lines.length && contentLinesAdded < 5) {
+                                // Stop if we hit another header
+                                if (lines[j].startsWith('#')) break;
+        
+                                // Add content line if it's not empty
+                                if (lines[j].trim() !== '') {
+                                    results.push(lines[j]);
+                                    contentLinesAdded++;
+                                }
+                                j++;
+                            }
+                        } else {
+                            // For regular content, look for surrounding context
+                            // Add previous line for context if it's not a header and not empty
+                            if (i > 0 && !lines[i - 1].startsWith('#') && lines[i - 1].trim() !== '') {
+                                results.push(lines[i - 1]);
+                            }
+        
+                            // Add the current line with the search term
+                            results.push(line);
+        
+                            // Add next line for context if it exists and not a header
+                            if (i < lines.length - 1 && !lines[i + 1].startsWith('#') && lines[i + 1].trim() !== '') {
+                                results.push(lines[i + 1]);
+                            }
+                        }
+                    }
+                }
+            }
+        
+            // Convert the results to HTML with highlighted search terms
+            return results.map(line => {
+                let lineHTML = marked.parse(line);
+                // Ensure proper highlighting without unwanted spaces
+                const highlightRegex = new RegExp(`(${searchPattern})`, 'gi');
+                return lineHTML.replace(
+                    highlightRegex,
+                    match => `<mark>${match}</mark>`
+                );
+            });
         }
 
         /*******************************************************
@@ -1540,7 +1597,7 @@ ${(fromYear || toYear) ? ` (filtered by year: ${fromYear ? 'from ' + fromYear : 
 <div class="welcome-container ${bgClass} rounded shadow-sm">
     <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Archive</h2>
     
-    <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from 2019 through 2025. 
+    <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from 2001 through 2025. 
       The sessions cover topics including metaphysics, earth changes, geopolitical analysis, health information, and more.</p>
     
     <div class="card mb-4 border-0 ${cardBgClass}">
@@ -1621,11 +1678,22 @@ ${(fromYear || toYear) ? ` (filtered by year: ${fromYear ? 'from ' + fromYear : 
                     // Build the topic-based accordions
                     buildTopicAccordions(transcripts);
 
-                    // Handle search input
+                    // Handle search input with button click instead of input event
                     const searchInput = document.getElementById('search-input');
-                    searchInput.addEventListener('input', function () {
-                        currentSearchTerm = this.value.trim();
+                    const searchButton = document.getElementById('search-button');
+
+                    // Add click event listener to search button
+                    searchButton.addEventListener('click', function () {
+                        currentSearchTerm = searchInput.value.trim();
                         handleSearch(transcripts, currentSearchTerm);
+                    });
+
+                    // Also allow pressing Enter key to search
+                    searchInput.addEventListener('keyup', function (event) {
+                        if (event.key === 'Enter') {
+                            currentSearchTerm = searchInput.value.trim();
+                            handleSearch(transcripts, currentSearchTerm);
+                        }
                     });
                 })
                 .catch(err => {

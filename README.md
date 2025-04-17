@@ -39,7 +39,7 @@ This project offers an accessible, modern interface for exploring and studying t
 - **Font Awesome** for icons
 
 ## 📁 Project Structure
-
+```
 ├── index.html               # Main HTML file with embedded styles and scripts
 ├── README.md                # Documentation
 ├── fixMarkdownSeparators.js # Script to fix markdown formatting in transcripts
@@ -47,7 +47,7 @@ This project offers an accessible, modern interface for exploring and studying t
 ├── transcripts_fixed.json   # Processed transcript data
 ├── transcripts.json         # Final transcript data used by the site
 └── /transcripts             # Directory containing raw transcript content
-
+```
 ## 💡 Future Ideas
 
 - **Content expansion:** Add the remaining transcripts from 1994
