@@ -3,6 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>Cassiopaean Transcript Summaries</title>
 
     <!-- Bootstrap 5 CSS -->
@@ -590,7 +593,7 @@
             <!-- MAIN CONTENT AREA -->
             <div class="col-9 p-3 overflow-auto" id="main-content">
                 <div class="welcome-container ${bgClass} rounded shadow-sm">
-                    <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Archive</h2>
+                    <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Summaries</h2>
 
                     <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from
                         2001 through 2025.
@@ -991,11 +994,11 @@
             const escapeRegExp = (string) => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
             const searchPattern = escapeRegExp(searchTerm);
             const searchRegex = new RegExp(searchPattern, 'i');
-        
+
             // Look for matching lines and add context
             for (let i = 0; i < lines.length; i++) {
                 const line = lines[i];
-        
+
                 // If this line contains the search term, include it
                 if (searchRegex.test(line)) {
                     // Don't add duplicate headers - check if we already included this line
@@ -1004,14 +1007,14 @@
                         if (line.startsWith('#')) {
                             // For headers, peek ahead to get some content beneath the header
                             results.push(line);
-        
+
                             // Look ahead for content lines (limited to 5 content lines max)
                             let contentLinesAdded = 0;
                             let j = i + 1;
                             while (j < lines.length && contentLinesAdded < 5) {
                                 // Stop if we hit another header
                                 if (lines[j].startsWith('#')) break;
-        
+
                                 // Add content line if it's not empty
                                 if (lines[j].trim() !== '') {
                                     results.push(lines[j]);
@@ -1025,10 +1028,10 @@
                             if (i > 0 && !lines[i - 1].startsWith('#') && lines[i - 1].trim() !== '') {
                                 results.push(lines[i - 1]);
                             }
-        
+
                             // Add the current line with the search term
                             results.push(line);
-        
+
                             // Add next line for context if it exists and not a header
                             if (i < lines.length - 1 && !lines[i + 1].startsWith('#') && lines[i + 1].trim() !== '') {
                                 results.push(lines[i + 1]);
@@ -1037,7 +1040,7 @@
                     }
                 }
             }
-        
+
             // Convert the results to HTML with highlighted search terms
             return results.map(line => {
                 let lineHTML = marked.parse(line);
@@ -1643,8 +1646,8 @@ ${(fromYear || toYear) ? ` (filtered by year: ${fromYear ? 'from ' + fromYear : 
             // Set up site title click handler
             setupSiteTitleHandler();
 
-            // Load transcript data
-            fetch('transcripts.json')
+            // Load transcript data with cache-busting
+            fetch('transcripts.json?v=' + new Date().getTime())
                 .then(res => res.json())
                 .then(transcripts => {
                     // Store transcripts globally

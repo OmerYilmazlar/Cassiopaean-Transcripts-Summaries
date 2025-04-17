@@ -151,7 +151,8 @@ const NO_INFO_PHRASES = [
     "No specific content under this category in this session",
     "(No content in this category for this session.)",
     "None explicitly mentioned in this session",
-    "No specific discussion under this category in this session"
+    "No specific discussion under this category in this session",
+    "No direct statements"
 ];
 
 // Regular expression to match Markdown header lines (e.g., "## Header Name")
