@@ -3,6 +3,9 @@ import re
 import json
 from pathlib import Path
 
+# Change working directory to the project root
+os.chdir(Path(__file__).parent.parent)
+
 INPUT_FOLDER  = "transcripts"
 OUTPUT_FOLDER = "transcripts"
 JSON_OUTPUT   = "transcripts.json"
