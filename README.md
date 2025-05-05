@@ -42,11 +42,13 @@ This project offers an accessible, modern interface for exploring and studying t
 ```
 ├── index.html               # Main HTML file with embedded styles and scripts
 ├── README.md                # Documentation
-├── fixMarkdownSeparators.js # Script to fix markdown formatting in transcripts
-├── generate-json.js         # Script to generate JSON from transcript files
-├── transcripts_fixed.json   # Processed transcript data
-├── transcripts.json         # Final transcript data used by the site
-└── /transcripts             # Directory containing raw transcript content
+├── transcripts.json         # Transcript data used by the site
+├── /transcripts             # Directory containing markdown transcript files (2001-2025)
+│   ├── 19 March 2001.md     # Individual transcript files in markdown format
+│   ├── 29 November 2001.md
+│   └── ... (hundreds of transcript files)
+├── /images                  # Optional: Image files referenced in transcripts
+└── /favicon                 # Favicon files for the website
 ```
 ## 💡 Future Ideas
 
