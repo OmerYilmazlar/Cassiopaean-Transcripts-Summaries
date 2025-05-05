@@ -16,7 +16,6 @@
 
 ## Afterlife & Soul Topics
 
-- "Strands" of **DNA** referenced in a cosmo-spiritual context:
     - Laura: 32
     - Arielle: 26
     - Andromeda: 30
@@ -48,11 +47,8 @@
 ## Health, Diet, and Supplements
 
 - Effects of **iodine**:
-    - Symbolic dreams of flying and consciousness expansion are related to iodine intake.
     - Joe advised to resume iodine intake cautiously—one drop every other day, possibly applied to skin.
 - Heavy metal toxicity findings:
-    - **Uranium** in Galatea and Athena: childhood exposure via nefarious substances in an alley.
-    - High **strontium** levels in Andromeda, Chu, and Joe: not harmful; considered beneficial.
     - **Nickel** from car exhaust and industrial chemicals, not cooking pots.
     - **Cadmium** and **cesium** from smoking are easily detoxed.
     - **Arsenic**:
@@ -74,7 +70,6 @@
 
 ## Esoteric Work & Personal Development
 
-- **Ark's** dream of elevator going through the roof: symbolic of consciousness expansion and elevated ideas.
 - **Galatea's** dream of flying into outer space: also linked to the effects of iodine on consciousness.
 - Galatea's seeing flashes of light in the dark: attributed to phosphenes in the brain.
 - **EM "recording"** phenomena experienced at the Farm, likely due to flowing water under the location.
@@ -84,7 +79,6 @@
 ## Books, Research, and Cultural Commentary
 
 - "**Black-eyed children**" story: identified as a hoax.
-- Ocean's **UFO** sighting in Oman (cylindrical object): confirmed as an actual craft.
     - Two Asian-looking men witnessed: part of the "away team".
 
 ---
@@ -98,7 +92,6 @@
     - Injuries and missing tongue: results of improper transfer and specimen collection.
     - **Potassium-40** and physiological oddities: "transfer process leak" and failure.
     - Fireballs observed: probing portals.
-- These amateur experiments are not uncommon and often have unintended consequences.
 - Incompetent science in our reality can have similar destructive effects in others, including nuclear experiments.
 
 ---
@@ -131,4 +124,3 @@
 
 ---
 
-## End of Session

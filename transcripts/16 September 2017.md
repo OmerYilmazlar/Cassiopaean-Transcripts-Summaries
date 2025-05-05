@@ -14,12 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No content under this category in this session.
-
----
-
 ## Cosmic Structure & Densities
 
 - Tales of gods fighting in the sky and the castration of **Chronos** relate to a cosmic event involving **Mars** temporarily being much closer to Earth.
@@ -66,7 +60,6 @@
 
 - **Mirrors** can be used for communication if a tuned receiver exists
 - Mirrors can be **charged** for such purposes, referencing Don Juan from Castaneda
-- **Water** can also be used similarly as a medium for communication
 
 ---
 
@@ -83,33 +76,9 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- No content under this category in this session.
-
----
-
-## Contact and Alien Interactions
-
-- No content under this category in this session.
-
----
-
 ## Spiritual Practices & Ritual
 
 - Use of charged **mirrors** and **water** aligns with spiritual or shamanic practices
-
----
-
-## Genetics and Ancestry
-
-- No content under this category in this session.
-
----
-
-## Religious and Historical Preservation
-
-- No content under this category in this session.
 
 ---
 
@@ -135,4 +104,3 @@
 
 ---
 
-## End of Session

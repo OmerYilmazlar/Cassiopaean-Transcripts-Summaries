@@ -27,7 +27,6 @@
 ## Cosmic Structure & Densities
 
 - The idea of "spiritual body" by Paul and his descriptions of transformation were linked to 4D realities.
-- Paul's vision and teachings were influenced by a **hyperdimensional understanding**, referencing 4D-like transitions.
 
 ---
 
@@ -37,12 +36,6 @@
 - "The only question is where the disasters fall and that is partly determined by the observers."
 - Populations with perceptions aligned or orthogonal to objective reality will experience differing outcomes.
 - "**4 months will reveal dramatic change**."
-
----
-
-## Health, Diet, and Supplements
-
-- *(No content relevant to this section.)*
 
 ---
 
@@ -72,9 +65,7 @@
     - The stoning of Stephen did not happen.
     - The "Gabriel Revelation Stone" refers to Simon of Perea being told to rise three days after death.
     - The "Fourth Philosophy" was more a religious revolutionary movement.
-    - Visionary resurrection accounts were likely propaganda tools, though some genuinely believed.
     - Paul saw a **trophaeum with Caesar's image** and initially misidentified it, then reinterpreted it.
-    - Paul's theology avoided focusing on any historical person, emphasizing metaphysical realities.
     - The Roman "Christian" church predates Paul's arrival and was likely Gentile-based, possibly venerating Caesar.
     - Book of Acts is unreliable; assume opposite of its claims.
     - Paul was received warmly in Rome; he died in Spain.
@@ -90,24 +81,6 @@
 - "**4 months will reveal dramatic change**."
 - "Many a slip…"—unexpected outcomes possible.
 - "Nothing… will stop the balancing"; location of disasters depends on observers' alignment.
-
----
-
-## Technology and Artificial Intelligence
-
-- *(No content relevant to this section.)*
-
----
-
-## Contact and Alien Interactions
-
-- *(No content relevant to this section.)*
-
----
-
-## Spiritual Practices & Ritual
-
-- *(No content relevant to this section.)*
 
 ---
 
@@ -137,14 +110,7 @@
 
 - Russia's Putin read Laura's letter; "**letters that Putin receives give him hope**."
 - Russian help will make a difference for the new Greek government.
-- Greece's new leadership seen as hopeful but needing wisdom and help.
 - US political pressure contrasts with European shifts toward autonomy and diplomacy.
-
----
-
-## Environmental & Industrial Events
-
-- *(No content relevant to this section.)*
 
 ---
 

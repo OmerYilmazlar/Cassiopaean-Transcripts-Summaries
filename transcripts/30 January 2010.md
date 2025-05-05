@@ -22,7 +22,6 @@
 
 ## Cosmic Structure & Densities
 
-- Earth's position relative to the sun affects perception of the sun's companion.
 - Gravitational factors in the outer solar system influence approach time.
 - There are unknown bodies in space affecting gravitational dynamics.
 - Anomalies in solar system orbits are due to unknown factors, including **dark matter**.
@@ -50,7 +49,6 @@
 
 ## Health, Diet, and Supplements
 
-- **Spindle cells** (von Economo neurons) function as:
     - Consciousness orientation.
     - Energy directors.
     - Wave readers or homing devices.
@@ -110,12 +108,6 @@
 
 ---
 
-## Contact and Alien Interactions
-
-- **Spindle cells** in the brain act as "wave readers"—relevant to "Wave Reading Consciousness Units" (souled humans).
-
----
-
 ## Spiritual Practices & Ritual
 
 - **EE** (Éiriú Eolas) program and forum activity acknowledged positively.
@@ -123,4 +115,3 @@
 
 ---
 
-## End of Session

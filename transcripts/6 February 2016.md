@@ -14,15 +14,8 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- Soul orientation or absence of same influences both human and alien exploitative behavior.
-
----
-
 ## Cosmic Structure & Densities
 
-- Ether is described as the **interface between information and manifestation**.
 - Gravity "travels" on ether.
 - EM gravity is noted as a key entry point in understanding the information field.
 
@@ -53,11 +46,9 @@
 
 ## Control System & Sociopolitical Manipulation
 
-- Over 10,000 refugee children are missing; most are victims of **human trafficking** (organ harvesting, sexual exploitation), some abducted by aliens.
 - Soul absence is linked to such predatory behavior.
 - Erdogan is deliberately pushing refugees into Europe to manipulate and destabilize it.
 - Terrorists are being inserted through refugee flows.
-- Root cause of refugee crisis is the aggression from **Israeli-American alliance**.
 - Western infiltration (NATO networks) within Turkish structures supports this engineered chaos.
 - A parallel is drawn to Atlantis, where global imperial ambitions led to destruction.
 - Financial motives (money equals energy) drive destructive use of energy, which spirals out of control.
@@ -76,7 +67,6 @@
 - Water can be used to detox the body by speaking intentions.
 - Human body water has been propagandized; fresh water is needed to "reprogram."
 - Water is compared to "**Google search of the universe**."
-- Homeopathy works on an information level.
 
 ---
 
@@ -94,7 +84,6 @@
 - Some predictions from the 1994 list are currently manifesting, notably since January 2016.
 - Not all will occur due to slight **timeline shifts**.
 - Articles and media reports may reflect timeline bleedthrough or mass unconscious perception.
-- Flash-freezing and inversion events could happen again.
 - Magnetic reversal is progressing.
 - Major changes ahead will leave the world **unrecognizable**.
 
@@ -108,15 +97,7 @@
 
 ## Environmental & Industrial Events
 
-- Similarities drawn between ancient Pompeii gas-related animal deaths and current global animal die-offs.
 - Increasing outgassing from Earth is related to cosmic energy influx and internal heating.
 
 ---
 
-## Contact and Alien Interactions
-
-- Some refugee children are abducted by aliens who consume humans as **delicacies**.
-
----
-
-## End of Session

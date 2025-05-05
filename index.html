@@ -6,6 +6,17 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8LMN5RYW29"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8LMN5RYW29');
+    </script>
+
     <title>Cassiopaean Transcript Summaries</title>
 
     <!-- Bootstrap 5 CSS -->
@@ -548,6 +559,14 @@
         [data-theme="dark"] li mark {
             color: white !important;
         }
+
+        /* Ensure all images are responsive and centered */
+        #main-content img {
+            max-width: 500px;
+            height: auto;
+            display: block;
+            margin: 1rem 0;
+        }
     </style>
 </head>
 
@@ -595,10 +614,16 @@
                 <div class="welcome-container ${bgClass} rounded shadow-sm">
                     <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Summaries</h2>
 
-                    <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from
+                    <p class="lead mb-3">This archive contains searchable summaries of the Cassiopaean Sessions from
                         2001 through 2025.
                         The sessions cover topics including metaphysics, earth changes, geopolitical analysis, health
                         information, and more.</p>
+
+                    <p class="lead mb-4"><span style="font-weight: bold;">This summary archive is intended to assist
+                            with referencing and research, </span>
+                        <em>not to replace the experience and deeper understanding gained from reading the complete
+                            transcripts</em>.
+                    </p>
 
                     <div class="card mb-4 border-0 ${cardBgClass}">
                         <div class="card-body">
@@ -1598,10 +1623,15 @@ ${(fromYear || toYear) ? ` (filtered by year: ${fromYear ? 'from ' + fromYear : 
 
                 mainContent.innerHTML = `
 <div class="welcome-container ${bgClass} rounded shadow-sm">
-    <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Archive</h2>
+    <h2 class="display-5 mb-4 border-bottom pb-3">Welcome to the Cassiopaean Transcript Summaries</h2>
     
-    <p class="lead mb-4">This archive contains searchable summaries of the Cassiopaean Sessions from 2001 through 2025. 
-      The sessions cover topics including metaphysics, earth changes, geopolitical analysis, health information, and more.</p>
+    <p class="lead mb-3">This archive contains searchable summaries of the Cassiopaean Sessions from
+        2001 through 2025.
+        The sessions cover topics including metaphysics, earth changes, geopolitical analysis, health
+        information, and more.</p>
+        
+    <p class="lead mb-4"><span style="font-weight: bold;">This summary archive is intended to assist with referencing and research, </span>
+        <em>not to replace the experience and deeper understanding gained from reading the complete transcripts</em>.</p>
     
     <div class="card mb-4 border-0 ${cardBgClass}">
         <div class="card-body">

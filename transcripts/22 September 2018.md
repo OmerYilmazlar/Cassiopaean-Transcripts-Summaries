@@ -29,7 +29,6 @@
 - Intelligent design includes accumulation of physical elements and direct **4D** intervention.
 - **5D** body can replicate infinitely.
 - Thoughts are similar to proteins made by **DNA**, with information transmitted via shape as well as structure.
-- Earth is in a part of space that holds many anomalies and surprises.
 
 ---
 
@@ -73,7 +72,6 @@
 
 ## Esoteric Work & Personal Development
 
-- Suffering promotes learning due to its role in activating **DNA** reprogramming under stress.
 - Devolution occurs when populations avoid hardship, especially during "good times."
 - Free will and internal orientation determine susceptibility to interaction with hyperdimensional phenomena.
 
@@ -82,12 +80,9 @@
 ## Books, Research, and Cultural Commentary
 
 - **Bell Witch** case paralleled **Skinwalker Ranch** and **Mothman** phenomena.
-- The elemental named "**Kate**" gathered power and condensation through attention and naming.
 - It displayed high intelligence, Christian mimicry, and claimed religious devotion while being destructive.
 - As more people became involved, the elemental gained more conduits for energy and information.
-- The phenomenon spread through fascination and energy exchange.
 - Book passages emphasized the failure of science and religion to acknowledge the invisible world.
-- **John Wesley** defended belief in apparitions and the spirit world as fundamental to biblical faith.
 
 ---
 
@@ -95,7 +90,6 @@
 
 - Precursor waves signal further Earth changes or phenomena to come.
 - The story of the **solar observatory** shutdown is "as full of holes as the dimensional barrier."
-- Stay tuned for more anomalies and surprises as Earth moves through an anomalous part of space.
 - Things are "opening up" leading to gas eruptions and infrastructure failures.
 - Ark was closest to opening the window to **Unified Field Theory** in the year 1984.
 
@@ -104,7 +98,6 @@
 ## Technology and Artificial Intelligence
 
 - **Unified Field Theory** question: 5D body replicates infinitely, possibly linking finite and infinite dimension models.
-- **Exceptional Jordan Algebra M38** is a good avenue to explore for geometry of thought.
 - Multiple structures may exist for encoding thoughts, similar to the variety of protein folding structures.
 
 ---
@@ -116,4 +109,3 @@
 
 ---
 
-## End of Session

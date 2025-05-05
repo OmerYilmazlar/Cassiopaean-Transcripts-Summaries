@@ -14,18 +14,11 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No specific content under this heading.
-
----
-
 ## Cosmic Structure & Densities
 
 - The solar system is currently under influences both **external** (e.g., Nemesis) and **internal** (e.g., humanity's state and streams of comet dust).
 - These influences are linked to events like solar "**singing**," earthquakes, and possible space anomalies.
 - Oumuamua's unusual acceleration is likely due to solar system forces similar to those acting on Earth spacecraft (e.g., Pioneer), rather than **alien origin**.
-- These **unknown forces** can affect both natural objects and human-made spacecraft.
 
 ---
 
@@ -66,7 +59,6 @@
 
 ## Books, Research, and Cultural Commentary
 
-- Gregorian chant retains **healing tonal qualities** and sub-tones similar to those used in ancient civilizations.
 - Modern music rarely retains such properties.
 
 ---
@@ -78,24 +70,6 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- No specific content under this heading.
-
----
-
-## Contact and Alien Interactions
-
-- Oumuamua is **not an alien probe** but is affected by unknown forces in the solar system.
-
----
-
-## Spiritual Practices & Ritual
-
-- No specific content under this heading.
-
----
-
 ## Genetics and Ancestry
 
 - Some people thrive in their homeland due to **genetic and environmental compatibility**.
@@ -103,21 +77,9 @@
 
 ---
 
-## Religious and Historical Preservation
-
-- No specific content under this heading.
-
----
-
 ## Historical Insights
 
 - The shot that killed JFK did not come from the road drain but from the **bridge and grassy knoll**.
-
----
-
-## Political Power Structures
-
-- No specific content under this heading.
 
 ---
 
@@ -128,4 +90,3 @@
 
 ---
 
-## End of Session

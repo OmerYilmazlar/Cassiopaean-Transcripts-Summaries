@@ -1,6 +1,6 @@
 # 23 September 2023
 
-## [Summary of 23 September 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-23-september-2023.53808/)
+## Summary of [23 September 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-23-september-2023.53808/)
 
 **Tags:** Lahaina Fire, Magnetic Field Reversals, 4D STS Influence, Underground Beings, MH370, UFO Sightings, Window Fallers, Russian Politics, Financial Collapse, Health Questions
 
@@ -12,7 +12,7 @@
 
 **Participants:** Jubilee of Cassiopaea
 
-**FOTCM Zoom attendees:** Laura, Ark, Andromeda, Gaby, Joe, Chu and many others.
+**FOTCM Members via Zoom:** Laura, Ark, Andromeda, Gaby, Joe, Chu and many others.
 
 ---
 
@@ -91,7 +91,6 @@
 
 - MH370 viral video is not actual footage of MH370, but shows a different plane disappearing over Lake Michigan.
 - **4D metallic orbs** (probes) are increasingly seen; used for mind reading, control, and abductions.
-- Underground beings number around **4.6 million**, with 2–2.5 million active on the surface at any time.
 - These beings went underground approximately **14,000 years ago** due to cometary bombardment.
 
 ---
@@ -113,4 +112,3 @@
 
 ---
 
-## End of Session

@@ -14,18 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No specific content under this section in this session.
-
----
-
-## Cosmic Structure & Densities
-
-- No specific content under this section in this session.
-
----
-
 ## Earth Changes & Environmental Events
 
 - There is **climate change** happening, but it is not caused by anthropogenic (human-made) global warming
@@ -41,7 +29,6 @@
 - The **An-nu-ki** symbol can be used against parasites and virii
 - **Reiki energy** is best grounded but is drawn via connection with the **information field** which is "adjacent" rather than "above" or "below"
 - Reiki effects may vary by individual; **grounding mats** may help some people but not others
-- Swimming in cold water with an active **cold** is not advisable
 - Pierre can regain **motricity** in his hand by using **mirror therapy** and giving more massages
 
 ---
@@ -58,7 +45,6 @@
 - The Clinton camp's "**Spirit Cooking**" and other **black magic** rumors are valid
 - Mistakes by the **elite** (e.g., Putin, Brexit, Trump) are due to wishful thinking, pressure, desperation, haste, and carelessness
 - Trump's success caught the system by surprise; they wanted **Hillary** to win
-- **Blackmail** is a major control mechanism; Epstein and similar figures are tied to **Israeli interests** for manipulation of elites
 - The truth about the control structure ("**man behind the curtain**") may be revealed soon
 - There is not much compromising information on Trump, giving him some leverage
 
@@ -75,7 +61,6 @@
 ## Books, Research, and Cultural Commentary
 
 - Reference to the Bible: **1 Corinthians 15:52** about the "last trump" was discussed in relation to Donald Trump and the current world situation
-- Commentary on **Peggy Noonan's** realization that the media and elites were in an echo chamber
 - Critique of **ideology-focused elites** and their detachment from practical realities of working people
 
 ---
@@ -92,41 +77,10 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- No specific content under this section in this session.
-
----
-
-## Contact and Alien Interactions
-
-- No specific content under this section in this session.
-
----
-
 ## Spiritual Practices & Ritual
 
-- **Black magic** and ritual practices, such as "**Spirit Cooking**", are connected to Hillary Clinton and her associates
 - Similar **occult practices** were observed in other political contexts, such as South Korea
 - **Reiki symbols**, especially **An-nu-ki**, can be used for energetic healing and spiritual protection
-
----
-
-## Genetics and Ancestry
-
-- No specific content under this section in this session.
-
----
-
-## Religious and Historical Preservation
-
-- No specific content under this section in this session.
-
----
-
-## Historical Insights
-
-- No specific content under this section in this session.
 
 ---
 
@@ -139,10 +93,3 @@
 
 ---
 
-## Environmental & Industrial Events
-
-- No specific content under this section in this session.
-
----
-
-## End of Session

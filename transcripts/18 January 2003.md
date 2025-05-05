@@ -50,21 +50,17 @@
 - **Steve C.'s** channeled material originated from lies of **3rd density discarnates**.
 - The stock market advice previously attributed to the Cs was actually from **Frank**.
 - The raffle idea was symbolic of commitment and still useful even if it fails.
-- Advertising and increasing site traffic can be done in an **STO** way.
 - The **Iraq war** push is being driven by **orders**; Bush has little understanding of his actions.
-- The war is a distraction and fear tactic.
 - "Bombs" are not necessarily nuclear and can be natural or energetic.
 - The **Pentagon** being a target in the 9/11 attack was to allay suspicions.
 - The **U.S.** is the central hub of **4D** operational control.
 - **France** or **Russia** may seem outmatched, but analogies like **Perseus** and **David vs. Goliath** suggest potential for success.
 - **Help is drawing near**, possibly including time-looped versions of themselves aiding from the future.
 - Focus should be on **impeaching Bush**, not just anti-war sentiment.
-- The media is described as controlled by **Zionist Jews** pursuing an agenda that leads to their own destruction due to hubris.
 - Political and media structures are depicted as part of a larger **Consortium**.
 - **Game Theory** is cited as a tool used by the control system, but it can fail if the data is disrupted.
 - Only uncorruptible leadership, like a hypothetical stronger **JFK**, could potentially shift things.
 - **North Korea's** leadership is portrayed as a **mirror image** of Bush, highlighting global absurdity.
-- The Achilles heel of **STS** is **Wishful Thinking**, which will result in a **big miscalculation** revealing the "Man behind the curtain."
 
 ---
 
@@ -80,7 +76,6 @@
 
 - Reference to **Eisenhower's** warning about the **Industrial-Military Complex** and its relevance to the current state of global affairs.
 - Discussion of **JFK's** failure to fully act on intelligence threats and the potential for change if a truly **uncorruptible leader** could rise.
-- Criticism of media manipulation and blackmail tactics (e.g., by **Vincent Bridges**) as methods of control.
 - The importance of personal integrity and not allowing oneself to be blackmailed by past mistakes is emphasized.
 
 ---
@@ -88,7 +83,6 @@
 ## Notable Warnings or Predictions
 
 - A **big miscalculation** is forthcoming that will expose hidden controllers.
-- Continued deception and manipulation are underway, but those responsible will eventually be revealed by their own error.
 - Despite appearances, the group is "doing well" and should stay the course.
 
 ---
@@ -115,4 +109,3 @@
 
 ---
 
-## End of Session

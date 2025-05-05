@@ -50,10 +50,8 @@
 - **Salted water** assists detox and liver function; warm salted water should be taken in the morning, and additional glasses after iodine intake.
 - Overdose of iodine is very difficult.
 - Iodine can combat diseases including **AIDS**, **Ebola**, plague, chickenpox, measles.
-- Iodine serves as an antidote to the effects of the **frequency fence**.
 - Clean terrain (low toxicity, no microbes) reduces vulnerability to control mechanisms.
 - People will experience stronger willpower as they detox and restore health.
-- Iodine also protects against radiation and supports metabolism and energy by feeding glands and every cell.
 
 ---
 
@@ -72,7 +70,6 @@
 
 ## Esoteric Work & Personal Development
 
-- Arky is encouraged to proceed with dream communication and inspired work, especially in light of newfound iodine-induced energy.
 - Engagement with iodine detox improves spiritual resilience and willpower.
 - Stronger physical health correlates with psychological and esoteric fortitude.
 
@@ -108,7 +105,6 @@
 ## Contact and Alien Interactions
 
 - Satellite incidents are attributed to actions by non-human intelligences ("aliens in spaceships" implied).
-- A message was conveyed to Earth powers via satellite destruction and artifact placement.
 
 ---
 

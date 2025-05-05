@@ -17,7 +17,6 @@
 ## Afterlife & Soul Topics
 
 - A mental episode was described as "Your mind was leading your soul into peril thus an **emergency shutdown**."
-- This was followed by: "Virus protection activated."
 
 ---
 
@@ -51,7 +50,6 @@
 
 ## Esoteric Work & Personal Development
 
-- J**** was advised to "hopefully" learn "in advance" before he "**hits the wall** again."
 - His concept of "giving all" was questioned—he gives what he wants to receive, not what others need.
 - J**** was said to have "stars in her eyes."
 - It was suggested that a visit from J**** and J**** would be useful "for a **test period**."
@@ -90,4 +88,3 @@
 
 ---
 
-## End of Session

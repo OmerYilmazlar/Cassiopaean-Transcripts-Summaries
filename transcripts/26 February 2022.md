@@ -1,6 +1,6 @@
 # 26 February 2022
 
-## [Summary of 26 February 2022 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-26-february-2022.51723/)
+## Summary of [26 February 2022 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-26-february-2022.51723/)
 
 **Tags:** Ukraine Conflict, Kantekkians, Portals, Bioweapons, Global Crisis, Putin, Vaccine Risks, Food Shortages, Future Projections
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura, Andromeda, and Artemis at the board; Pierre, Joe, Gaby, Ark, PoB, Chu, Scottie, Niall, Princess Leia
 
-**FOTCM Zoom attendees:** 3DStudent, 987baz, Aeneas, aimarok, Aiming, alana, alejo, alianah, Altair, aluminumfalcon and many others.
+**FOTCM Members via Zoom:** 3DStudent, 987baz, Aeneas, aimarok, Aiming, alana, alejo, alianah, Altair, aluminumfalcon and many others.
 
 ---
 
@@ -20,7 +20,6 @@
 
 - The group attending the session is part of a specific reincarnated group from **Atlantis**.
 - **Kantekkians**, while powerful and intense, were also responsible for destroying their own planet.
-- Current events are not a karmic replay of the battle between Atlanteans and Athenians.
 - Putin has higher help, including from **ancestors** and his future self.
 
 ---
@@ -37,13 +36,11 @@
 ## Earth Changes & Environmental Events
 
 - Widespread **food shortages** across Europe are expected eventually.
-- The conflict represents an attack on the food supply system.
 
 ---
 
 ## Health, Diet, and Supplements
 
-- COVID-19 vaccines include "**docking elements**" for later pathogen propagation and may serve as ethnic weapons.
 - Targeted populations (e.g., Kantekkians/true Semites/Caucasians) are genetically more affected due to overexpression of **ACE2 protein**.
 - The vaccine can include **nanotechnology**, which can facilitate later manipulation or control.
 
@@ -52,9 +49,7 @@
 ## Control System & Sociopolitical Manipulation
 
 - The UK lifted COVID restrictions due to growing **public unrest**.
-- **Propaganda** has been preparing the Western public for years to see Putin as evil.
 - Schwab's claim about Putin is false—he is not a puppet.
-- **Anonymous** (seen as a CIA front) will attempt to hack Russia with limited success.
 
 ---
 
@@ -62,12 +57,6 @@
 
 - Connections are strengthening due to group efforts and exercises.
 - Laura and Ark are needed and should not delay attention to themselves.
-
----
-
-## Books, Research, and Cultural Commentary
-
-- [Not covered in this session.]
 
 ---
 
@@ -84,7 +73,6 @@
 - Turkey will not attack Russia or expand the war into the Middle East.
 - France is no longer at risk of being nuked as previously mentioned.
 - TPTB may re-ignite conflicts in the **Balkans** "naturally."
-- The DC convoy will have a positive outcome, but not in an expected way.
 - More global **suffering** is needed as not enough people are awakening.
 - The overall success of the plans of TPTB is rated **4 out of 10**.
 - Timeline has not changed due to Russia's actions in Ukraine.
@@ -132,4 +120,3 @@
 
 ---
 
-## End of Session

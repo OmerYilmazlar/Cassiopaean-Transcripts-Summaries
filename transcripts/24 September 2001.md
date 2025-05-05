@@ -16,7 +16,6 @@
 
 ## Afterlife & Soul Topics
 
-- The dream about a baby represented Laura's progression and path of discovery.
 - The mission of Laura and Ark will be discovered in the future and will bring "joy unspeakable."
 
 ---
@@ -100,4 +99,3 @@
 
 ---
 
-## End of Session

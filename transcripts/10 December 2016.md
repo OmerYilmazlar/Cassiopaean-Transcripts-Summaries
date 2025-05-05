@@ -27,7 +27,6 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 ## Cosmic Structure & Densities
 
 - The fundamental language of the **information field** is geometric shapes.
-- Symbols act as connectors to information and are **universal**, not subjective or arbitrary.
 - Inverted symbols play an inverted role, as used in **Satanist movements**.
 
 ---
@@ -57,7 +56,6 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 - **Obama** waived restrictions on weapons to "non-state actors" to sidestep **Tulsi Gabbard's bill** and salvage their terrorist proxy forces in Syria.
 - These actions are driven by a lust for money, which equals power, and by **4D STS influences** aiming for total control before cosmic changes.
 - Events in the following "40 or so days" were predicted to give "**chills up your spine**."
-- Attempts to create chaos before **Trump's inauguration** were suggested (e.g., arming terrorists with MANPADs to down Russian/Syrian aircraft).
 
 ---
 
@@ -97,12 +95,6 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 
 ---
 
-## Contact and Alien Interactions
-
-- **4D STS agencies** are driving current sociopolitical chaos in an attempt to establish control before cosmic changes.
-
----
-
 ## Spiritual Practices & Ritual
 
 - **Reiki symbols** hold power as connectors to information but require conscious attunement.
@@ -113,4 +105,3 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 
 ---
 
-## End of Session

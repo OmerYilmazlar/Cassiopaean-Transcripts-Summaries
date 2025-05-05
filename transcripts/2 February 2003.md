@@ -23,7 +23,6 @@
 ## Cosmic Structure & Densities
 
 - The EM pulse that struck the shuttle was from a **3/4th density** Consortium.
-- Forces from **4D STS** created a hole in a rock at Palomar, described as a "wall outlet" or antennae.
 
 ---
 
@@ -35,7 +34,6 @@
 
 ## Health, Diet, and Supplements
 
-- The "plague" described in ancient texts had multiple elements, including leprosy.
 - Radiation sickness was **not a major factor** due to containment of the Ark.
 - Helen/Nefertiti/Sarah was suspected because she did **not get sick** during the plague.
 
@@ -45,7 +43,6 @@
 
 - The Space Shuttle Columbia disaster was caused by an **EM pulse** "direct hit" from a space-based satellite.
 - The source of the pulse was the **3/4th density Consortium**.
-- Bush and his administration are "**reaction machines**," largely unaware of the deeper agendas they fulfill.
 - The shuttle incident was used to **stimulate Bush's reaction**, making the masses more accepting of his policies.
 - The Bush administration is aware there is a "**Maverick**" element at large, causing some primal fear.
 - There are efforts to **conceal the true cause** of such events, just like with the death of Senator Wellstone.
@@ -115,23 +112,15 @@
 - The "brother" relationships in biblical stories (Jacob & Esau, Moses & Aaron, etc.) were **invented** to legitimize false lines of transmission.
 - Moses understood the danger of the Ark and **returned it** to its STS creators.
 - The blessing given to Esau and the return of the Ark were separate events.
-- Abraham **acquired** the Perseid female in a manner that suggests abduction.
 - Akhenaten went mad and was helped (killed); not eaten by crocodiles.
 - The plague referenced in Manetho was **multi-faceted**, likely linked to cometary showers.
-- Libyans of the Exodus period were a **Sumerian and Aryan** mix; some ended up in Crete.
-- The importance of Argos is connected to Jason and the Argonauts.
-- The myth of a girl flying on a ram and drowning is alluded to as potentially relevant.
 
 ---
 
 ## Historical Insights
 
-- Connections between myths (Helen, Nefertiti, Paris, Jason and the Argonauts) and biblical stories are **reinforced**.
 - "Dragon Slayers" are a key group involved in **protecting** the last Perseid family member.
 - The Ark and Grail represent different **technological and esoteric traditions**.
-- Stories like Daedalus and Icarus, Jason and the Argonauts, and myths of escape from confinement may contain **historical truth**.
-- Helen/Nefertiti/Sarah may be at the **root of monotheistic** tradition and its destructive consequences.
 
 ---
 
-## End of Session

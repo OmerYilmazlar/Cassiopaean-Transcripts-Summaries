@@ -54,9 +54,6 @@
 - **Paul** was not the evil manipulator portrayed by Unterbrink
 - Paul was of the **Herodian family** and not from Tarsus, despite legend
 - Paul's "pay taxes" message was part of being "wise as a serpent," delivering "**milk**" in letters while reserving "**meat**" for in-person teaching
-- The **Jesus myth** is an amalgamation of **Mithras** and **Caesar** stories
-- **Roman authorities** altered and co-opted Caesar's teachings of care and kindness for the masses, leading to creation of a pacifying religion
-- **Christianity's Eucharist** borrowed from both **Mithraic** tradition and Caesar's compassion for the hungry and his troops
 
 ---
 
@@ -104,9 +101,7 @@
 ## Historical Insights
 
 - **Caesar's** story was manipulated posthumously to suppress his teachings and co-opt them into the Jesus myth
-- The **star** seen at Jesus' (Judas') birth was likely a comet marking Caesar's own birth
 - Elements of Caesar's life, including a shared meal before death, were incorporated into the **Jesus narrative**
 
 ---
 
-## End of Session

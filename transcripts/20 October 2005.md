@@ -24,7 +24,6 @@
 
 ## Cosmic Structure & Densities
 
-- Forces at **4D** can add, subtract, or battle with energies, influencing 3D dynamics.
 - **4D battles** manifest as weather events.
 - The veil is thinning, making such bleedthroughs more apparent.
 
@@ -40,7 +39,6 @@
 
 ## Health, Diet, and Supplements
 
-- Laura's herniated disc was caused by a concentration of high-level negative energy in an unfamiliar location.
 - Attacks prior to travel lowered energy levels, making her vulnerable.
 - **Acupuncture** was noted as effective for healing.
 
@@ -72,7 +70,6 @@
 - Awareness in unfamiliar environments offers protection from negative energy.
 - Journal writing suggested as healing for emotional wounds.
 - **Mr. Scott** is advised to work on internal healing rather than external family dynamics.
-- **SD** is likely an agent; consciously working under false pretenses.
 - "**Agents**" typically try to fit in but can be identified by their behavior.
 - The group should observe SD's reactions for signs of confirmation.
 - **DW** advised to communicate more and contribute fresh energy to the Signs work.
@@ -104,12 +101,6 @@
 
 ---
 
-## Contact and Alien Interactions
-
-- No direct ET contact content, but extensive reference to **4D STS** manipulation and energetic influence.
-
----
-
 ## Genetics and Ancestry
 
 - A genetic tweak 130,000 years ago was made in **Aryan Semites**, not Jews of today.
@@ -130,8 +121,6 @@
 ## Political Power Structures
 
 - **9/11** was planned by dual factions: **Israeli** operatives and **U.S. neocons**, each intending to deceive the other.
-- Original 9/11 plan centered on symbolic destruction (e.g., **WTC**); secondary plans were modified via deception and double-crossing.
 
 ---
 
-## End of Session

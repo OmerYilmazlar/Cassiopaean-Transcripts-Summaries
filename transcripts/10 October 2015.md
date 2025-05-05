@@ -14,12 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- None
-
----
-
 ## Cosmic Structure & Densities
 
 - Many changes in process and more to come, both in global politics and **cosmic events** yet to descend
@@ -40,12 +34,6 @@
 
 ---
 
-## Health, Diet, and Supplements
-
-- None
-
----
-
 ## Control System & Sociopolitical Manipulation
 
 - Most political changes happen behind the scenes
@@ -57,7 +45,6 @@
 - Bombings in **China** are partly natural and partly acts of sabotage
 - **Programmed shooters** in the USA are activated by simple means like a phone call
 - Shootings are timed responses to **Russia's** public actions in **Syria** to distract or suppress dissent
-- The US still follows old manipulation plans even as its **narrative** is being challenged globally
 
 ---
 
@@ -65,7 +52,6 @@
 
 - Making conscious daily choices can move individuals toward a different **timeline**
 - Changing clothing, lifestyle, habits, and detaching from popular culture can realign one's **frequency**
-- Modeling oneself on admired values and people reinforces **reality shift**
 - Outward changes reflect internal values like **self-respect** and consideration
 - Becoming a better **antenna** aligns one with a reality that already exists elsewhere
 
@@ -90,33 +76,9 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- None
-
----
-
 ## Contact and Alien Interactions
 
 - Events like **nuclear missile shutdowns** attributed to UFO activity may have been orchestrated by **4D STS** as a protective measure
-
----
-
-## Spiritual Practices & Ritual
-
-- None
-
----
-
-## Genetics and Ancestry
-
-- None
-
----
-
-## Religious and Historical Preservation
-
-- None
 
 ---
 
@@ -133,7 +95,6 @@
 - **ISIS** is a creation of the USA
 - ISIS operatives have been inserted among **refugees**
 - **Propaganda** is a central tool of the Powers That Be (PTB)
-- The conflict between **Russia** and the US involves a war of perception and truth
 
 ---
 

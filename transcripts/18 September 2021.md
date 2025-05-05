@@ -1,6 +1,6 @@
 # 18 September 2021
 
-## [Summary of 18 September 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-18-september-2021.51079/)
+## Summary of [18 September 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-18-september-2021.51079/)
 
 **Tags:** Soul Types, Vaccine Agenda, Immune Suppression, DNA Manipulation, Spiritual Protection, Historical Revisionism, Mind Control, Alien Influence
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura, Andromeda, and Artemis at the board. Pierre, Joe, Chu, Ark, PoB, Scottie, Niall, Gaby, Noko the Wonderdog, Princess Leia, Pikabu the Cat
 
-**FOTCM Zoom attendees:** Not Provided.
+**FOTCM Members via Zoom:** Not Provided.
 
 ---
 
@@ -58,7 +58,6 @@
 - People may alleviate inner tension through **conformity**, such as vaccination.
 - The divide between different types of souls (e.g., compliant vs. questioning) is widening.
 - Both pro- and anti-vaccine individuals may fall into traps if driven by stress, fear, or radicalism.
-- The idea that willingly vaccinated individuals could be more aligned with alien agendas is humorously hinted at (e.g., "**alien zombies**").
 - Influences from other realms aim to reduce **fertility** and mutate DNA.
 - **Communism** in the 19th century was a partial rehearsal for current control agendas.
 
@@ -87,22 +86,9 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- None mentioned.
-
----
-
 ## Contact and Alien Interactions
 
 - **Alien influences** are connected to the vaccine agenda and Earth changes.
-- The idea of "alien zombies" is suggested in relation to those aligned with alien agendas.
-
----
-
-## Spiritual Practices & Ritual
-
-- None mentioned.
 
 ---
 
@@ -115,9 +101,7 @@
 
 ## Religious and Historical Preservation
 
-- The claim about the nonexistence of "**Vulgar Latin**" and faulty historical chronology is true.
 - **Paul's predictions** about the end of the world were accurate in context.
-- Many Roman and early Christian historical accounts are **fabricated** or reused stories.
 
 ---
 
@@ -142,4 +126,3 @@
 
 ---
 
-## End of Session

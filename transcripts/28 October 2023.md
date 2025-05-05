@@ -1,6 +1,6 @@
 # 28 October 2023
 
-## [Summary of 28 October 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-28-october-2023.53905/)
+## Summary of [28 October 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-28-october-2023.53905/)
 
 **Tags:** Afterlife, Soul Dynamics, 4D Transition, Middle East Conflict, Israel-Hamas, Global Changes, Spiritual Warfare, Political Conspiracy
 
@@ -12,13 +12,12 @@
 
 **Participants:** Laura and Andromeda at the board. PoB, Joe, Niall, Gaby, Ark, Chu, Scottie, Leia, Falkor, Bella, Pikabu, Luna
 
-**FOTCM Zoom attendees:** Not provided.
+**FOTCM Members via Zoom:** Not provided.
 
 ---
 
 ## Afterlife & Soul Topics
 
-- Pierre's passing was sudden and surprising to both him and the group.
 - He suffered less mentally and emotionally than physically.
 - He is currently resting in **5D** and is not yet available for full contact.
 - Pierre was present in the room after his death and heard words spoken to him.
@@ -30,9 +29,7 @@
 - He needs to review and assess before possibly acting as the group's **representative** in 5D.
 - His 5D self called him home; he chose the timing of his departure.
 - Pierre's **high soul frequency** rendered his body incompatible, contributing to disease.
-- He will be born again in **4D**.
 - The group's grieving process is reciprocally felt by Pierre.
-- **Morphine** and similar drugs can cause short-term disorientation after death but help ease the soul's exit.
 - Emotional release and healing on both sides signal mutual recovery.
 
 ---
@@ -49,13 +46,6 @@
 
 - A suggestion was given to stock up on **diesel and gasoline**.
 - More global **chaos** is expected over the coming months.
-- Despite turmoil, good things can arise from chaos.
-
----
-
-## Health, Diet, and Supplements
-
-- Morphine and similar drugs can cause short-term disorientation after death but help ease the soul's exit.
 
 ---
 
@@ -67,7 +57,6 @@
 - The top leadership in Israel is not religiously motivated; religion is a **tool** for the masses.
 - The conflict is being used to resist a **multipolar world** and maintain U.S. dominance.
 - U.S. is **collapsing**; Israel uses its influence while it can.
-- America was previously called a "5D city on a hill"—but is destined for destruction.
 - Religious propaganda has deeply influenced **public perception**, particularly regarding Israel.
 - Conspiracy theory about relocating Jews to Ukraine to create "Heavenly Jerusalem" is false.
 - Other countries will get involved in the conflict.
@@ -83,7 +72,6 @@
 - Emotional release and healing on both sides signal mutual recovery.
 - Prayers and loving thoughts help Pierre in his transition.
 - The group's grieving process is reciprocally felt by Pierre.
-- Despite turmoil, good things can arise from chaos.
 
 ---
 

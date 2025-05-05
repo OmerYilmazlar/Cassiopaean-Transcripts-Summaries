@@ -14,33 +14,14 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No direct discussion on afterlife or soul transmigration in this session.
-
----
-
 ## Cosmic Structure & Densities
 
 - Communication from "Faraloniaea of Cassiopaea" at the beginning.
 
 ---
 
-## Earth Changes & Environmental Events
-
-- No direct discussion on Earth changes or planetary events in this session.
-
----
-
-## Health, Diet, and Supplements
-
-- No mention of physical health, diet, or supplements in this session.
-
----
-
 ## Control System & Sociopolitical Manipulation
 
-- The “Love Bite” scenario is described as more of a **government disinformation program** for the weak-minded and susceptible than a genuine alien phenomenon.
 - All effects of "Love Bite" experiences can be easily produced with **microwave manipulation of consciousness and emotions**, combined with **social programming** and **psychopathology**.
 - Many predators are involved in **"alternative" topics and especially "caring professions"**, which serve as fertile ground for manipulation.
 
@@ -60,7 +41,6 @@
 
 - The **“Jesus” character is described as a composite**:
     - Of numerous myths
-    - Based on a real historical person (Julius Caesar) and another with lesser historical impact
     - Involves segments from other literature of the time
 - The Cs state they could not give Laura the full truth about Jesus early on due to her **emotional and religious programming**, which would have led her to terminate the communication.
 - **Truth delivery requires conceptual seeding**, not blunt revelation. Veils of belief, assumption, and emotion must be penetrated slowly.
@@ -71,7 +51,6 @@
 
 ## Notable Warnings or Predictions
 
-- If "parallel" does not act to rewire and engage circuits of direct perception and interaction, he will **deteriorate rapidly**.
 - A general warning is embedded about **entropy** awaiting those who remain in passive, dissociated inner states.
 
 ---
@@ -90,4 +69,3 @@
 
 ---
 
-## End of Session

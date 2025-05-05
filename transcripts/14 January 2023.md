@@ -1,6 +1,6 @@
 # 14 January 2023
 
-## [Summary of 14 January 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-14-january-2023.52926/)
+## Summary of [14 January 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-14-january-2023.52926/)
 
 **Tags:** Alien Invasion, Missing 411, Geopolitics, Genetic Harvesting, Earth Changes, Indo-European Origins, Vaccine Deaths, Secret Space Programs
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura and Andromeda at the board; Pierre, Joe, Gaby, Ark, PoB, Chu, Scottie, Niall, Princess Leia
 
-**FOTCM Zoom attendees:** 3DStudent, Adobe, Aeneas, Aiming, Alana, Alejo, Alix, Altair, Ana Huitzil, Anamarija and many others.
+**FOTCM Members via Zoom:** 3DStudent, Adobe, Aeneas, Aiming, Alana, Alejo, Alix, Altair, Ana Huitzil, Anamarija and many others.
 
 - The group has improved its collinearity since the last session.
 
@@ -110,7 +110,6 @@
 - The invasion will not appear as expected; mostly via **human proxies**.
 - Proxies include heads of government or their replacements.
 - Some dramatic **UFO displays** may occur (e.g., missile shutdowns).
-- Open alien display would violate **free will** and provoke resistance.
 - Invasion to be disguised as **beneficial interventions**, e.g., miracle-like events or savior actions.
 - Prominent figures (e.g., Bill Gates, Klaus Schwab) are preparing the ground.
 - UFO over Rostov was **observing**, not shot down.
@@ -130,7 +129,6 @@
 - German genes are close to **Aryan genetics**.
 - Uses include building bodies, growing **organs and babies**, and creating clones.
 - In the worst cases, individuals are consumed.
-- Modern group closest to Denisovans: **Australian Aboriginals** ("Abos").
 
 ---
 
@@ -164,9 +162,7 @@
 - The explosion was caused by **sparks**.
 - Occurred behind a petrol station; not the tanks themselves.
 - Salt mines of **Soledar**: no special significance beyond general utility.
-- Salt makes them unsuitable for **occult or alien activity**.
 - Some have been used for hiding.
 
 ---
 
-## End of Session

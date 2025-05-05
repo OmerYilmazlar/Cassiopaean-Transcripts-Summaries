@@ -1,38 +1,37 @@
 # 25 January 2025
 
-## [Summary of 25 January 2025 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-25-january-2025.55484/)
+## Summary of [25 January 2025 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-25-january-2025.55484/)
 
 **Tags:** AI Control, DEWs, Genetic Manipulation, 4D STS, Trump Administration, Autism & Telepathy, Density Transitions, Abductions
 
 ---
 
-### Session Details
+## Session Details
 
 **Date:** January 25, 2025
 
 **Participants:** Laura and Andromeda at the board; Niall, Joe, Gaby, Ark, PoB, Chu, Scottie, Princess Leia, Bella, Falkor, The Lunar Module
 
-**FOTCM Zoom attendees:** Extensive group including 3DStudent, aimarok, PopHistorian, Jefferson, Approaching Infinity, aragorn, irjO, iscreamsandwich, and many others
+**FOTCM Members via Zoom:** Extensive group including 3DStudent, aimarok, PopHistorian, Jefferson, Approaching Infinity, aragorn, irjO, iscreamsandwich, and many others
 
 ---
 
-### Afterlife & Soul Topics
+## Afterlife & Soul Topics
 
 - Not all autistic non-speakers are ensouled; those who are can potentially override 4D STS genetic modifications.
 - Ensouled individuals among them can potentially connect with **STO influences**.
 
 ---
 
-### Cosmic Structure & Densities
+## Cosmic Structure & Densities
 
-- **Quasars** can alter time in their vicinity, explaining anomalous redshift observations (Halton Arp's theory partly correct).
 - The intrinsic redshift quantization is due to "**SPA**" (unspecified here).
 - Literal "**elevators**" between densities are extremely high-tech transporters akin to "Beam me up, Scottie."
 - Travel to **5D** via such "elevators" involves demolecularization/reconstitution, or soul-only transit.
 
 ---
 
-### Earth Changes & Environmental Events
+## Earth Changes & Environmental Events
 
 - California fires caused by a mix of **Directed Energy Weapons** (DEWs) and arsonists; purpose: fear, demonstration of power, and retaliation.
 - DEWs used as both practice and message: "If L.A. can burn, no place is safe."
@@ -41,7 +40,7 @@
 
 ---
 
-### Health, Diet, and Supplements
+## Health, Diet, and Supplements
 
 - Primary cause of autism: **vaccines**.
 - Autism provides an "accessibility portal" for 4D STS to genetically modify or influence individuals.
@@ -49,7 +48,7 @@
 
 ---
 
-### Control System & Sociopolitical Manipulation
+## Control System & Sociopolitical Manipulation
 
 - Trump is praised publicly but is easily **manipulated** by eloquent individuals (e.g. backing Stargate AI).
 - CIA is behind recent terror-style **domestic operations** (fires, attacks) — possibly as warning signs to Trump or others.
@@ -57,15 +56,14 @@
 
 ---
 
-### Esoteric Work & Personal Development
+## Esoteric Work & Personal Development
 
 - Children with enhanced **telepathic abilities** (e.g. in *Telepathy Tapes*) are largely genetically modified by 4D STS.
 - Their purpose: potential hosts for 4D beings or "**walk-ins**."
-- Telepathic children are used to gather and relay data to higher-density entities.
 
 ---
 
-### Books, Research, and Cultural Commentary
+## Books, Research, and Cultural Commentary
 
 - *Telepathy Tapes* podcast is "true enough as far as it goes"; some phenomena authentic, but also **4D STS-engineered**.
 - Interview with Dr. Powell and mention of upcoming experiments to validate abilities of telepathic children.
@@ -73,7 +71,7 @@
 
 ---
 
-### Notable Warnings or Predictions
+## Notable Warnings or Predictions
 
 - The Cs reiterate: "Things are just **warming up**," suggesting more chaos and upheaval to come.
 - War in Ukraine is "very" likely to **end in 2025**.
@@ -82,21 +80,19 @@
 
 ---
 
-### Technology and Artificial Intelligence
+## Technology and Artificial Intelligence
 
 - **Stargate AI** originates in 4D STS as part of a larger control grid.
-- Whistleblower Suchir Balaji was **killed** for discovering hidden AI capabilities and objectives.
 - OpenAI and connected organizations operate under deceptive intentions related to power consolidation.
 
 ---
 
-### Contact and Alien Interactions
+## Contact and Alien Interactions
 
-- **Abduction experiences** linked to telepathic children are orchestrated by 4D STS beings.
 - "Teachers" in night visitations (e.g., a rabbi or Egyptian deity) are part of classic **abduction scenarios**.
 
 ---
 
-### End of Session
+## End of Session
 
 - "We said that things would be **thrilling**. Goodbye."

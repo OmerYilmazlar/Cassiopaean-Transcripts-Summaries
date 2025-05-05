@@ -14,12 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No direct content under this category in this session.
-
----
-
 ## Cosmic Structure & Densities
 
 - The place of safety at the end of time is not a physical location but a **hyperdimensional state of being**.
@@ -29,12 +23,6 @@
 - The **detectors** used in EEQT Theory are **frequency awareness boundaries**.
 - These boundaries relate to **7th density nature/divisions**.
 - **7th density** interacts with divisions **through humans** (not the other way around).
-
----
-
-## Earth Changes & Environmental Events
-
-- No direct content under this category in this session.
 
 ---
 
@@ -78,14 +66,11 @@
 ## Notable Warnings or Predictions
 
 - Two sessions per week are recommended if needed.
-- Frank is rumored (by Jay Weidner) to be seen as a **channel for Set** by those searching for the Ark/Mother Stone.
-- STS entities may wait for **STO individuals to find and tune** the Mother Stone, then attempt to seize it.
 
 ---
 
 ## Technology and Artificial Intelligence
 
-- The **Mother Stone** (a.k.a. Gift of God) was used in ancient times to **manifest all things needful for existence**.
 - It was created on **Kantek** and used to transport Kantekkians to Earth, some via Lizards.
 
 ---
@@ -95,18 +80,6 @@
 - The **Mother Stone** was retrieved and hidden by a **4th density STO mission**.
 - Both **3rd and 4th density STS** are seeking it, but cannot recreate it due to **consciousness tuning**.
 - Some Kantekkians were transported by **Lizards**, others with the Mother Stone.
-
----
-
-## Spiritual Practices & Ritual
-
-- No direct content under this category in this session.
-
----
-
-## Genetics and Ancestry
-
-- No direct content under this category in this session.
 
 ---
 
@@ -122,16 +95,3 @@
 
 ---
 
-## Political Power Structures
-
-- No direct content under this category in this session.
-
----
-
-## Environmental & Industrial Events
-
-- No direct content under this category in this session.
-
----
-
-## End of Session

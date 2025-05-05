@@ -16,7 +16,6 @@
 
 ## Afterlife & Soul Topics
 
-- Suffering of one individual can affect others psychically, especially close relations.
 - Psychic attacks target individuals with **missions and their support networks**.
 - Spacetime distortion can enable **realm curtain openings** and anomalous disappearances or deaths.
 
@@ -25,7 +24,6 @@
 ## Cosmic Structure & Densities
 
 - The "butterfly" UFO was identified as a **4D STS manifestation**.
-- The Golem-type entity involved in the Elisa Lam case was related to **spacetime distortions** and realm curtain activity.
 
 ---
 
@@ -78,7 +76,6 @@
 - A critical **timeline split** recently occurred; the group narrowly avoided a destructive reality.
 - Chaos and psychological disintegration were symptoms of an impending timeline shift.
 - **Continued awareness** is essential to avoid falling into destructive potential realities.
-- Warning to remain alert when physical symptoms or anomalies appear within the group.
 - Reminder that apparent outcomes may not reflect deeper truths.
 
 ---
@@ -99,7 +96,6 @@
 
 ## Spiritual Practices & Ritual
 
-- Importance of giving and receiving **love abundantly** within the group emphasized for protection and healing.
 - Emotional and psychic bonding acts as a shield against external psychic manipulation.
 
 ---

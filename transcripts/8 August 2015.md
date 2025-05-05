@@ -16,7 +16,7 @@ Laura, Andromeda, Galatea at the board
 
 Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the Wonderdog
 
-**FOTCM Zoom attendees:** Heimdallr, Menrva, herondancer, Approaching Infinity, Truth seeker, suelarue, Ennio, Magpie, Bear, Thaigrr, A Jay, trendsetter37, Renaissance, Nancy2feathers, Nicholas, KJN, Odyssey, aleana, l_autre_d, Foxx, and many others
+**FOTCM Members via Zoom:** Heimdallr, Menrva, herondancer, Approaching Infinity, Truth seeker, suelarue, Ennio, Magpie, Bear, Thaigrr, A Jay, trendsetter37, Renaissance, Nancy2feathers, Nicholas, KJN, Odyssey, aleana, l_autre_d, Foxx, and many others
 
 ---
 
@@ -29,7 +29,6 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ## Cosmic Structure & Densities
 
-- Putin is somewhat aware of the hyperdimensional reality, but in a different context—more like **mental martial arts**.
 - Mention of a reality split tied to misremembering events is analogous to the Matrix "cat" glitch.
 
 ---
@@ -40,7 +39,6 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 - Chelyabinsk is a **magnetic attractor area** with many strange occurrences.
 - Recent "lizard man" photo from South Carolina was faked, but there have been real sightings in the area—more than just energetic phenomena.
 - US climate scientists did not die of natural causes; deaths were induced.
-- Recent plane parts found on Réunion are **not** from MH370.
 
 ---
 
@@ -49,7 +47,6 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 - Rife technology could be effective if a properly constructed machine were available, which is a tall order.
 - **Camel's milk** is beneficial if fresh; recommended dose is 6 ounces daily.
 - **63% of the population** is infected with parasitical entities.
-- Cold therapy is beneficial when added further into the antibiotic protocol.
 - "Magnetizing" refers to fulfilling the function of the lighthouse—maintaining colinearity and united group efforts.
 - Best diagnostic method for parasitic infection is an **antibiotic challenge**.
 - Dosage of antibiotics can be adjusted; combinations with helpers like **NAC, bromelain, colostrum, and camel's milk** enhance effects.
@@ -83,12 +80,6 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ---
 
-## Books, Research, and Cultural Commentary
-
-- No specific books or cultural references directly discussed in this session.
-
----
-
 ## Notable Warnings or Predictions
 
 - Wait for developments in **October** regarding global events.
@@ -99,7 +90,6 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ## Contact and Alien Interactions
 
-- Real sightings of **lizard-type beings** have occurred in South Carolina, in addition to hoaxes.
 - The phenomenon includes real exhibits of some sort beyond faked sightings.
 
 ---
@@ -110,30 +100,10 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ---
 
-## Genetics and Ancestry
-
-- No relevant content in this session.
-
----
-
-## Religious and Historical Preservation
-
-- No relevant content in this session.
-
----
-
 ## Historical Insights
 
 - Average percentage of psychopaths in Rome during Caesar's lifetime was **29%**.
 - Before the civil war in Rome, the percentage rose to **42%**.
-- Rome functioned as an **attractor for psychopathic** individuals, even among common people.
 
 ---
 
-## Political Power Structures
-
-- Recognition of Palestine, the UN agenda, blood moons, and Shemitah year speculated as markers, but actual escalation may begin in October.
-
----
-
-## End of Session

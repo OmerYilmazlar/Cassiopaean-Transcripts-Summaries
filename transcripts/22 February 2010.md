@@ -25,15 +25,8 @@
 ## Cosmic Structure & Densities
 
 - Humanity previously engaged in "**technospirituality**."
-- This capability was lost due to regression and a change in the cosmic environment.
 - The cosmic vibrations are expected to change back soon.
 - Restoration of technospirituality is anticipated.
-
----
-
-## Earth Changes & Environmental Events
-
-- No significant discussion under this category.
 
 ---
 
@@ -41,13 +34,11 @@
 
 - The baby is **autistic** due to both genetic and chemical causes.
 - Autism severity could be ameliorated but is unlikely due to Sue's personal issues.
-- **Alice in Wonderland Syndrome** (AIWS) is caused by a brain disorder related to defective myelinization and signaling dysfunction in optical pathways.
 - AIWS can stem from retinal disorder or brain chemistry triggers such as serotonin.
 - Dietary adjustments over the long term might help AIWS.
 - Detoxifying **mercury** can eliminate "brain zaps."
 - A couple likely suffers from dietary toxicity in their home environment.
 - **Kamut** is okay to eat, especially under current 3D constraints.
-- Cereal grain agriculture was introduced only in the past 10,000 years and linked to humanity's "fall."
 
 ---
 
@@ -80,7 +71,6 @@
 
 ## Books, Research, and Cultural Commentary
 
-- Question about ancient agriculture points back to earlier Cs material and Laura's writings.
 - Earlier civilizations did not practice agriculture as we know it.
 - Cereal-based diets have negatively influenced humanity.
 - **Techno-spiritual** capability allowed for materializing one's own food in earlier times.
@@ -126,6 +116,3 @@
 
 ---
 
-## End of Session
-
----

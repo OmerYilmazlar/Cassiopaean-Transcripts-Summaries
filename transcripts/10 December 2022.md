@@ -1,6 +1,6 @@
 # 10 December 2022
 
-## [Summary of 10 December 2022 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-10-december-2022.52781/)
+## Summary of [10 December 2022 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-10-december-2022.52781/)
 
 **Tags:** AI, Alien Interactions, Planetary Changes, Scientific Suppression, Hyperdimensional Manipulation, Financial Collapse, Earth Changes, Reincarnation
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura and Andromeda at the board; Pierre, Joe, Gaby, Ark, PoB, Chu, Scottie, Niall, Noko the Wonderdog
 
-**FOTCM Zoom attendees:** [To be added later]
+**FOTCM Members via Zoom:** [To be added later]
 
 ---
 
@@ -48,13 +48,11 @@
 
 - **HBOT** (Hyperbaric Oxygen Therapy) reintegrates energy, eliminates attachment sites by killing pathogens, and strengthens gene expression.
 - It does not directly remove **spirit attachments** but closes vulnerabilities.
-- Oxygen acts as an **interface** for neurons to access the information field.
 
 ---
 
 ## Control System & Sociopolitical Manipulation
 
-- The elite are pushing for a **machine translator** as part of an AI initiative.
 - Goal: Translate **alien speech** during direct interactions.
 - Aliens conceal intentions using their own language; humans are either suspicious or host **"walk-ins."**
 - Transitioning humans with **receivership capability** will gain "abilities."
@@ -71,7 +69,6 @@
 
 ## Esoteric Work & Personal Development
 
-- Group members should continue communication and mutual support to refine **frequency for receiving**.
 - A **rocky period** lies ahead.
 - It is crucial to "**keep the lighthouse lit**."
 - Final message: "Be excellent to each other!"
@@ -111,7 +108,6 @@
 - Some humans trained to **block thoughts** to keep secrecy.
 - Some humans act as hosts for **"walk-ins."**
 - Aliens promote **survival plans** and guide elites.
-- Alien agenda is ultimately beyond full human or elite comprehension.
 
 ---
 
@@ -134,7 +130,6 @@
 
 - **Victor Bout** is not entirely innocent but also not the "Lord of War"; CIA is the world's largest arms dealer.
 - The elite are unaware their power will become **meaningless** in the planetary shift.
-- No elite conspiracy to raise certain ethnic groups to power, but **ambition and susceptibility** are exploited.
 
 ---
 
@@ -148,4 +143,3 @@
 
 ---
 
-## End of Session

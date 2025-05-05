@@ -1,6 +1,6 @@
 # 18 December 2021
 
-## [Summary of 18 December 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-18-december-2021.51442/)
+## Summary of [18 December 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-18-december-2021.51442/)
 
 **Tags:** Bitcoin agenda, homeopathy effects, vaccine protocols, consciousness and DNA, ancient plasma events, government manipulation, spiritual awakening, chaos and unity
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura, Andromeda, Artemis, Pierre, Joe, Gaby, Ark, PoB, Chu, Scottie, Niall, Princess Leia, The Lunar Module
 
-**FOTCM Zoom attendees:** 3DStudent, 987baz, A Jay, Abats, Aeneas, aimarok, Aiming, alana, Alejo, Altair and many others.
+**FOTCM Members via Zoom:** 3DStudent, 987baz, A Jay, Abats, Aeneas, aimarok, Aiming, alana, Alejo, Altair and many others.
 
 ---
 
@@ -63,7 +63,6 @@
 ## Esoteric Work & Personal Development
 
 - Good forces are waiting for humanity to make better choices.
-- **Free will** limits intervention as long as people remain asleep.
 - Cassiopaeans: "Do not become discouraged or tired"
 - **Unity** will be more important than ever.
 - "Change IS coming!!!!"
@@ -106,7 +105,6 @@
 
 ## Genetics and Ancestry
 
-- **Quartz crystals** and DNA both store information and link to information fields.
 - Hair's **spiral protein** shape operates as antenna—geometry is essential.
 
 ---
@@ -115,7 +113,6 @@
 
 - Gabby Petito was murdered by boyfriend **Brian Laundrie**.
 - Charles Manson was **programmed** by government agents.
-- JFK assassination: No "plot within a plot".
 - JFK Jr's death: Not pilot error, but involved **foul play**.
 - Rasputin was not killed via foreign intelligence operation.
 - Aaron Schwartz did not commit suicide.
@@ -135,4 +132,3 @@
 
 ---
 
-## End of Session

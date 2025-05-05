@@ -91,7 +91,6 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 ## Technology and Artificial Intelligence
 
 - Computer systems can respond to **psychic** and mental energy.
-- **PK** can affect recorded material (retro PK), aligning with wave function theory.
 - **Consciousness** collapses wave possibilities, even retroactively.
 
 ---
@@ -125,4 +124,3 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 
 ---
 
-## End of Session

@@ -14,22 +14,14 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No specific discussion under this category in this session.
-
----
-
 ## Cosmic Structure & Densities
 
 - **4D STS** will become desperate for control as the changes approach.
 - Changes are approaching that undermine the control of **4D STS**.
-- A "**5D city on a hill**" was mentioned again; it is a large-scale concept rather than a specific city.
 - There is no "time" from the higher density perspective.
 - Encouragement to keep faith in the reality of higher densities and energies.
 - Dramatic demonstrations of the efficacy of the group's approach are forthcoming.
 - A matching frequency must be established for help to come from higher densities.
-- "Build it and they will come" confirms the necessity of groundwork before higher-density help can arrive.
 
 ---
 
@@ -40,19 +32,11 @@
 
 ---
 
-## Health, Diet, and Supplements
-
-- No specific discussion under this category in this session.
-
----
-
 ## Control System & Sociopolitical Manipulation
 
-- **Psychopathy** results in a supreme lack of insight.
 - Psychopaths destroy what they try to control, even if it leads to mutual ruin.
 - Reference to **Political Ponerology**: the rise of psychopaths to power leads to catastrophe.
 - Masses of people remain unaware of being the "body" destroyed by these psychopathic "germs".
-- **Climategate** and false flag terrorism (airplane attack) are seen as part of the control agenda.
 - Control system is becoming more desperate due to being undermined by the group and others like them.
 - Desperate control actions are good because they lead to mistakes and potential exposure.
 - **4D STS** makes indirect moves to repress creativity, thereby revealing their hand.
@@ -85,34 +69,9 @@
 
 ## Notable Warnings or Predictions
 
-- Eventual cosmic catastrophe implied in relation to the "**5D city on a hill**."
 - International travel shutdown is predicted, possibly in 8 months.
 - Shutdown will not be total or long-lasting.
 - "Wait and see" response to why airports will be shut down.
-
----
-
-## Technology and Artificial Intelligence
-
-- No specific discussion under this category in this session.
-
----
-
-## Contact and Alien Interactions
-
-- No specific discussion under this category in this session.
-
----
-
-## Spiritual Practices & Ritual
-
-- Lighting of three Christmas candles at session start; symbolic but not discussed further.
-
----
-
-## Genetics and Ancestry
-
-- No specific discussion under this category in this session.
 
 ---
 
@@ -144,6 +103,3 @@
 
 ---
 
-## End of Session
-
----

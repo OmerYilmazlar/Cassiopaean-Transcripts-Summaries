@@ -75,9 +75,7 @@
 
 ## Notable Warnings or Predictions
 
-- **Entity attachments** in animals may lead to dangerous behavior, especially with strong or instinctive dogs
 - Mismatched pets can open vulnerability to chaos-inducing forces
-- A similar dog-related incident may happen again to **kawika** and **Awapuhi**, possibly more dangerously
 - Terrorist **dirty nukes** are possible, with implication of them being false flag operations
 - **World War III** escalation in Syria is not expected
 
@@ -110,8 +108,6 @@
 
 - **Pedophile networks** have deep infiltration in local and national French government institutions
 - High-level figures (mayor, state prosecutor, ministers) were protected, and investigations suppressed
-- Police captain and fiscal auditor are manipulated but also complicit due to personal motives
 
 ---
 
-## End of Session

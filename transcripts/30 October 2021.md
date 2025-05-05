@@ -1,6 +1,6 @@
 # 30 October 2021
 
-## [Summary of 30 October 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-30-october-2021.51253/#post-983835)
+## Summary of [30 October 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-30-october-2021.51253/#post-983835)
 
 **Tags:** Green Energy Agenda, Genetic Modification, Vaccine Effects, Earth Changes, Depopulation Agenda, Spiritual Resistance, Historical Distortion, 4D STS Influence
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura, Andromeda, and Artemis at the board; Pierre, Joe, Gaby, Ark, Chu, Scottie, Niall, Princess Leia, Pikabu the Cat
 
-**FOTCM Zoom attendees:** 3DStudent, 987baz, Abats, Aeneas, aimarok, Aiming, alana, Alejo, Altair, and many others.
+**FOTCM Members via Zoom:** 3DStudent, 987baz, Abats, Aeneas, aimarok, Aiming, alana, Alejo, Altair, and many others.
 
 ---
 
@@ -39,7 +39,6 @@
 - "**April Drop Dead Date**" is still approaching.
 - La Palma volcano activity will increase eventually.
 - Carson, California, affected by earthquakes and a foul smell due to a **fault line**.
-- 53% chance of a significant California earthquake within a year.
 - "Mexico Falls" prediction relates to an earthquake.
 - **Wind patterns** have shifted, becoming more compact and inconsistent.
 - Wind-based energy is unreliable under changing climate conditions.
@@ -52,11 +51,9 @@
 - All vaccines, including DNA vaccines, damage the **immune system**.
 - Efforts were made to prevent vaccines from producing positive mutations; such outcomes are rare.
 - A positive mutation from vaccine shedding requires elevated consciousness and **knowledge/being**.
-- Vaccine doses are not placebos; all contain active substances.
 - No significant benefit from "Nano soma."
 - Pfizer vaccine may indirectly affect consciousness if one is susceptible.
 - No current pandemic is a "true plague"; the new space virus, if it emerges, may have a **79% death rate**.
-- **Meditation and knowledge** can counter negative influences from vaccines.
 - Knowledge gained through effort builds being.
 
 ---
@@ -69,8 +66,6 @@
 - Governments are increasingly conscious of these destructive intentions.
 - Russia and China are not deeply on board with this global agenda.
 - Bill Gates acknowledged the need for continued nuclear power due to public backlash.
-- The hidden agenda behind sustainable development includes **depopulation**.
-- The real reason behind green policies is belief in overpopulation as a planetary threat.
 - Overpopulation is real.
 - Joe Biden will not be declared unfit for office, but fate may intervene.
 - **Mask mandates** will end eventually, but only after considerable time.
@@ -79,14 +74,12 @@
 - A cold civil war in the USA is unlikely to turn hot, but a **people-vs-government conflict** is more probable.
 - A color revolution is likely in Poland.
 - A mandatory vaccination bill will pass in Russia and provoke protests.
-- The Club of Rome's 1972 report had depopulation as a hidden agenda.
 
 ---
 
 ## Esoteric Work & Personal Development
 
 - Gary is okay due to knowledge and prayers.
-- **Meditation and knowledge** can counter vaccine effects.
 - Knowledge gained through effort builds being.
 - The work done in France could not have survived in Florida.
 
@@ -129,7 +122,6 @@
 
 ## Religious and Historical Preservation
 
-- Paul used the Jewish religion as a template; he did not believe **Yahweh** was Caesar's god.
 - Paul reincarnated, but not as a notable figure. His real name was Zacaria.
 - Mark was not a woman; however, the author of the first passion play honoring Caesar was.
 - Matthew, Mark, and Luke may have been based on real people and groups.
@@ -147,4 +139,3 @@
 
 ---
 
-## End of Session

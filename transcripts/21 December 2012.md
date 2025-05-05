@@ -82,7 +82,6 @@
 
 ## Books, Research, and Cultural Commentary
 
-- Volume III of *The **Secret History of the World*** is 80% complete and explores cosmic mind interaction with human activity.
 - Volume II of the **Secret History** was pending release.
 - Laura's historical research revealed real evidence of 40 tons of gold taken by **Caepio** near **Toulouse** in 106 BC.
     - The gold was hidden nearby but never recovered.
@@ -96,9 +95,7 @@
 
 - Significant price hikes expected in January due to exposed food scarcity.
 - Food shortages will lead to widespread sickness.
-- **Sandy Hook** and similar events were orchestrated to reinforce public dependence on authority figures.
 - The "end of the world" did not occur, but an "end" in stages is unfolding.
-- Humanity is in a transitional phase with symbolic and actual manifestations of hyperdimensional interference.
 
 ---
 
@@ -112,7 +109,6 @@
 
 - UFO in **Denver** enters and exits via a "time lock."
 - Such UFOs are hyperdimensional and detectable during density transitions.
-- Alien invasion already occurred via mind and social manipulation.
 
 ---
 
@@ -122,4 +118,3 @@
 
 ---
 
-## End of Session

@@ -14,12 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No direct information on afterlife or soul mechanics provided in this session.
-
----
-
 ## Cosmic Structure & Densities
 
 - **P4**, **P3**, **P2** "monsters" are identified as species designations created by 4D beings.
@@ -59,10 +53,8 @@
 
 ## Esoteric Work & Personal Development
 
-- **Singing**, music, and voice are emphasized as tools of self-transformation and harmonization.
 - A**** is told that art and music are their specific gifts, and they should study voice seriously.
 - Singing aligns inner and outer voice, allowing "angels to sing with you."
-- Music is beneficial for most people, and some individuals can affect others deeply through their vocal expression.
 - Laura is said to be able to teach superior breathing techniques.
 - Avoiding depressing and mind-warping music is advised.
 - Following the detox diet and practicing positive music engagement is linked to mental clarity and personal goals.
@@ -119,8 +111,6 @@
 ## Historical Insights
 
 - **Trace minerals** interact with "deeply held secrets," referenced through dream symbolism in earlier sessions.
-- **Aryan** genetics originally immune to trichinosis; dietary needs and ancestry linked to iron and protein needs.
-- Hybrid experiments and **STS** plans for replacement races via hybridization and reincarnation are discussed in referenced material.
 
 ---
 

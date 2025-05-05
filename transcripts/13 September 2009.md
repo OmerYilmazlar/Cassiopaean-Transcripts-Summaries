@@ -16,14 +16,11 @@
 
 ## Afterlife & Soul Topics
 
-- Crystallization on a faulty foundation due to **trauma** leads to suffering during breakdown and transformation
 - Alternative survival strategy: some split to survive **trauma** rather than crystallize
 - Splitting allows gradual **reintegration**, leading to less intense suffering compared to crystallized individuals
-- Upsetting dreams and visions during meditation are unresolved **past life memories** being processed out
 - This purging process reduces susceptibility to **illusions** and emotional manipulation
 - People become smarter as energy previously supporting illusion becomes available for **knowledge** and awareness
 - **Meditation** and **prayer**, especially slow breathing, are key components for healing
-- **Round breathing** can accelerate the process; should be reduced if it becomes overwhelming
 - The concept of **soul smashing** involves manipulating individuals to go against their own soul nature through trauma
 - Traumatic life experiences can lead to a downward spiral and eventually **soul smashing** if choices are made against one's being
 - Soul smashing results in returning to **primal matter**, restarting evolution over millions or billions of years
@@ -38,18 +35,6 @@
 
 - Mention of possible **4D** and even **5D** souls being manipulated into downward paths
 - **Reincarnation** and soul evolution cycle: soul smashing resets the soul to primal matter, restarting the consciousness acquisition process
-
----
-
-## Earth Changes & Environmental Events
-
-- No notable content.
-
----
-
-## Health, Diet, and Supplements
-
-- No notable content.
 
 ---
 
@@ -89,13 +74,6 @@
 ## Notable Warnings or Predictions
 
 - Reference to 2009 as a "**smashing year**" possibly linked to the insight about soul smashing
-- Not everyone will be affected—soul smashing occurs on an individual basis
-
----
-
-## Technology and Artificial Intelligence
-
-- No notable content.
 
 ---
 
@@ -109,12 +87,6 @@
 
 - **Meditation**, prayer, slow breathing encouraged
 - **Round breathing** should be moderated based on comfort and emotional impact
-
----
-
-## Genetics and Ancestry
-
-- No notable content.
 
 ---
 
@@ -138,10 +110,3 @@
 
 ---
 
-## Environmental & Industrial Events
-
-- No notable content.
-
----
-
-## End of Session

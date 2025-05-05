@@ -22,12 +22,6 @@
 
 ---
 
-## Cosmic Structure & Densities
-
-- No relevant content in this session.
-
----
-
 ## Earth Changes & Environmental Events
 
 - Danny saw a "**rip in the sky**," and the response confirms many such occurrences lately.
@@ -43,12 +37,10 @@
 
 ## Control System & Sociopolitical Manipulation
 
-- The **Amsterdam server** crash was due to an attack through the owner, but not a conscious one.
 - A "**cleansing action**" was behind a recent meltdown—beneficial both personally and for the group.
 - A group of **agents** had attempted infiltration, takeover, and destruction of the group. Discrediting was described as "impromptu plan b."
 - **Terri** is a conscious agent; **JoJo**, **Olga**, and **Vincent** are not.
 - **TB** is confirmed to be a conscious agent.
-- The group should be closed, but with modifications in participation as previously outlined—specifically pulling back from deep personal involvement.
 - The group should no longer interact with or investigate **VB**, but previously posted material about him should not be removed to avoid setting a precedent.
 
 ---
@@ -69,7 +61,6 @@
 ## Notable Warnings & Predictions
 
 - Attacks on the group will continue regardless of the server chosen.
-- It is advised to choose based on instincts and server support capabilities rather than attack prevention.
 - **Noah** is described as "Extremely!!!" important in the present context.
 
 ---
@@ -81,10 +72,3 @@
 
 ---
 
-## Contact and Alien Interactions
-
-- No direct alien contact discussed, but references to **hyperdimensional manipulation** and sky anomalies imply such interaction.
-
----
-
-## End of Session

@@ -13,12 +13,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No direct content under this category.
-
----
-
 ## Cosmic Structure & Densities
 
 - **6th density close**
@@ -32,18 +26,6 @@
 
 ---
 
-## Health, Diet, and Supplements
-
-- No content under this category.
-
----
-
-## Control System & Sociopolitical Manipulation
-
-- No content under this category.
-
----
-
 ## Esoteric Work & Personal Development
 
 - The **Perseus Foundation** project is confirmed as a step forward to **“awaken the lost chosen ones.”**
@@ -51,19 +33,6 @@
 - Importance emphasized: **“Forward into the light. Listen.”**
 - A message or phenomenon is present **above the house**, visible if observed.
 - Channel is currently **weak**, and cloud cover is a contributing factor.
-- Group is encouraged to **burn a big one right straight up through the clouds**, metaphorically suggesting piercing the interference.
-
----
-
-## Books, Research, and Cultural Commentary
-
-- No content under this category.
-
----
-
-## Notable Warnings or Predictions
-
-- No direct warning, but implied importance in listening and focusing on awakening others.
 
 ---
 

@@ -43,7 +43,6 @@
 - One participant needs more natural, balanced **protein**—preferably from meat.
 - Amino acid supplements not sufficient; meat is better.
 - Preferences against meat may not be "**their own**."
-- Emotional manipulation and physiological effects can occur via **EM frequencies**.
 - Specific individual should avoid harmful foods that affect their system.
 - Up to 6 grams of **vitamin C** per day is appropriate.
 - **Silk** is advised for health protection, including silk scarves and bed drapery.
@@ -58,17 +57,14 @@
 - Full spiritual work requires awareness of surrounding **political and worldly conditions**.
 - Esotericism should not be separate from political awareness.
 - "True religion" includes a curious and aware approach to the **real world**.
-- There are "those out there" who want this work to **stop**, both on and off planet.
 - Attacks can be subtle, "**insidious**," and aimed at individuals to remove them from play.
 
 ---
 
 ## Esoteric Work & Personal Development
 
-- **Righteous anger** can function as a mental block against manipulations.
 - The idea that "the fate of the universe may depend on you" is intended to strengthen resolve.
 - Dealing with anxiety involves both diet and awareness of genetically linked shared effects.
-- "**Mental blocking**" is a core method of protection against EM and other hyperdimensional attacks.
 
 ---
 

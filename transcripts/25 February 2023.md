@@ -1,6 +1,6 @@
 # 25 February 2023
 
-## [Summary of 25 February 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-25-february-2023.53089/)
+## Summary of [25 February 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-25-february-2023.53089/)
 
 **Tags:** Earth Changes, Secret Government, Population Reduction, Alien Agenda, Genetic Manipulation, Spiritual Dynamics, 4D Transition, Technological Collapse
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura and Andromeda at the board; Pierre, Joe, Niall, Ark, PoB, Chu, Scottie
 
-**FOTCM Zoom attendees:** 3DStudent, A Jay, Adobe, aimarok, Alejo, Ana Huitzil, AndrewMn, Constantine, loreta, Windmill Knight and many others.
+**FOTCM Members via Zoom:** 3DStudent, A Jay, Adobe, aimarok, Alejo, Ana Huitzil, AndrewMn, Constantine, loreta, Windmill Knight and many others.
 
 ---
 
@@ -23,12 +23,6 @@
 - Some souls may exceed their planned accomplishments in 3D, though this is rare.
 - Many are "**leaving the body**" now to act as support for those facing trauma in the near future.
 - A being can simultaneously contemplate at **5th density** while incarnating in one or more lives.
-
----
-
-## Cosmic Structure & Densities
-
-- 3D infrastructure may still exist in a semi-operational form after the transition to **4D**.
 
 ---
 
@@ -98,7 +92,6 @@
 
 - Attempts to merge **AI with human DNA** (superhumans) will fail due to the collapse of technological infrastructure.
 - The resulting societal shift will vary by location but may lead to a more **primitive state** of existence.
-- **Starlink**, AI, and green energy goals are seen as flawed solutions.
 
 ---
 
@@ -107,7 +100,6 @@
 - UFO observed near the Sun in December 2022 was real, not a dust particle.
 - Balloon/UFO hype may serve as a prelude to the introduction of "**extraterrestrial**" overlords.
 - Zesheng Yang's observation near the sun was a real **UFO**.
-- The "**Secret Government**" is not human and not necessarily aligned with plans to destroy Russia.
 - Their actions aim to maximize **suffering and manipulation**, not necessarily to win.
 
 ---
@@ -120,13 +112,9 @@
 
 ## Genetics and Ancestry
 
-- The "94% used as containers" refers to energetic consumption and **genetic manipulation**.
 - The goal is the creation of a new race via genetic modification.
-- Hindu god **Rama** lived 50,000 years ago; he was a high priest influenced by the Confederation and fought against the Lizards.
 - Ravana is a fictionalized character based on **cometary activity**.
 - Vedas were written by descendants of the **Paranthas**, originally from the Indian region (ancestral Tamilians/Dravidians).
-- These descendants are most strongly represented in **Australian Aborigines**.
-- Iranian farmer migrants brought an archaic form of **Sanskrit** to India around 6000 BC.
 
 ---
 
@@ -142,7 +130,6 @@
 ## Historical Insights
 
 - The Mahabharata and **Atlantis** share commonalities as historical echoes.
-- Rama, the Vedas, and early Sanskrit trace back to ancient Dravidian and **extraterrestrial-linked** roots.
 
 ---
 
@@ -162,4 +149,3 @@
 
 ---
 
-## End of Session

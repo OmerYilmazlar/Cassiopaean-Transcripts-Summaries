@@ -18,7 +18,6 @@
 
 - Humans destined to "meet" themselves in the future can now do so with greater facility due to breathing and meditation efforts.
 - The "zoning out" phenomenon is related to spending time with the **higher self/teacher**.
-- The dissociation ability is being used as originally intended—rather than wasted on illusions.
 - The soul is taxed greatly by being embodied.
 
 ---
@@ -41,7 +40,6 @@
 
 ## Health, Diet, and Supplements
 
-- Inflammation and tiredness experienced by Laura are due to both attack and increased **detoxing**.
 - "Keep flushing" suggests continuation of detox process.
 - EFT is described as a "keep busy" activity that focuses attention, but is counter to the presented program's purpose.
 
@@ -97,7 +95,6 @@
 
 ## Spiritual Practices & Ritual
 
-- Breathing and meditation are foundational and should continue regularly.
 - A specific dance discovered resembling a slow crane movement is significant and relevant.
 
 ---
@@ -105,7 +102,6 @@
 ## Genetics and Ancestry
 
 - Nostratic is a valid linguistic unit and partially represents the original **Kantekkian language**.
-- There was early blending between Kantekkian and Earth populations.
 - The early shamans of East Asia and the circle-people of Europe originated from Kantek.
 - Differences in phenotype indicate admixture with native Earth populations.
 - The "out of Africa" vs "out of Asia" debate should be reframed as "**out of Kantek vs out of Earth**".
@@ -139,4 +135,3 @@
 
 ---
 
-## End of Session

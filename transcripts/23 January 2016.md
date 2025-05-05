@@ -14,12 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No direct discussion on afterlife or soul-specific topics.
-
----
-
 ## Cosmic Structure & Densities
 
 - Endocrine glands are described as portals to higher densities.
@@ -33,8 +27,6 @@
 - The spike in **El Niño** activity is the one referenced in the July 4, 1998 session.
 - The El Niño spike is still climbing and is the strongest since 1950.
 - There may be a coming **10.4 earthquake** in the Pacific related to this spike.
-- **Hawaii** aviation crash is mentioned as an associated item, suggesting connections between events.
-- A series of predictions from the 1994 session are still unfolding, with **Ukraine's** current situation being worse than what was predicted as a single explosion.
 - The death of **Princess Diana** may have marked a timeline shift to a more negative trajectory.
 - **Cascadia subduction zone** activity (mini-tsunamis, earthquakes, roads collapsing) may be precursors to "The Big One."
 - Two historically strong storms in the **North Pacific** (Nov 2014, Dec 2015) indicate an energetic sink in that region.
@@ -57,7 +49,6 @@
 
 ## Control System & Sociopolitical Manipulation
 
-- **Princess Diana's** death was considered more than a marker; it may have triggered a timeline shift unleashing "very evil influences."
 - **Kurt Cobain's** death was confirmed as suicide, not murder.
 - **Bruce Lee** and **Aaliyah's** deaths were not murder or omens.
 - Public figures are not always worthy heroes; seeking better ones is encouraged.
@@ -90,13 +81,6 @@
 - Timeline has shifted negatively since 1997, possibly due to Diana's death.
 - Predictions from 1994 are still valid but manifest differently or with more severity.
 - Mini-tsunamis, North Pacific storms, and seismic activity suggest precursors to larger events.
-- The supernova has effects on Earth and human affairs, but interpretation is left to observers.
-
----
-
-## Technology and Artificial Intelligence
-
-- Not discussed.
 
 ---
 
@@ -119,16 +103,9 @@
 
 ---
 
-## Religious and Historical Preservation
-
-- Not discussed.
-
----
-
 ## Historical Insights
 
 - Review of predictions from sessions in 1994 and 1998 to assess alignment with present events.
-- **Diana's** death and 1997 events (e.g., flood in Poland, Arky moving to the US) are seen as key timeline shift points.
 
 ---
 

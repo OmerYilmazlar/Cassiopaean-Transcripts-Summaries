@@ -1,6 +1,6 @@
 # 22 October 2022
 
-## [Summary of 22 October 2022 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-22-october-2022.52608/)
+## Summary of [22 October 2022 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-22-october-2022.52608/)
 
 **Tags:** Reality Manipulation, Jar's Passing, Putin and Russia, Nord Stream Sabotage, Global Economic and Energy Crisis, Virus Shedding, 4D STS Influence, Quantum and Biophoton Research, Historical Events
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura and Andromeda at the board; Pierre, Joe, Gaby, Ark, PoB, Chu, Scottie, Niall, Noko the Wonderdog
 
-**FOTCM Zoom attendees:** 3DStudent, 987baz, A Jay, Adobe, Aeneas, aimarok, Aiming, Alana, Alejo, Altair and many others.
+**FOTCM Members via Zoom:** 3DStudent, 987baz, A Jay, Adobe, Aeneas, aimarok, Aiming, Alana, Alejo, Altair and many others.
 
 ---
 
@@ -121,7 +121,6 @@
 
 ## Historical Insights
 
-- Only 3% of Roman Italy's inhabitants spoke Latin as their mother tongue at the time of Caesar's assassination.
 - Vesuvius eruption occurred ~100 years after Caesar's death.
 - Julius Caesar performed higher-density acts to benefit humanity, similar to Jesus.
 - Tauroctony symbolized the **murder** of the primal bull who gave itself for humanity; opposing self-sacrifice ethos.
@@ -138,4 +137,3 @@
 
 ---
 
-## End of Session

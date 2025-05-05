@@ -17,7 +17,6 @@
 ## Afterlife & Soul Topics
 
 - Discussion of V's ex-husband confirmed he called her after 22 years and has a health issue.
-- It was suggested that trying to pursue civil action against him is a waste of time.
 - V is still legally married; he never remarried or divorced.
 - Guidance was to "fill life with joy at his absence" and "release and rejoice."
 - He is not yet dying.
@@ -54,7 +53,6 @@
 
 ## Control System & Sociopolitical Manipulation
 
-- V's encounter with a man at a grocery store was described as a "warning."
 - Slide (reality sequence) was described as having gotten "stuck," indicating discontinuity.
 - Discontinuities occur when frequencies fall out of synch with those who share one's reality.
 
@@ -66,7 +64,6 @@
 - These were triggered by "frequency envelope thinning" due to environmental repetition patterns.
 - Attempting to generate such states for experience's sake is a trait of **STS**.
 - Rare experiences of higher awareness were emphasized.
-- Fear of the dark in a person was linked to her own perpetuation of the issue.
 - "Sound and fury signifying nothing" referenced in psychological context.
 
 ---
@@ -123,16 +120,9 @@
 
 ---
 
-## Political Power Structures
-
-- No specific content under this heading in this session.
-
----
-
 ## Environmental & Industrial Events
 
 - Psychics denying environmental destruction criticized as denying responsibility and refusing awareness.
 
 ---
 
-## End of Session

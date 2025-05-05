@@ -19,7 +19,6 @@
 - Laura's mother is described as being "on her journey home."
 - She is comfortable and experiencing little pain.
 - The medications help with her pain.
-- She was able to understand the messages sent to her in audio form.
 
 ---
 
@@ -27,12 +26,6 @@
 
 - **Five levels** of membership are aligned with the idea of concentric circles, each representing a stage of development or participation.
 - The Cs approve of the structure using five levels.
-
----
-
-## Earth Changes & Environmental Events
-
-- No content under this section in this session.
 
 ---
 
@@ -45,13 +38,11 @@
 - A***'s pancreas is improving but not fully healed.
 - A*** benefits from fish, liver, rice protein, ultra shakes, and possibly brown rice and steamed vegetables.
 - Bananas are not recommended for A***.
-- Mint and lemon are acceptable for A***.
 
 ---
 
 ## Control System & Sociopolitical Manipulation
 
-- The formation of a legally recognized **religious structure** is seen as a defense against increasing control tactics, such as forced vaccinations.
 - The structure will protect the rights of members under **First Amendment** rights (e.g., religious exemptions from vaccinations, rights to smoke tobacco, discuss conspiracies, combine spirituality with political awareness).
 - Members practicing breathing, meditation, and detox protocols are fully entitled to legal protections.
 - Comparisons made to religious protections in legal contexts, e.g., **Jehovah's Witnesses** and **7th Day Adventists**.
@@ -67,17 +58,9 @@
 - Higher-level connections are forming among practitioners.
 - A clear sense of community is emerging within the forum.
 - Only those practicing breathing and meditation (and making some dietary changes) will be considered full members.
-- Membership includes personal responsibility and minimal active participation requirements (e.g., logging meditation activity, detox, online forum involvement).
 - **Teachers** must be ordained and attend workshops; psychopathic individuals will be filtered out through training requirements.
 - Progress and participation in the forum and workshops are key to advancement through the five membership levels.
 - Levels include: **Listeners**, **Active Members**, **Teachers**, **Teachers of Teachers**, and **Elders**.
-
----
-
-## Books, Research, and Cultural Commentary
-
-- The group has nearly completed the **Statement of Principles**, which is seen as a groundbreaking and clear articulation of esoteric and legal alignment.
-- The document is described by the Cs as "the clearest and most cogent statement of its kind" and needs to be shared as soon as possible.
 
 ---
 
@@ -89,30 +72,12 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- Not addressed in this session.
-
----
-
-## Contact and Alien Interactions
-
-- Not addressed in this session.
-
----
-
 ## Spiritual Practices & Ritual
 
 - Daily **meditation** and breathing practices are required for full membership.
 - The **Prayer of the Soul** and associated DVDs are required for members.
 - Online virtual church participation through forum activity and personal logging is necessary.
 - Definition of religious practice includes attending workshops, reading specific books, and understanding core materials.
-
----
-
-## Genetics and Ancestry
-
-- Not addressed in this session.
 
 ---
 
@@ -138,10 +103,3 @@
 
 ---
 
-## Environmental & Industrial Events
-
-- Not addressed in this session.
-
----
-
-## End of Session

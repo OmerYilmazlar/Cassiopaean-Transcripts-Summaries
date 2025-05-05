@@ -47,7 +47,6 @@
 ## Health, Diet, and Supplements
 
 - Recent sickness among the group is due to amplification of an **infective agent** brought by a Paleofest attendee
-- The infection was likely introduced **intentionally** in a public place
 - Purpose was to deliver a "**hit**" against the group, indicating the group has grown stronger
 - Recovery advice: protect the **liver**
 
@@ -56,7 +55,6 @@
 ## Control System & Sociopolitical Manipulation
 
 - **Wikileaks** was briefly a grassroots project but was quickly co-opted
-- **Julian Assange** is somewhat consciously an agent, influenced by human and **4D programming**
 - Assange did have a meeting with **Israelis** to avoid releasing damaging documents about them
 - The Wikileaks spectacle is a step toward preparing the public to accept **global control**
 - However, Earth changes represent an unpredictable "**X factor**" that may disrupt these plans
@@ -74,7 +72,6 @@
 ## Books, Research, and Cultural Commentary
 
 - "**Planet X, Comets and Earth Changes**" by James McCanney presents mostly accurate ideas on cometary behavior and planetary formation
-- "**Lost Star of Myth and Time**" contains accurate theories about precession caused by binary star rotation and Sirius-related gravitational influences
 - Evidence suggests Earth's rotation was affected during **Sirius B's** eclipse of **Sirius A**, indicating a gravitational connection
 
 ---
@@ -88,52 +85,9 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- No content under this topic in this session.
-
----
-
-## Contact and Alien Interactions
-
-- No direct contact or alien interaction discussed in this session.
-
----
-
-## Spiritual Practices & Ritual
-
-- No specific spiritual rituals or practices discussed.
-
----
-
 ## Genetics and Ancestry
 
 - **DNA changes** are expected due to the cosmic wave from the potential supernova
 
 ---
 
-## Religious and Historical Preservation
-
-- No discussion under this topic in this session.
-
----
-
-## Historical Insights
-
-- No explicit historical insights mentioned.
-
----
-
-## Political Power Structures
-
-- **Wikileaks** and **Julian Assange** are tools manipulated by existing power structures for societal control
-
----
-
-## Environmental & Industrial Events
-
-- Phenomena like persistent **contrails**, strange **clouds**, and sudden **climatic shifts** are linked to electric and gravitational interactions, not necessarily human pollution alone
-
----
-
-## End of Session

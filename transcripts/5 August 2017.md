@@ -16,7 +16,6 @@
 
 ## Afterlife & Soul Topics
 
-- Disintegration and **soul smashing** are increasing.
 - Entities can watch through mirrors; both malevolent and benevolent ones.
 - Mental blocking works to prevent such observation.
 - Entities can rarely come through mirrors, and it would require energy from the person, akin to **ectoplasm** from a medium.
@@ -61,7 +60,6 @@
 - Trump exposed corruption in the media and **Deep State** despite not achieving his goals.
 - Trump likely will not succeed in his mission.
 - Chances of impeachment are "even."
-- More likely than assassination is a convenient death due to stress.
 - USA is close to the verge of **revolution**.
 - Public awareness of media and political corruption has grown under Trump.
 - Some people ignore the Deep State exposure because of personal hatred for Trump.
@@ -82,7 +80,6 @@
 
 ## Books, Research, and Cultural Commentary
 
-- Rise of trans identities is a reflection of chaos and entropy, tied to disintegration and soul smashing.
 - Water transfer from Mars to Earth occurred due to a **Birkeland current** between bodies with different electric potentials.
 
 ---
@@ -92,7 +89,6 @@
 - More likely than impeachment is a stress-induced death for Trump.
 - The USA is close to the verge of a revolution.
 - Increasing signs of chaos and entropy in nature and society.
-- Disintegration and soul smashing events are accelerating.
 - The hyperkinetic sensate nature of the Wave is actively manifesting in **global behaviors**.
 
 ---
@@ -109,4 +105,3 @@
 
 ---
 
-## End of Session

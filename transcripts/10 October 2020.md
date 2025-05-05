@@ -1,6 +1,6 @@
 # 10 October 2020
 
-## [Summary of October 10th, 2020 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-10-october-2020.49595/#post-898385)
+## Summary of [10 October 2020 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-10-october-2020.49595/#post-898385)
 
 **Tags:** Health Attacks, Satellite Weapons, DNA Targeting, Covid-19, Political Chaos, Martial Law, Chemotherapy, Psychic Light Network, Disclosure
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura, Andromeda, Artemis, Pierre, Joe, Chu, Ark, PoB, Scottie, Niall, Noko the Wonderdog, the Lunar Module, Princess Leia.
 
-**FOTCM Zoom attendees:** Not provided.
+**FOTCM Members via Zoom:** Not provided.
 
 ---
 
@@ -20,12 +20,6 @@
 
 - The C's reminded: "Create a network of **psychic light** now that all those who asked have been served with the basic protection."
 - Explanation: Those with charged crystals are connected at a **higher level** where space and time are variable and selective.
-
----
-
-## Cosmic Structure & Densities
-
-- No content under this heading in this session.
 
 ---
 
@@ -56,7 +50,6 @@
 - A **satellite beam-type weapon** caused multiple cardiac events including Ark's.
 - The weapon was configured to attack individuals with **higher abilities**, such as academics, doctors, and potential dissenters against the Covid narrative.
 - The primary target was in **France**, but not near the group's location.
-- Sweden was hinted to have taken a different path from other nations regarding lockdowns—"**Just wait!**"
 
 ---
 
@@ -113,7 +106,6 @@
 
 ## Genetics and Ancestry
 
-- Ark's **psychic shielding** and DNA provided natural protection against the energy weapon.
 - The weapon was targeting DNA signatures associated with "**higher abilities**."
 
 ---
@@ -126,4 +118,3 @@
 
 ---
 
-## End of Session

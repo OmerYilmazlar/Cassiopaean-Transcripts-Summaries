@@ -41,12 +41,6 @@
 
 ---
 
-## Health, Diet, and Supplements
-
-- No direct references in this session.
-
----
-
 ## Control System & Sociopolitical Manipulation
 
 - "There are no elections" in the US; a statement implying rigged or illusory political processes.
@@ -56,9 +50,6 @@
 - Explosives in the **Pentagon** were delivered by the specially constructed plane itself.
 - Possibility that **Flight 77** was landed at **Denver Airport**.
 - Mention of a future scandal at Denver Airport, related to 9/11.
-- **Daniel Hopsicker** is confirmed as an agent.
-- The US is described as a place where it's "hard to see" who isn't an agent.
-- **SD** is considered an agent but may "lose his scales" soon.
 - "There are many ways to die" was said about Bush, not necessarily due to illness.
 
 ---
@@ -66,7 +57,6 @@
 ## Esoteric Work & Personal Development
 
 - Group is facing an issue with "**stalling frequency waves**."
-- Members are trapped in a "**frequency fence**" and stored for later food.
 - Overcoming the stalling requires will and knowledge.
 - Sharing knowledge may help others find the will to act.
 - Differentiation made between the core group ("seeing and doing") and others still affected.
@@ -106,10 +96,3 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- Light sabers as imagined in fiction are not possible with existing Earth technology.
-
----
-
-## End of Session

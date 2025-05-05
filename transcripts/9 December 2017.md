@@ -25,7 +25,6 @@
 ## Cosmic Structure & Densities
 
 - Poltergeist phenomena involve energy anomalies of 3rd density and require **vacuum utilization** via human information decoding.
-- Vacuum functions as information and may be close to what is referred to as "ether."
 - Hyperdimensions and quantum theory are relevant to such phenomena.
 - Consciousness serves as a **bridge/decoder** between dimensions.
 - STS is constrictive and inhibits flow in the vacuum, affecting manifestation capabilities.
@@ -44,14 +43,12 @@
 - One individual's illness is related to hormones, specifically ACTH and adrenal imbalance.
 - Visiting a hormone specialist is advised.
 - **Hormone reset diet** is recommended.
-- Psilocybin can bind to neuroreceptors, dissolve ego boundaries, and allow broader sensory impressions, but repeated use can alter brain structures negatively.
 - Not a spiritual tool, but potentially therapeutic in some cases.
 
 ---
 
 ## Control System & Sociopolitical Manipulation
 
-- Hillary Clinton and affiliates had access to **advanced assassination technology** capable of triggering heart attacks remotely.
 - Andrew Breitbart's death was potentially influenced by this tech.
 - Seth Rich was "mostly" the source of leaks and was assassinated; Podesta linked to both his and Breitbart's cases.
 - US Air Force requested Russian RNA samples, possibly to develop **genetically-targeted bioweapons**.
@@ -82,7 +79,6 @@
 
 ## Notable Warnings or Predictions
 
-- There are ongoing efforts by human agents, influenced by 4D STS, to manipulate genetics for their own ends—creating **slaves, soldiers, and incarnational bodies**.
 - The STS orientation hinders success due to its constriction of informational flow in the vacuum.
 
 ---
@@ -90,7 +86,6 @@
 ## Technology and Artificial Intelligence
 
 - Advanced assassination tech exists, capable of remotely inducing heart attacks.
-- 4D STS drive human technological and genetic research programs with hidden agendas.
 
 ---
 
@@ -100,4 +95,3 @@
 
 ---
 
-## End of Session

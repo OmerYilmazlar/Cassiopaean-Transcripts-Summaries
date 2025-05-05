@@ -18,14 +18,12 @@
 
 - Beings in **5D** can share lessons and energy if connected genetically or spiritually.
 - **4D** beings can help or harm depending on life lesson plans and consent.
-- Ancient depictions of spiritual realities, including ancestor connection and angels/demons, are relatively accurate.
 
 ---
 
 ## Cosmic Structure & Densities
 
 - **4D** is a realm where thought has the power to create.
-- Structures created in **4D** can act as "idea blueprints" that attract matching elements in **3D** due to the consciousness in inanimate matter.
 - **4D** bodies are semi-material and malleable compared to **3D**.
 - Full abductions are rare; usually, only the consciousness is extracted.
 - Changes made in **4D** are imprinted in the consciousness, which then manifests changes in **3D**.
@@ -55,7 +53,6 @@
 
 - **UFOs**, not drones, were responsible for airport shutdowns in **Gatwick** and **Birmingham**; intention was to cause panic.
 - Western hostility toward traditional masculinity is part of a broader nefarious plan.
-- Aim is to create weak men in alignment with **4D STS** desires for dominance.
 - Homosexuality has some normal causes but is also partially a reflection of **4D STS** manipulation.
 - **4D STS** is not "gay"; it's about power and domination, not sex.
 - Radical feminism and certain social agendas support **4D STS** objectives.
@@ -74,16 +71,13 @@
 
 ## Books, Research, and Cultural Commentary
 
-- "**Ultimate Alien Agenda**" criticized for promoting domination-themed alien abduction stories.
 - Laura's review mocks the sexualized portrayal of reptilian beings and praises **David Jacobs'** *The Threat*.
-- *Darwin's Black Box* and *The Edge of Evolution* by **Behe** support intelligent design arguments, aligning with Cassiopaean perspectives on 4D manipulation.
 - **Peter Townsend's** research on Mecca and Islam discussed; critical view of Islam's origins and moral content.
 
 ---
 
 ## Notable Warnings or Predictions
 
-- Outbreaks similar to the cow virus may begin affecting humans.
 - Electrical and atmospheric anomalies will increase.
 - Mainstream science will be forced to confront past Earth cataclysms due to recent crater discoveries.
 - People are not recognizing the increasing strangeness of reality and signs of **4D bleedthrough**.
@@ -116,4 +110,3 @@
 
 ---
 
-## End of Session

@@ -14,12 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- *(No specific content under this category in this session)*
-
----
-
 ## Cosmic Structure & Densities
 
 - Cometary bodies and the **Twin Sun** influence planetary movement and pole shifts.
@@ -30,7 +24,6 @@
 ## Earth Changes & Environmental Events
 
 - A **pole shift** is possible and highly probable within the next ten years.
-- The coming pole shift will involve a new axial orientation and **magnetic reversal**.
 - Perpendicularity of Earth's axis to the ecliptic will be restored.
 - **Lithospheric shift** will feature to some extent but not dramatically.
 - Equator's location will remain mostly stable.
@@ -76,28 +69,8 @@
 
 ## Notable Warnings or Predictions
 
-- **Pole shift** with magnetic reversal is highly probable within a decade.
 - Cometary impacts and celestial mechanics will contribute to these shifts.
-- "Light will break in a big way" is predicted as the next major life event.
 - No mini black hole exists at the Earth's core.
-
----
-
-## Technology and Artificial Intelligence
-
-- *(No specific content under this category in this session)*
-
----
-
-## Contact and Alien Interactions
-
-- *(No specific content under this category in this session)*
-
----
-
-## Spiritual Practices & Ritual
-
-- *(No specific content under this category in this session)*
 
 ---
 
@@ -120,16 +93,3 @@
 
 ---
 
-## Political Power Structures
-
-- *(No specific content under this category in this session)*
-
----
-
-## Environmental & Industrial Events
-
-- *(No specific content under this category in this session)*
-
----
-
-## End of Session

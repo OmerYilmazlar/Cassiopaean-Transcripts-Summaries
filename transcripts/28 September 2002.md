@@ -21,7 +21,6 @@
 - Those who objectively engage with reality become the future.
 - Avoidance of confusion by shutting out the world is a spiritual bypass.
 - **Monastic withdrawal** is a rejection of the gift of physical life and opportunity to grow spiritually.
-- Real learning is through interaction with the world and striving to see the spirit in all things.
 - Growth occurs through awareness and participation in one's realm.
 - Home is where the heart is.
 - The mission in this realm warrants physical preservation to complete responsibilities to humanity.
@@ -105,4 +104,3 @@
 
 ---
 
-## End of Session

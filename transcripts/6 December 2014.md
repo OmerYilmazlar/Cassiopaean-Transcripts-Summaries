@@ -16,12 +16,10 @@
 
 ## Afterlife & Soul Topics
 
-- Breton has precipitately disconnected **psychic and etheric cords** that bound him to a specific plan and milieu.
 - This disconnection tore his **triple cycle veil**, resulting in energy leakage and a decline in intellectual function.
 - He effectively "left his **true self** behind" near his children; only his body centers are present.
 - He suffers from a lack of faith in the process and allows **fear** to guide decisions.
 - He gives too much power to his ex-partner and hasn't developed the force and skills to overcome obstacles.
-- He is reminded of his **karmic commitment** to his children and encouraged to fulfill duties while supporting the network.
 
 ---
 
@@ -59,7 +57,6 @@
 
 ## Esoteric Work & Personal Development
 
-- "**Fully engaged**" participation in the network in all possible ways ensures timely information reception.
 - Results matter more than mere presence; one must see **results** to assess alignment and action.
 - "Where your energy goes, your heart is" — **funding and energy** input into the network determine future placement and support.
 - The group is encouraged to prepare to receive and aid others from the network's outer edges.
@@ -69,7 +66,6 @@
 
 ## Books, Research, and Cultural Commentary
 
-- Discussion on biblical contradictions between asceticism and worldly responsibility mirrors differences in early Buddhism (**Hinayana vs. Mahayana**).
 - Robert Price's analysis suggests early Christianity had a **dual path** similar to the Buddhist Great and Small Vehicles.
 - The concept applies to network members: both full community members and those integrated from afar can contribute meaningfully.
 
@@ -92,8 +88,6 @@
 ## Contact and Alien Interactions
 
 - Channeling is described as rare and reserved for individuals with the right mix of **genetics, soul potential, mission, and preparation**.
-- The Cs mention they'll meet Laura in the **psychomantium** soon, indicating continued communication in altered states.
 
 ---
 
-## End of Session

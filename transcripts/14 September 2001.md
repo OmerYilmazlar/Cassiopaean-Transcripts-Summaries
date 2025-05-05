@@ -14,12 +14,6 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No content under this category in this session.
-
----
-
 ## Cosmic Structure & Densities
 
 - **4th Density STS** beings were responsible for destroying Laura's hard drive
@@ -37,7 +31,6 @@
 
 ## Health, Diet, and Supplements
 
-- Laura's **swollen ankles** were due to prolonged sitting
 - Laura and Ark had been working **14 hours** a day non-stop
 
 ---
@@ -73,7 +66,6 @@
 ## Books, Research, and Cultural Commentary
 
 - Laura's hard drive was destroyed, targeting the **Noah book**
-- The content in the Noah book is seen as important and necessary
 - The **C's** reassured that the book will be published and they will survive
 - Laura and Ark will become famous
 
@@ -84,7 +76,6 @@
 - No further **terrorist attacks** of this kind are expected in the near future in the U.S.
 - The U.S. may bomb **Afghanistan** in the future
 - Money will come soon to support Laura and Ark
-- **Israel** will be exposed within a month, perhaps sooner
 
 ---
 

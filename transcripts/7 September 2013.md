@@ -19,14 +19,11 @@
 - Individuals lacking a magnetic center tend to exhibit **narcissistic traits**.
 - Infantile internal states result in inability to perceive beyond self.
 - Narcissism is often linked to self-pity and desire to dominate.
-- Crystallization on a wrong foundation often stems from early family dynamics.
 
 ---
 
 ## Cosmic Structure & Densities
 
-- The main cause for the geomagnetic field is **electric flow between the Sun and the cosmic environment**.
-- Industrial plumes can act as attractors for cometary discharges due to their electrical charge.
 - The eleven-year solar cycle is caused by **reverberations from the companion's passes** (resonance).
 
 ---
@@ -75,34 +72,14 @@
 - A referenced article discusses moral "Endo-skeletons" vs. "Exo-skeletons," which the Cs say is close to the idea of people needing **external rules** due to infantile internal development.
 - Cicero likened to modern personalities such as P____ A____ and Jack Abramoff, described as cowardly and preening.
 - Movie "Casino Jack" recommended to understand Cicero's character.
-- Speculation on a mutation event causing both pigs and humans to emerge in tandem.
 
 ---
 
 ## Notable Warnings or Predictions
 
 - Without knowledge and awareness, individuals are susceptible to **attack and karmic repercussions**.
-- Some relationships can attract destructive energies impacting families on multiple levels.
 - A communist-style revolution is "very possible" due to increasing class divide rhetoric and historical cycles.
 - Evil actions and intentions can manifest physically and deteriorate health.
-
----
-
-## Technology and Artificial Intelligence
-
-- None
-
----
-
-## Contact and Alien Interactions
-
-- None
-
----
-
-## Spiritual Practices & Ritual
-
-- None
 
 ---
 
@@ -117,7 +94,6 @@
 
 ## Religious and Historical Preservation
 
-- Jesus as popularly known is a **conglomerate with only a small portion** based on a real rebel fighter.
 - Josephus has clues and is referred to as the "father" of Jesus.
 - Octavian published the Cicero letters.
 - Cicero confirmed to be cowardly; described with reference to modern figures.
@@ -141,10 +117,7 @@
 
 ## Environmental & Industrial Events
 
-- Industrial plumes can attract comet discharges due to **negative electrical charge**.
 - Shockwaves from the AZF plant explosion were possibly manipulated or misinterpreted.
-- One explosion at the AZF plant may have occurred 3.5 km above ground.
 
 ---
 
-## End of Session

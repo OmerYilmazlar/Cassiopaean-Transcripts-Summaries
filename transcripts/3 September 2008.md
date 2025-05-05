@@ -30,12 +30,6 @@
 
 ---
 
-## Earth Changes & Environmental Events
-
-- None directly discussed.
-
----
-
 ## Health, Diet, and Supplements
 
 - Nanosilver can help with **inflammation**.
@@ -48,7 +42,6 @@
 - Avoid direct sun exposure if susceptible to fungal overgrowth and vitamin D complications.
 - A*** has very slight adrenal fatigue.
 - **Electromagnetic pollution** in Southern California contributed partly to DD's achalasia.
-- Moving to France improved the condition due to decreased EM pollution and different food supply.
 - DD's dog should receive a slightly lower nanosilver dose with added probiotics.
 - The dog is "looking forward to **graduation**" and should not be held back tightly.
 
@@ -70,12 +63,6 @@
 
 ---
 
-## Books, Research, and Cultural Commentary
-
-- None discussed.
-
----
-
 ## Notable Warnings or Predictions
 
 - USA has **passed the point** where anything can change the outcome of destruction.
@@ -85,40 +72,15 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- None discussed.
-
----
-
-## Contact and Alien Interactions
-
-- None discussed.
-
----
-
-## Spiritual Practices & Ritual
-
-- None discussed.
-
----
-
 ## Genetics and Ancestry
 
 - Psychopaths are **defective OPs**.
 - Defectiveness can be inborn, due to childhood events, or engineered.
 - Engineered psychopaths are more recent; most result from genetic mutation.
 - Original mutation dates back to **50,000 years ago**.
-- Psychopath population grows at certain historical periods, causing destruction and reducing their own numbers—similar to **predator-prey cycles**.
 - One psychopathy strain comes from a **Neanderthal–Aryan cross**.
 - This strain exhibits a drive to destroy.
 - Not all psychopaths stem from that cross.
-
----
-
-## Religious and Historical Preservation
-
-- None discussed.
 
 ---
 
@@ -132,14 +94,6 @@
 
 - No direct confirmation on whether Putin is a psychopath.
 - Bush is noted for saying different things without action.
-- Putin seen as **more reasonable** compared to other leaders.
 
 ---
 
-## Environmental & Industrial Events
-
-- None discussed.
-
----
-
-## End of Session

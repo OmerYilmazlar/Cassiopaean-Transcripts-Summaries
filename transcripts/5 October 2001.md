@@ -14,22 +14,10 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- No direct discussion in this session.
-
----
-
 ## Cosmic Structure & Densities
 
 - Reference to Lorentz transformation using integers suggests space-time is like a **grid or lattice**:
     - "Indeed it is."
-
----
-
-## Earth Changes & Environmental Events
-
-- No content under this topic in this session.
 
 ---
 

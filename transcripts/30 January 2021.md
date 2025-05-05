@@ -1,6 +1,6 @@
 # 30 January 2021
 
-## [Summary of 30 January 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-30-january-2021.50112/)
+## Summary of [30 January 2021 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-30-january-2021.50112/)
 
 **Tags:** Political Chaos, Deep State, COVID-19, Election Fraud, Military Control, Economic Crisis, Hyperdimensional Manipulation, Nanotechnology, Free Will, Historical Cycles
 
@@ -12,7 +12,7 @@
 
 **Participants:** Laura, Andromeda, Artemis, Pierre, Joe, Chu, Ark, Gaby, Scottie, Niall, Princess Leia
 
-**FOTCM Zoom attendees:** Not provided.
+**FOTCM Members via Zoom:** Not provided.
 
 ---
 
@@ -36,7 +36,6 @@
 
 - The asteroid belt is the remnants of **Kantek**.
 - Most of Kantek's mass disintegrated into dust and was ejected from the solar system.
-- The planetary explosion affected other planets and left evidence on Earth.
 
 ---
 
@@ -52,7 +51,6 @@
 
 ## Control System & Sociopolitical Manipulation
 
-- The **Deep State** is now in power via Biden and Harris, which will bring chaos due to fear of losing control.
 - Greed for power is a sickness; ruling elites are sabotaging themselves.
 - **Military intervention** will increase at all levels.
 - Trump was disliked by military leaders for not being a war monger.
@@ -89,7 +87,6 @@
 - Overriding the **free will** of the majority has energetic consequences.
 - Cosmically, the forces of darkness have painted a target on themselves.
 - Some U.S. states may seriously consider **secession**, but Trump will not become president of a new USA.
-- The next economic crisis will begin as a **manufactured event** but spiral out of control, similar to COVID.
 - The phrase "**Enjoy the show**" is reiterated, hinting at dramatic unfolding events.
 
 ---
@@ -100,4 +97,3 @@
 
 ---
 
-## End of Session

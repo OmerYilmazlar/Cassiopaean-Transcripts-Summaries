@@ -46,7 +46,6 @@
 - **Heavy metal detox** should continue gently for about a year.
 - Vaccines and medications are engineered to create mutations and reinforce pharmaceutical dependence.
 - **Tamiflu** and vaccines have been linked to psychological side effects.
-- Massive inflammation atop existing autoimmune conditions is contributing to mental disorders.
 - Most current mental conditions are the result of **autoimmune disorders**.
 - The degradation of human health has been ongoing for almost a hundred years, originating around the time of the **Industrial Revolution**.
 
@@ -90,7 +89,6 @@
 - Soul smashing may occur if individuals do not clear suppressed emotions before the wave's amplification effect.
 - Infiltration by pathological individuals poses a serious risk; extensive checks and oversight are necessary.
 - Teachers should be evaluated and monitored with direct feedback mechanisms to prevent misconduct.
-- Hidden psychological conditions could lead to emotional destruction if not addressed ahead of time.
 
 ---
 
@@ -98,7 +96,6 @@
 
 - DVDs and training materials are recommended as core teaching tools.
 - Inclusion of feedback links in DVDs or as on-screen post-video text is advised.
-- Teachers' presentations and performance should be tracked in a central database.
 
 ---
 
@@ -115,4 +112,3 @@
 
 ---
 
-## End of Session

@@ -37,7 +37,6 @@
 
 ## Earth Changes & Environmental Events
 
-- General **chaotic energies** of transition are affecting the environment
 - Animals and environment suffer due to these energies
 - **Lensing effect** by "agents" focuses environmental energies on individuals, affecting pets and local surroundings
 - Regional chaos noted, including abnormal human behavior
@@ -66,9 +65,7 @@
 
 ## Esoteric Work & Personal Development
 
-- Gurdjieff's work described man as a **machine** and tried to overcome this through crystallization
 - His system is barren, lacking awareness of **hyperdimensional realities**, compassion, or spiritual context
-- His goal was personal salvation and immortal life
 - His approach lacked a spiritual or altruistic foundation; used others as experimental subjects
 - No meaningful outcomes observed in modern **Gurdjieff groups**
 - His system destroys natural conscience and compassion due to materialistic paradigm
@@ -90,7 +87,6 @@
 ## Notable Warnings or Predictions
 
 - **Dreams** involving break-ins or the devil reflect real attempts by agents to direct negative energies
-- Individuals are encouraged to tighten awareness and remain vigilant
 - The world is experiencing extreme **chaos**, indicating a significant shift or transition
 
 ---
@@ -116,4 +112,3 @@
 
 ---
 
-## End of Session

@@ -16,21 +16,8 @@ Participants: Laura, Ark, Cs (Fiaage)
 
 ## Afterlife & Soul Topics
 
-- Frank lacks the **STO motivation** to help others without an agenda, which provides staying power through troubles.
 - His inner drives, stemming from programmed parental abuse and neglect, lead toward suicidal thoughts.
 - The Cs express no desire to communicate with Frank, indicating complete withdrawal of connection.
-
----
-
-## Cosmic Structure & Densities
-
-- No direct content under this heading in this session.
-
----
-
-## Earth Changes & Environmental Events
-
-- No direct content under this heading in this session.
 
 ---
 
@@ -75,52 +62,3 @@ Participants: Laura, Ark, Cs (Fiaage)
 
 ---
 
-## Technology and Artificial Intelligence
-
-- No content under this heading in this session.
-
----
-
-## Contact and Alien Interactions
-
-- No content under this heading in this session.
-
----
-
-## Spiritual Practices & Ritual
-
-- No content under this heading in this session.
-
----
-
-## Genetics and Ancestry
-
-- No content under this heading in this session.
-
----
-
-## Religious and Historical Preservation
-
-- No content under this heading in this session.
-
----
-
-## Historical Insights
-
-- No content under this heading in this session.
-
----
-
-## Political Power Structures
-
-- No content under this heading in this session.
-
----
-
-## Environmental & Industrial Events
-
-- No content under this heading in this session.
-
----
-
-## End of Session

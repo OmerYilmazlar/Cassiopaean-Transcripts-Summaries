@@ -16,7 +16,6 @@
 
 ## Afterlife & Soul Topics
 
-- Transition to 4D is possible, but those who return are generally **STS**.
 - Less than **3,000 individuals** have managed to escape from 3D in the current cycle.
 - Dan Winter described as "**over the edge**"; expected to distort Laura's work.
 - "Some people are born to serve, others are born to be served…"
@@ -49,11 +48,9 @@
 - **MI5 involved** in the London train bombings; lack of professionalism noted.
 - Madrid bombing attributed to "our **favourite false flag gang**."
 - Flight 587 crash linked to **MOSSAD**; labeled as a "reminder."
-- Pentagon attack: Two survivors, one possibly **ex-IDF** linked to Pentagon.
 - Explosions at WTC were real; "**conductors**" for "shaped" **EMP** were used.
 - **HAARP turning brains to tapioca**; mostly affects the US population.
 - Peak oil narrative labeled political manipulation: "**Distract and conquer**."
-- Thermo-Nuclear Reactor project in France seen as a **distraction**; a maneuver to buy time.
 - France and US not allied; both must deal with "**stooges for Yahweh**."
 - Sarkozy influenced by **Kabbalah**; involved in occult.
 - Percentage of US population that:
@@ -117,4 +114,3 @@
 
 ---
 
-## End of Session

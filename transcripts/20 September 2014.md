@@ -14,16 +14,8 @@
 
 ---
 
-## Afterlife & Soul Topics
-
-- A **soul group** is an affiliation that can be due to origin or graduation.
-- Soul groups do not function as fixed or immutable entities tied only to specific lifetimes.
-
----
-
 ## Cosmic Structure & Densities
 
-- A review of triple cycle rhythms on a cosmic scale was recommended in relation to **karma**.
 - Reference to previous explanation comparing outcomes based on cosmic "**biorhythm**" states (e.g., Rockefeller vs. Gandhi).
 
 ---
@@ -41,7 +33,6 @@
 - The Paleolithic "**pestles**" were used for healing tones when struck in correct sequences and combinations.
 - Important that **tones** include subtones and frequencies that are natural to the stone and resonate with body cells.
 - **Blue stones** at Stonehenge noted for their specific properties.
-- Laura's **coccyx** is broken and **sacrum** is cracked; healing will take 4 months.
 - Recommended remedies: cold and heat, avoid sitting, and emphasize rest ("lay low").
 - For Rabelais:
     - He no longer has cancer.
@@ -85,39 +76,9 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- [Not covered]
-
----
-
 ## Contact and Alien Interactions
 
 - **Ileaghona** of Cassiopaea source present.
-
----
-
-## Spiritual Practices & Ritual
-
-- [Not covered]
-
----
-
-## Genetics and Ancestry
-
-- [Not covered]
-
----
-
-## Religious and Historical Preservation
-
-- [Not covered]
-
----
-
-## Historical Insights
-
-- [Not covered]
 
 ---
 
@@ -134,4 +95,3 @@
 
 ---
 
-## End of Session

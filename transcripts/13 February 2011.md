@@ -32,22 +32,17 @@
 ## Earth Changes & Environmental Events
 
 - Some bird and animal **die-offs** are connected; others are not
-- Overhead **explosion** killed the birds in Arkansas
-- The sun did not rise two days early in **Greenland**; instead, changes in atmospheric density, temperature, and dust loading caused the appearance
 - Planetary **spin** and **orbit** are being modified by the approach of a companion body
 - Astronomical orbit changes are small but significant; tightly controlled instruments prevent broad detection
 - A **dimensional barrier** broke, causing shaking of the house
 - Comet **Elenin** is already taking a toll and possibly may cause major disruption
 - Elenin core is **500km** in diameter and is growing
-- Outburst of asteroid **596 Scheila** was related to Elenin and other bodies; asteroid became electrified
-- Explosion in a Scottish forest was a **meteorite impact**
 - The recent **comet storm** is part of the building cosmic storm
 - A **supernova** is expected to manifest within two years
 - **Betelgeuse** has not gone supernova
 - Fragment seen over **Kazakhstan** was a comet, not a rocket
 - Chemicals from the **Gulf oil spill** have reached Europe and the UK; not noticeable yet, avoid bottom fish
 - **Electrical discharges** from rain, dust, and snow are causing animal deaths and effects like cracked airplane windows
-- Electric charges can enhance human perception and thin the **veil**
 
 ---
 
@@ -55,7 +50,6 @@
 
 - Return of the **Black Death** is extremely likely, expected within **18 months** to **2 years**
 - Certain **genetic profiles** may suffer little
-- **Smoking tobacco** is a clue and an aid for protection
 - **Colloidal silver** is helpful but not sufficient alone
 - Dietary changes, especially **fat consumption**, help enormously for cell protection
 - **Shortbread cookies** made with coconut oil are beneficial
@@ -100,24 +94,6 @@
 
 ---
 
-## Technology and Artificial Intelligence
-
-- None.
-
----
-
-## Contact and Alien Interactions
-
-- **Black Death** virus seen as alien and interactive with **4D STS** feeding
-
----
-
-## Spiritual Practices & Ritual
-
-- **Crop circles** function as messages of cosmic grace; ignoring them results in karmic consequences
-
----
-
 ## Genetics and Ancestry
 
 - **Genetic profile** affects susceptibility to the Black Death
@@ -128,12 +104,6 @@
 ## Religious and Historical Preservation
 
 - **Saladin** apparition over Egypt linked to historical resonance through thinning veil
-
----
-
-## Historical Insights
-
-- **Saladin's** image seen as apparition during Egyptian protests
 
 ---
 
@@ -151,4 +121,3 @@
 
 ---
 
-## End of Session

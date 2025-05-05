@@ -1,6 +1,6 @@
 # 30 December 2023
 
-## [Summary of 30 December 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-30-december-2023.54112/)
+## Summary of [30 December 2023 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-30-december-2023.54112/)
 
 **Tags:** Alien Interactions, Consciousness Shift, Hyperdimensional Control, Afterlife Communication, Planetary Changes, Racism, Israel-Palestine Conflict, Spiritual Protection
 
@@ -12,14 +12,13 @@
 
 **Participants:** Laura and Andromeda at the board. Joe, Niall, Gaby, Ark, Possibility of Being (PoB), Scottie, Chu, Leia, Falkor, Bella
 
-**FOTCM Zoom attendees:** Not provided.
+**FOTCM Members via Zoom:** Not provided.
 
 ---
 
 ## Afterlife & Soul Topics
 
 - Pierre was contacted directly and relayed messages:
-    - He is in a state of **freedom**, without pain or time, resembling dreaming.
     - He is aware of the group when he thinks about them and can see them.
     - His environment includes familiar, idealized imagery (fields, castles, mountains).
     - He encountered his grandmother ("**Mamie Bonjour**") who is happy and youthful.
@@ -28,9 +27,7 @@
     - The information received from the Cassiopaeans is accurate.
     - Earth is surrounded by a "**great noise**" (disinformation, chaos), making clarity difficult.
     - The Cs appear as "**humanlike shaped light**" gathered during communication.
-    - He visited in a dream to alert Thomas about Laura's foot—confirming his presence.
     - A "**glory**" is coming for all—planet-wide and including the solar system.
-    - He perceives an anticipation and shift around Earth.
     - He understands the information field and its structure (**spiral/helix**).
 
 ---
@@ -62,7 +59,6 @@
 - Major 2023 events included:
     - Middle East **escalation** since October
     - Efforts to block Trump in the U.S.
-    - Escalating **immigration agendas**
 - The group is under scrutiny and may be targeted if unity and communication lapse.
 
 ---

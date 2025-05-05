@@ -17,7 +17,6 @@
 ## Afterlife & Soul Topics
 
 - DD's son was subjected to **mind programming** due to his father's military work.
-- The father was also a subject, used to make the son available.
 - The son's suicide was a result of resistance to programming; his **FRV** was not conducive to control.
 - He was not stimulated to commit suicide to hurt his father, but rather as a form of resistance.
 
@@ -31,16 +30,9 @@
 
 ---
 
-## Earth Changes & Environmental Events
-
-- None noted.
-
----
-
 ## Health, Diet, and Supplements
 
 - Ark's shoulder pain identified as neck stiffness pinching a nerve
-- **EM burns** appear as blue spots and are often a defense mechanism against intrusion
 - Blue color is a physiological response to **EM surge**, akin to a blister
 - Locations of **EM spots** can be symbolic: arm (personal defense), ovary/belly (defense for children)
 
@@ -52,9 +44,7 @@
 - Its purpose: to demonize crop circles, promote "**gray aliens**" as good guys, and inject doubt into the group
 - Technology error in the crop circle message indicates **STS** source via glitch ("believe")
 - **STS**-made crop circles can cause growth disruption unlike **STO** ones
-- **Gray alien abductions** are often screen memories or government mind control programming
 - **U.S.** is the capital of STS, correlating with prevalence of gray alien imagery
-- Government uses **abduction** narratives as a cover for actual non-return abductions
 - Some "**abductions**" are only projected memories
 - **Whitley Strieber's** depictions helped propagate gray alien mythos for potential mind programming purposes
 - Mass consciousness signaled "clear and present danger" with **911** appearing in NY lottery
@@ -68,7 +58,6 @@
 - Carissa prompted to contemplate personal experiences in relaxed states for insight into **abductions**
 - Terms "**projection**" and "**reflection**" used to encourage introspection
 - **Hypnosis** suggested as a helpful probing method
-- Monitoring and programming signals can result in **ear ringing**; tracking patterns can aid in personal coding
 - Ear ringing may signal subliminal warnings picked up by neural processes
 
 ---
@@ -77,7 +66,6 @@
 
 - Laura discusses **Richard Dolan's** book and insights into government concealment of UFO activities
 - **Whitley Strieber's** books potentially serve disinformation goals
-- Discussion on authenticity of **Roswell** alien autopsy based on deviation from expected "gray" image
 - The term "**Pyr**" relates to fire/light and connects to pyramids and resonance
 - Ark refers to **Matti Pitkanen's** work on prime numbers and finds Zuber connection relevant
 - **Prime numbers** possibly relate to sound resonance and pyramid structures
@@ -121,17 +109,9 @@
 
 ---
 
-## Historical Insights
-
-- Government manipulation of public perception of **alien abduction** phenomena began over 30 years ago
-
----
-
 ## Political Power Structures
 
 - Governments, including the **U.S.** and **China**, possibly involved in covert alliances and weapon dealings
-- Global leaders may be aligned in an **STS**-driven agenda to depopulate Earth
 
 ---
 
-## End of Session

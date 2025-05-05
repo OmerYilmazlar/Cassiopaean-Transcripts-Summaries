@@ -20,7 +20,6 @@
 - Purpose included remolecularization of **souls**
 - **Remolecularized** beings were inserted back into the building to escape and be rescued
 - Mass **abduction** event used as traumatic screen to "turn on the programs"
-- **Programmed individuals** likely released back into society, with set triggers to run amok
 
 ---
 
@@ -29,12 +28,6 @@
 - **4th density STO** will manifest help for some 3rd Density groups
 - "**Journeyman**" mentioned as a 4th Density STO observer and informant
 - **4th Density** uses gold for technology
-
----
-
-## Earth Changes & Environmental Events
-
-- No specific earth changes mentioned in this session.
 
 ---
 
@@ -75,17 +68,10 @@
 - Guidance for the group is to help others read programs within themselves
 - **Energy draining** individuals identified in group; one joined to subvert and confuse
 - Influences pulling strings are from **4th Density STS**
-- Some group members are currently dangerous to the mission and should be identified
 - Responding to a call for help is an indicator of those in true "**network mode**"
 - **STO** helps those who ask
 - **762** referenced as a group-related number: 76 members to stay, the rest "no go"
 - Encouragement to maintain patience
-
----
-
-## Books, Research, and Cultural Commentary
-
-- No direct mention of specific books or cultural material in this session.
 
 ---
 
@@ -96,7 +82,6 @@
 - **Iraq** will be blamed and attacked
 - **France** may be targeted with a nuclear event
 - U.S. President may die in office within 1–2 years, though probability is low
-- **4th Density** events used WTC collapse for abduction and implantation of programs
 - Individuals "rescued" may have pre-set programs to activate in society
 - Group infiltration by **STS**-aligned agents is ongoing
 
@@ -109,4 +94,3 @@
 
 ---
 
-## End of Session
