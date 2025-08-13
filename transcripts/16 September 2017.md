@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** September 16, 2017
@@ -14,11 +15,13 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Tales of gods fighting in the sky and the castration of **Chronos** relate to a cosmic event involving **Mars** temporarily being much closer to Earth.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -29,6 +32,7 @@
 - Sea levels rose ~50 meters during the **Younger Dryas** despite cooling temperatures due to this water transfer
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -44,6 +48,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - **Vicente Fox** is trolling Trump, not acting as Deep State agent
@@ -56,18 +61,22 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - **Mirrors** can be used for communication if a tuned receiver exists
 - Mirrors can be **charged** for such purposes, referencing Don Juan from Castaneda
+- **Water** can also be used similarly as a medium for communication.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
 - Reference made to **Castaneda's** Don Juan regarding charged mirrors
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -76,11 +85,13 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Use of charged **mirrors** and **water** aligns with spiritual or shamanic practices
 
 ---
+
 
 ## Historical Insights
 
@@ -90,6 +101,7 @@
 
 ---
 
+
 ## Political Power Structures
 
 - **Trump's** presidency demonstrates the futility of opposing the Deep State
@@ -97,10 +109,48 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - Recent U.S. military accidents and failures (e.g. helicopter crash, marine incidents) attributed to **psychopathy** and **negative selection**
 - Peace-time inefficiencies are signs of deeper systemic decay, potentially catastrophic during wartime
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- No content under this category in this session.
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- No content under this category in this session.
+
+---
+
+
+## Contact and Alien Interactions
+
+- No content under this category in this session.
+
+---
+
+
+## Genetics and Ancestry
+
+- No content under this category in this session.
+
+---
+
+
+## Religious and Historical Preservation
+
+- No content under this category in this session.
+
+---
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** December 29, 2018
@@ -14,12 +15,15 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Beings in **5D** can share lessons and energy if connected genetically or spiritually.
 - **4D** beings can help or harm depending on life lesson plans and consent.
+- Ancient depictions of spiritual realities, including ancestor connection and angels/demons, are relatively accurate.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -29,8 +33,10 @@
 - Changes made in **4D** are imprinted in the consciousness, which then manifests changes in **3D**.
 - **4D** battles are reflected as Earth changes and environmental upheavals in **3D**.
 - "As above, so below" applies to **4D STS** vs **STO** dynamics.
+- Structures created in 4D can act as “idea blueprints” that attract matching elements in 3D due to the consciousness in inanimate matter.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -42,12 +48,14 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Virus that killed cows is not a common virus; it's newly introduced and immune-resistant.
 - Thought alone cannot cure colds yet because humans are not in **4D**.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -57,8 +65,10 @@
 - **4D STS** is not "gay"; it's about power and domination, not sex.
 - Radical feminism and certain social agendas support **4D STS** objectives.
 - Rules against self-defense may have been programmed to promote weakness.
+- Aim is to create weak men in alignment with 4D STS desires for dominance.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -69,20 +79,26 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Laura's review mocks the sexualized portrayal of reptilian beings and praises **David Jacobs'** *The Threat*.
 - **Peter Townsend's** research on Mecca and Islam discussed; critical view of Islam's origins and moral content.
+- "Ultimate Alien Agenda" criticized for promoting domination-themed alien abduction stories.
+- *Darwin’s Black Box* and *The Edge of Evolution* by Behe support intelligent design arguments, aligning with Cassiopaean perspectives on 4D manipulation.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
 - Electrical and atmospheric anomalies will increase.
 - Mainstream science will be forced to confront past Earth cataclysms due to recent crater discoveries.
 - People are not recognizing the increasing strangeness of reality and signs of **4D bleedthrough**.
+- Outbreaks similar to the cow virus may begin affecting humans.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -91,6 +107,7 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - Genetic manipulations are performed in **4D** by reconstructing a 4D body around consciousness, modifying it, and sending the consciousness back to 3D.
@@ -98,6 +115,7 @@
 - **4D** intelligence behind these manipulations is extremely advanced and potentially STS-oriented.
 
 ---
+
 
 ## Religious and Historical Preservation
 
@@ -109,4 +127,6 @@
 - 72 virgins in Islam is possibly a mistranslation—actual reward may be 72 grapes.
 
 ---
+
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** September 14, 2001
@@ -13,6 +14,7 @@
 **Participants:** Ark and Laura
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -23,17 +25,21 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - A prolonged **rainstorm** was attributed to a 4th density battle
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Laura and Ark had been working **14 hours** a day non-stop
+- Laura's swollen ankles were due to prolonged sitting.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -57,33 +63,40 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - "**Failsafe awareness**" was advised as a precautionary state of mind
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Laura's hard drive was destroyed, targeting the **Noah book**
 - The **C's** reassured that the book will be published and they will survive
 - Laura and Ark will become famous
+- The content in the Noah book is seen as important and necessary.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
 - No further **terrorist attacks** of this kind are expected in the near future in the U.S.
 - The U.S. may bomb **Afghanistan** in the future
 - Money will come soon to support Laura and Ark
+- Israel will be exposed within a month, perhaps sooner.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
 - Laura's **hard drive** was destroyed by 4th Density STS beings
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -93,3 +106,11 @@
 ---
 
 End of Session
+
+
+---
+## Afterlife & Soul Topics
+
+- No content under this category in this session.
+
+---

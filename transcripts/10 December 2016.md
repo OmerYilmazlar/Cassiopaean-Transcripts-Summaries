@@ -6,6 +6,7 @@ Tags: Reiki symbols, sacred geometry, political manipulation, Keshe scam, Crysta
 
 ---
 
+
 ## Session Details
 
 Date: December 10, 2016
@@ -13,6 +14,7 @@ Date: December 10, 2016
 Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility of Being, Chu, Scottie, Timótheos, Alana, Arky, Prodigal Son, dugdeep, Itellsya, fabric, Windmill knight, Noko the Wonderdog, The Lunar Module, Opal the Majesticat
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -24,12 +26,15 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - The fundamental language of the **information field** is geometric shapes.
 - Inverted symbols play an inverted role, as used in **Satanist movements**.
+- Symbols act as connectors to information and are universal, not subjective or arbitrary.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -40,6 +45,7 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Fecal transplants have excellent chances of improving the recipient's **gut flora**.
@@ -49,6 +55,7 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - The Keshe energy devices do not produce energy without input, are not "friendlier," and constitute a **scam**.
@@ -56,8 +63,10 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 - **Obama** waived restrictions on weapons to "non-state actors" to sidestep **Tulsi Gabbard's bill** and salvage their terrorist proxy forces in Syria.
 - These actions are driven by a lust for money, which equals power, and by **4D STS influences** aiming for total control before cosmic changes.
 - Events in the following "40 or so days" were predicted to give "**chills up your spine**."
+- Attempts to create chaos before Trump’s inauguration were suggested (e.g., arming terrorists with MANPADs to down Russian/Syrian aircraft).
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -68,6 +77,7 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - The group's long-favored **Samadhi Sanskrit chant** CD has been beneficial over the years.
@@ -76,6 +86,7 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 - Chu was selected to lead the **chant project**; Galatea and Itellsya will contribute tonalities; Timótheos will mix.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -88,12 +99,14 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Keshe devices do not deliver free energy and are a **scam**.
 - Fascination with these technologies stems from **programming** and misinterpretation of ancient metaphors (like alchemy's "gold").
 
 ---
+
 
 ## Spiritual Practices & Ritual
 
@@ -104,4 +117,13 @@ Participants: Laura, Andromeda, Galatea, Pierre, Joe, Niall, Data, Possibility o
 - Chanting during **Reiki** is endorsed; new English-language tracks are being developed for group use.
 
 ---
+
+
+
+## Contact and Alien Interactions
+
+- 4D STS agencies are driving current sociopolitical chaos in an attempt to establish control before cosmic changes.
+
+---
+
 

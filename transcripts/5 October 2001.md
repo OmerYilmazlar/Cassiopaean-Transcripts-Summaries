@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 5, 2001
@@ -14,12 +15,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Reference to Lorentz transformation using integers suggests space-time is like a **grid or lattice**:
     - "Indeed it is."
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -34,11 +37,13 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - No direct content under this topic in this session.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -50,6 +55,7 @@
 - Book-writing encouraged: "**Finish the book**."
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -67,6 +73,7 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Regarding Terri Burns:
@@ -79,6 +86,22 @@
 
 ---
 
+
 ## End of Session
 
 A: Goodbye.
+
+
+---
+## Afterlife & Soul Topics
+
+- No direct discussion in this session.
+
+---
+
+
+## Earth Changes & Environmental Events
+
+- No content under this topic in this session.
+
+---

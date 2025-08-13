@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** December 1st, 2018
@@ -14,13 +15,16 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - The solar system is currently under influences both **external** (e.g., Nemesis) and **internal** (e.g., humanity's state and streams of comet dust).
 - These influences are linked to events like solar "**singing**," earthquakes, and possible space anomalies.
 - Oumuamua's unusual acceleration is likely due to solar system forces similar to those acting on Earth spacecraft (e.g., Pioneer), rather than **alien origin**.
+- These unknown forces can affect both natural objects and human-made spacecraft.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -35,6 +39,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Human wounds do not heal well in space due to lack of **gravity**, electromagnetic fields, and specific environmental chemical elements.
@@ -43,12 +48,14 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - The rise in transgender and gender confusion movements is expected to cause **tragedy** and a "**moralistic snapback**."
 - A reported psychopathy rate among Ashkenazi Jews was stated as **53%**.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -57,11 +64,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Modern music rarely retains such properties.
+- Gregorian chant retains healing tonal qualities and sub-tones similar to those used in ancient civilizations.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -70,6 +80,7 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - Some people thrive in their homeland due to **genetic and environmental compatibility**.
@@ -77,11 +88,13 @@
 
 ---
 
+
 ## Historical Insights
 
 - The shot that killed JFK did not come from the road drain but from the **bridge and grassy knoll**.
 
 ---
+
 
 ## Environmental & Industrial Events
 
@@ -89,4 +102,48 @@
 - California fires: **natural**, not artificial or DEW-related.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- No specific content under this heading.
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- No specific content under this heading.
+
+---
+
+
+## Contact and Alien Interactions
+
+- Oumuamua is not an alien probe but is affected by unknown forces in the solar system.
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- No specific content under this heading.
+
+---
+
+
+## Religious and Historical Preservation
+
+- No specific content under this heading.
+
+---
+
+
+## Political Power Structures
+
+- No specific content under this heading.
+
+---
+
 

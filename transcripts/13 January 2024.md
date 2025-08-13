@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** January 13, 2024
@@ -15,6 +16,7 @@
 **FOTCM Members via Zoom:** Over 100 members including 3DStudent, A Jay, Adobe, Alejo, Altair, Bluefyre, Cosmos, Eboard10, Genero81, Gawan, Learner, Maat, Natus Videre, Oxajil, Seek10, Ursus Minor, and many others
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -27,6 +29,7 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - **Genetic recombination:** Some rare individuals have active versions of this system.
@@ -36,6 +39,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - **Face peeling incidents:** Caused by exposure to **4D STS energy** similar to radiation.
@@ -44,6 +48,7 @@
 - **Pre-Younger Dryas world:** Divided into hundreds of nations; coastal civilizations **submerged**.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -56,6 +61,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - **HAARP/EM signals:** Can unintentionally increase FRV in knowledgeable individuals.
@@ -67,6 +73,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - **Mental sex:** Involves intellectual and energetic sexual polarity; distinct from physical transition.
@@ -74,6 +81,7 @@
 - **Theme park metaphor:** Life circumstances shaped by awareness, **intention**, and spiritual hygiene (e.g., prayer, diet, fasting).
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -84,6 +92,7 @@
 - **Barabar Caves:** Built by 4D STS to harvest **worship energy** directly.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -97,6 +106,7 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - **Bloodline 4D STS beings:** Not hermaphrodites; **sexually fluid**, semi-plant engineered entities with advanced autonomic control and longevity.
@@ -106,12 +116,16 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - **"Spring dew":** Symbolic alchemical element, not literal; related to **inner transformation**.
 
 ---
 
+
 ## End of Session
 
 - *Love! You are doing well. Network!!! Goodbye.*
+
+

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 25 February 2023
@@ -16,6 +17,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - All souls were created from the beginning; group souls (OPs) can differentiate and evolve.
@@ -25,6 +27,7 @@
 - A being can simultaneously contemplate at **5th density** while incarnating in one or more lives.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -38,6 +41,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - **Crystals** can be used for healing, but the user's mental focus is key.
@@ -45,6 +49,7 @@
 - **Baoding balls** have health benefits; jade is the optimal material.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -63,17 +68,20 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - David R. Hawkins' **kinesiology technique** for determining truth is useful.
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Writings like *Life Between Life* and *Heading Toward Omega* are recommended for understanding **karma** and soul purpose.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -88,12 +96,15 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Attempts to merge **AI with human DNA** (superhumans) will fail due to the collapse of technological infrastructure.
 - The resulting societal shift will vary by location but may lead to a more **primitive state** of existence.
+- Starlink, AI, and green energy goals are seen as flawed solutions.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -101,8 +112,10 @@
 - Balloon/UFO hype may serve as a prelude to the introduction of "**extraterrestrial**" overlords.
 - Zesheng Yang's observation near the sun was a real **UFO**.
 - Their actions aim to maximize **suffering and manipulation**, not necessarily to win.
+- The “Secret Government” is not human and not necessarily aligned with plans to destroy Russia.
 
 ---
+
 
 ## Spiritual Practices & Ritual
 
@@ -110,13 +123,19 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - The goal is the creation of a new race via genetic modification.
 - Ravana is a fictionalized character based on **cometary activity**.
 - Vedas were written by descendants of the **Paranthas**, originally from the Indian region (ancestral Tamilians/Dravidians).
+- The “94% used as containers” refers to energetic consumption and genetic manipulation.
+- Hindu god Rama lived 50,000 years ago; he was a high priest influenced by the Confederation and fought against the Lizards.
+- These descendants are most strongly represented in Australian Aborigines.
+- Iranian farmer migrants brought an archaic form of Sanskrit to India around 6000 BC.
 
 ---
+
 
 ## Religious and Historical Preservation
 
@@ -127,11 +146,14 @@
 
 ---
 
+
 ## Historical Insights
 
 - The Mahabharata and **Atlantis** share commonalities as historical echoes.
+- Rama, the Vedas, and early Sanskrit trace back to ancient Dravidian and extraterrestrial-linked roots.
 
 ---
+
 
 ## Political Power Structures
 
@@ -141,6 +163,7 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - The East Palestine derailment and egg farm fires were **deliberate**.
@@ -148,4 +171,13 @@
 - These actions are intended to impact **food supply** and deepen political rifts.
 
 ---
+
+
+
+## Cosmic Structure & Densities
+
+- 3D infrastructure may still exist in a semi-operational form after the transition to 4D.
+
+---
+
 

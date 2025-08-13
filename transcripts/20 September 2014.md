@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** September 20, 2014
@@ -14,11 +15,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Reference to previous explanation comparing outcomes based on cosmic "**biorhythm**" states (e.g., Rockefeller vs. Gandhi).
+- A review of triple cycle rhythms on a cosmic scale was recommended in relation to karma.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -27,6 +31,7 @@
 - When suffering levels rise, balancing will begin in earnest.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -40,8 +45,10 @@
     - **Dr. Gonzalez's** method (customized nutritional therapy with pancreatic enzymes) also valid in some cases.
     - There is no single magic bullet for cancer; many causes exist.
     - Rash on shin is due to bacterial overgrowth.
+- Laura’s coccyx is broken and sacrum is cracked; healing will take 4 months.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -50,6 +57,7 @@
 - **Karma** will address manipulations and wrongdoing.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -61,12 +69,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Mention of French scientist discovering pestles producing musical tones.
 - Tones used for healing, not mere instruments.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -76,11 +86,13 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - **Ileaghona** of Cassiopaea source present.
 
 ---
+
 
 ## Political Power Structures
 
@@ -89,9 +101,55 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - Pool pump, pond pump, and farm well pump failures noted as symbolic warnings or signs.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- A soul group is an affiliation that can be due to origin or graduation.
+- Soul groups do not function as fixed or immutable entities tied only to specific lifetimes.
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- [Not covered]
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- [Not covered]
+
+---
+
+
+## Genetics and Ancestry
+
+- [Not covered]
+
+---
+
+
+## Religious and Historical Preservation
+
+- [Not covered]
+
+---
+
+
+## Historical Insights
+
+- [Not covered]
+
+---
+
 

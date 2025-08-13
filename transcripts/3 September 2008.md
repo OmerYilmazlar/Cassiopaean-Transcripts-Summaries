@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** September 3rd, 2008
@@ -13,6 +14,7 @@
 **Participants:** [List of those present deleted for privacy]
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -24,11 +26,13 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - "Cosmic stuff" will take its toll as part of the USA's destructive trajectory.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -44,8 +48,10 @@
 - **Electromagnetic pollution** in Southern California contributed partly to DD's achalasia.
 - DD's dog should receive a slightly lower nanosilver dose with added probiotics.
 - The dog is "looking forward to **graduation**" and should not be held back tightly.
+- Moving to France improved the condition due to decreased EM pollution and different food supply.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -55,6 +61,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Lucid dreaming is a state of partly conscious awareness while other systems are still switched off and **subconscious bleeds through**.
@@ -62,6 +69,7 @@
 - Lucid dreaming is useful mainly for entertainment; not outstanding for reality-changing or deep self-insight.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -72,6 +80,7 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - Psychopaths are **defective OPs**.
@@ -81,8 +90,10 @@
 - One psychopathy strain comes from a **Neanderthal–Aryan cross**.
 - This strain exhibits a drive to destroy.
 - Not all psychopaths stem from that cross.
+- Psychopath population grows at certain historical periods, causing destruction and reducing their own numbers—similar to predator-prey cycles.
 
 ---
+
 
 ## Historical Insights
 
@@ -90,10 +101,63 @@
 
 ---
 
+
 ## Political Power Structures
 
 - No direct confirmation on whether Putin is a psychopath.
 - Bush is noted for saying different things without action.
+- Putin seen as more reasonable compared to other leaders.
 
 ---
+
+
+
+## Earth Changes & Environmental Events
+
+- None directly discussed.
+
+---
+
+
+## Books, Research, and Cultural Commentary
+
+- None discussed.
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- None discussed.
+
+---
+
+
+## Contact and Alien Interactions
+
+- None discussed.
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- None discussed.
+
+---
+
+
+## Religious and Historical Preservation
+
+- None discussed.
+
+---
+
+
+## Environmental & Industrial Events
+
+- None discussed.
+
+---
+
 

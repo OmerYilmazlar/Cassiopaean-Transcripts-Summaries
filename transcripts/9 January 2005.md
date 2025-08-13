@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 9 January 2005
@@ -14,6 +15,7 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Transmission is identified as from "Cassiopaea" for user identification, though the source is Rigel.
@@ -21,6 +23,7 @@
 - Earlier references to Rigel and "**Zoom Out**" relate to no longer needing relays due to lack of interference.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -32,6 +35,7 @@
 - Ark's dream about the 19th is a "harbinger."
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -50,8 +54,14 @@
 - Airports are used by both STS and STO.
 - Bush is increasingly difficult to manage.
 - Arafat's death at Percy Hospital, like Diana's, was a symbolic marker.
+- Barbara Olsen is implied to be alive and living in a bunker.
+- Flight 93 was intended for the White House; fire was started in advance and had to be covered up.
+- Flight 77 likely landed at Wright Patterson AFB and was dismantled (“piecemeal”).
+- Infighting exists at high levels; incompetence and hidden agendas dominate.
+- Pentagon Flash presentation seen by 300 million; potential impact when released in Arabic.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -59,11 +69,15 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - For social constructs, observe current global conditions.
+- *Belicena* book has origins in Aryan-type researchers exiled to South America.
+- Velikovsky’s interpretation of plagues is the most accurate account of the war between Atlantis and "Athens" and subsequent catastrophe—excluding Venus.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -76,11 +90,14 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Planes were remotely controlled using onboard computers; no need for external aircraft.
+- Some governments had satellite tech to detect tsunamis in advance but suppressed it.
 
 ---
+
 
 ## Religious and Historical Preservation
 
@@ -89,6 +106,7 @@
 
 ---
 
+
 ## Historical Insights
 
 - Reference to the Philadelphia Experiment and its long-term impact on Navy behavior.
@@ -96,12 +114,15 @@
 
 ---
 
+
 ## Political Power Structures
 
 - Bush administration exhibits increasing difficulty in being managed.
 - Some parties involved in 9/11 tried to blackmail others; glitches occurred.
+- Internal factions and hidden agendas dominate power structures.
 
 ---
+
 
 ## Environmental & Industrial Events
 
@@ -109,4 +130,41 @@
 - Governments knowingly **suppressed early warning info** about the tsunami.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- No direct content on this topic in this session.
+
+---
+
+
+## Health, Diet, and Supplements
+
+- No direct content on this topic in this session.
+
+---
+
+
+## Contact and Alien Interactions
+
+- No direct content on this topic in this session.
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- No direct content on this topic in this session.
+
+---
+
+
+## Genetics and Ancestry
+
+- No direct content on this topic in this session.
+
+---
+
 

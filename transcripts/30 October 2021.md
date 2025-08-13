@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 30 October 2021
@@ -16,6 +17,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Kris Kremers and Lisanne Froon have transitioned to **5D**.
@@ -23,6 +25,7 @@
 - Be aware, support each other, and most importantly, network.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -33,6 +36,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - 26% likelihood of a **10+ earthquake** near the Philippines before mid-2023.
@@ -42,8 +46,10 @@
 - "Mexico Falls" prediction relates to an earthquake.
 - **Wind patterns** have shifted, becoming more compact and inconsistent.
 - Wind-based energy is unreliable under changing climate conditions.
+- 53% chance of a significant California earthquake within a year.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -55,8 +61,11 @@
 - Pfizer vaccine may indirectly affect consciousness if one is susceptible.
 - No current pandemic is a "true plague"; the new space virus, if it emerges, may have a **79% death rate**.
 - Knowledge gained through effort builds being.
+- Vaccine doses are not placebos; all contain active substances.
+- Meditation and knowledge can counter negative influences from vaccines.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -74,16 +83,22 @@
 - A cold civil war in the USA is unlikely to turn hot, but a **people-vs-government conflict** is more probable.
 - A color revolution is likely in Poland.
 - A mandatory vaccination bill will pass in Russia and provoke protests.
+- The hidden agenda behind sustainable development includes depopulation.
+- The real reason behind green policies is belief in overpopulation as a planetary threat.
+- The Club of Rome's 1972 report had depopulation as a hidden agenda.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
 - Gary is okay due to knowledge and prayers.
 - Knowledge gained through effort builds being.
 - The work done in France could not have survived in Florida.
+- Meditation and knowledge can counter vaccine effects.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -93,11 +108,13 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - The possibility of an **economic crash** after Christmas is still open.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
@@ -106,12 +123,14 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - The primary cause of the Renaissance was **4D influences** of a psychic nature.
 - The claim about the Black Death virus inducing genetic modifications contributing to the Renaissance is true, but not as the main cause.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -120,14 +139,17 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - Paul reincarnated, but not as a notable figure. His real name was Zacaria.
 - Mark was not a woman; however, the author of the first passion play honoring Caesar was.
 - Matthew, Mark, and Luke may have been based on real people and groups.
 - The last Roman emperor before the fall was **Justinian**.
+- Paul used the Jewish religion as a template; he did not believe Yahweh was Caesar’s god.
 
 ---
+
 
 ## Political Power Structures
 
@@ -138,4 +160,6 @@
 - Some strange materials in vaccines are purposefully inserted but rare.
 
 ---
+
+
 

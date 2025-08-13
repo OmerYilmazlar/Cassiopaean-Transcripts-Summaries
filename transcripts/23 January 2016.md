@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** January 23, 2016
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Galatea, Pierre, Niall, Joe, PoB, Chu, Arky, Data, Oxajil, Scottie
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -22,6 +24,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - The spike in **El Niño** activity is the one referenced in the July 4, 1998 session.
@@ -30,8 +33,11 @@
 - The death of **Princess Diana** may have marked a timeline shift to a more negative trajectory.
 - **Cascadia subduction zone** activity (mini-tsunamis, earthquakes, roads collapsing) may be precursors to "The Big One."
 - Two historically strong storms in the **North Pacific** (Nov 2014, Dec 2015) indicate an energetic sink in that region.
+- Hawaii aviation crash is mentioned as an associated item, suggesting connections between events.
+- A series of predictions from the 1994 session are still unfolding, with Ukraine’s current situation being worse than what was predicted as a single explosion.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -47,13 +53,16 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - **Kurt Cobain's** death was confirmed as suicide, not murder.
 - **Bruce Lee** and **Aaliyah's** deaths were not murder or omens.
 - Public figures are not always worthy heroes; seeking better ones is encouraged.
+- Princess Diana’s death was considered more than a marker; it may have triggered a timeline shift unleashing "very evil influences."
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -67,6 +76,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - The **supernova** reported in January 2016 was actually discovered in June 2015.
@@ -75,14 +85,17 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - A **10.4 magnitude earthquake** in the Pacific is still on the agenda.
 - Timeline has shifted negatively since 1997, possibly due to Diana's death.
 - Predictions from 1994 are still valid but manifest differently or with more severity.
 - Mini-tsunamis, North Pacific storms, and seismic activity suggest precursors to larger events.
+- The supernova has effects on Earth and human affairs, but interpretation is left to observers.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -90,11 +103,13 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Energy blockages in the home can be remedied with practices like salting and **Feng Shui**.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -103,17 +118,21 @@
 
 ---
 
+
 ## Historical Insights
 
 - Review of predictions from sessions in 1994 and 1998 to assess alignment with present events.
+- Diana’s death and 1997 events (e.g., flood in Poland, Arky moving to the US) are seen as key timeline shift points.
 
 ---
+
 
 ## Political Power Structures
 
 - **Putin's** rise in geopolitical action possibly linked to cosmic influences such as the supernova.
 
 ---
+
 
 ## Environmental & Industrial Events
 
@@ -122,6 +141,29 @@
 
 ---
 
+
 ## End of Session
 
 A: KLOFMDMANELLIGGLOOSK. Goodbye.
+
+
+---
+## Afterlife & Soul Topics
+
+- No direct discussion on afterlife or soul-specific topics.
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- Not discussed.
+
+---
+
+
+## Religious and Historical Preservation
+
+- Not discussed.
+
+---

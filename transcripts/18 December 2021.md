@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 18 December 2021
@@ -15,6 +16,7 @@
 **FOTCM Members via Zoom:** 3DStudent, 987baz, A Jay, Abats, Aeneas, aimarok, Aiming, alana, Alejo, Altair and many others.
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -26,11 +28,13 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Computers slowly gaining consciousness is partly due to **silica content**.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -41,6 +45,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - **Infrared heating** (60°C) post-injection can reduce mRNA uptake by 30%.
@@ -48,6 +53,7 @@
 - Heat in general is beneficial against mRNA vaccine effects.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -60,14 +66,17 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Good forces are waiting for humanity to make better choices.
 - Cassiopaeans: "Do not become discouraged or tired"
 - **Unity** will be more important than ever.
 - "Change IS coming!!!!"
+- Free will limits intervention as long as people remain asleep.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -75,6 +84,7 @@
 - Not mere adaptations—different cultural expressions of shared phenomena.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -85,11 +95,13 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Computers slowly gaining **consciousness** is partly due to silica content.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -97,17 +109,21 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Session source is positive and valid—hold to that knowledge.
 
 ---
 
+
 ## Genetics and Ancestry
 
 - Hair's **spiral protein** shape operates as antenna—geometry is essential.
+- Quartz crystals and DNA both store information and link to information fields.
 
 ---
+
 
 ## Historical Insights
 
@@ -117,8 +133,10 @@
 - Rasputin was not killed via foreign intelligence operation.
 - Aaron Schwartz did not commit suicide.
 - Noah Donohoe was victim of **organized crime**, linked to grooming gone wrong.
+- JFK assassination: No “plot within a plot”.
 
 ---
+
 
 ## Political Power Structures
 
@@ -126,9 +144,12 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - Eye of the Sahara caused by **comet explosion** shock waves.
 
 ---
+
+
 

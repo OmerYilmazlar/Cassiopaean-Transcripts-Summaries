@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 15th, 2016
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Galatea, Pierre, Joe, Chu, Data, Scottie, Timótheos, Alana, Niall, Arky, Possibility of Being, Prodigal Son, Fabric, Gaby, Itellsya, Windmill knight, Odyssey, Nancy2feathers, Beau
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,6 +24,7 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - **Entity attachments** are more prevalent in the current times
@@ -30,11 +33,13 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - **Southern Siberia** was confirmed to be warmer during past Ice Ages and is implied to be favorable in future changes
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -43,6 +48,7 @@
 - Peace and a low-stress environment are also essential for recovery
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -58,6 +64,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - **Time fluidity**, resurfacing memories, and dreams relate to working through cycles, past lives, and trauma
@@ -66,6 +73,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Laura's old "**French Connection**" series was linked to backlash from pedophile groups she exposed
@@ -73,13 +81,17 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Mismatched pets can open vulnerability to chaos-inducing forces
 - Terrorist **dirty nukes** are possible, with implication of them being false flag operations
 - **World War III** escalation in Syria is not expected
+- Entity attachments in animals may lead to dangerous behavior, especially with strong or instinctive dogs.
+- A similar dog-related incident may happen again to kawika and Awapuhi, possibly more dangerously.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -90,12 +102,14 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - **Cold therapy** and **sauna** practices are affirmed as supportive healing methods when recovering from antibiotic damage
 - **Crystals** are being worked on periodically for metaphysical purposes
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -104,10 +118,14 @@
 
 ---
 
+
 ## Political Power Structures
 
 - **Pedophile networks** have deep infiltration in local and national French government institutions
 - High-level figures (mayor, state prosecutor, ministers) were protected, and investigations suppressed
+- Police captain and fiscal auditor are manipulated but also complicit due to personal motives.
 
 ---
+
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** January 3rd, 2009
@@ -13,6 +14,7 @@
 **Participants:** Laura, Ark, family, Chateau Crew, a guest
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,12 +24,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Each participant present has a specific **role** in the coming "cosmic drama."
 - The "program" is currently being constantly **meddled with**, causing phenomena such as increased déjà vu.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -37,6 +41,7 @@
 - Recent major storm in France noted as possibly relevant.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -49,8 +54,10 @@
 - **Faraday cage**–like solutions, such as silk, can offer electromagnetic protection.
 - Wearing thin silk around the throat is recommended.
 - Genetic connections can make individuals susceptible to shared physical effects.
+- Emotional manipulation and physiological effects can occur via EM frequencies.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -58,21 +65,27 @@
 - Esotericism should not be separate from political awareness.
 - "True religion" includes a curious and aware approach to the **real world**.
 - Attacks can be subtle, "**insidious**," and aimed at individuals to remove them from play.
+- There are “those out there” who want this work to stop, both on and off planet.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
 - The idea that "the fate of the universe may depend on you" is intended to strengthen resolve.
 - Dealing with anxiety involves both diet and awareness of genetically linked shared effects.
+- Righteous anger can function as a mental block against manipulations.
+- “Mental blocking” is a core method of protection against EM and other hyperdimensional attacks.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
 - I Ching reading for 2009: "**Biting Through**"—you must chew once the bite is taken.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -85,6 +98,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - WiFi is described as "**Very bad!!!!!!!!!!**"
@@ -95,12 +109,14 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - "They" who wish to halt the work include both **on-planet and off-planet** beings.
 - Hyperdimensional interference includes emotional manipulation, image projection, and **energy draining**.
 
 ---
+
 
 ## End of Session
 

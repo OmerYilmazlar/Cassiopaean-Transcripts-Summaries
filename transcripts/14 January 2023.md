@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 14 January 2023
@@ -18,6 +19,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Vaccine deaths are not pre-life soul agreements.
@@ -28,12 +30,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Beliefs, thoughts, emotions are mainly stored in the **non-physical body** (the rest are echoes).
 - **False personality** may stem from accumulated false beliefs and negative emotions – the claim is close.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -44,6 +48,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Cayce Wet Cell is not beneficial for Pierre at this time.
@@ -52,6 +57,7 @@
 - Acupuncture Balance Method was not given by "gods".
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -67,12 +73,14 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - The claim that the **Mandela Effect** can sometimes indicate a change in the "program" is true.
 - It is similar in nature to **déjà-vu**.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -83,6 +91,7 @@
 - Mark and Paul's survival through history was a true **miracle**.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -96,6 +105,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - **Quantum and supercomputers** will soon be able to communicate with other dimensions.
@@ -103,6 +113,7 @@
 - SAFIRE Project's claim of creating an **artificial sun** is doubtful without public evidence.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -114,8 +125,10 @@
 - Prominent figures (e.g., Bill Gates, Klaus Schwab) are preparing the ground.
 - UFO over Rostov was **observing**, not shot down.
 - Comet C/2022 E3 (ZTF) is not **Nemesis**.
+- Open alien display would violate free will and provoke resistance.
 
 ---
+
 
 ## Spiritual Practices & Ritual
 
@@ -123,14 +136,17 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - The claim that German heritage individuals are used for their **genes** is true.
 - German genes are close to **Aryan genetics**.
 - Uses include building bodies, growing **organs and babies**, and creating clones.
 - In the worst cases, individuals are consumed.
+- Modern group closest to Denisovans: Australian Aboriginals ("Abos").
 
 ---
+
 
 ## Religious and Historical Preservation
 
@@ -139,6 +155,7 @@
 - **Aryan invasion** in 6000 BC included Iranian farmers who are Indo-Aryans; later genetic admixture explains differences.
 
 ---
+
 
 ## Historical Insights
 
@@ -150,6 +167,7 @@
 
 ---
 
+
 ## Political Power Structures
 
 - The claim that world governments were once united is less true now.
@@ -157,12 +175,16 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - The explosion was caused by **sparks**.
 - Occurred behind a petrol station; not the tanks themselves.
 - Salt mines of **Soledar**: no special significance beyond general utility.
 - Some have been used for hiding.
+- Salt makes them unsuitable for occult or alien activity.
 
 ---
+
+
 

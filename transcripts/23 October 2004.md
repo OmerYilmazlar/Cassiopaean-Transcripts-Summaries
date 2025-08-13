@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 23, 2004
@@ -13,6 +14,7 @@
 **Participants:** Laura, Ark, Perceval, Mr. Scott, Galahad, Atriedes, Andromeda, Alice (Laura's Mother), JM-guest
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,6 +24,7 @@
 - A burden shared is light; it is hubris to believe one can fight such forces alone.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -34,12 +37,14 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - The galactic explosion disrupted the transmitter connection with Cassiopaea.
 - Effects on Earth were "too minimal to notice."
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -51,8 +56,12 @@
 - Possibility that **Flight 77** was landed at **Denver Airport**.
 - Mention of a future scandal at Denver Airport, related to 9/11.
 - "There are many ways to die" was said about Bush, not necessarily due to illness.
+- Daniel Hopsicker is confirmed as an agent.
+- The US is described as a place where it's "hard to see" who isn’t an agent.
+- SD is considered an agent but may "lose his scales" soon.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -63,8 +72,10 @@
 - Reminder that even the core group was in poor condition before leaving the USA.
 - **Andromeda's** dream-state battles are with external entities; assistance is available but must be asked for.
 - False pride and illusion of independent power hinder reaching out for help.
+- Members are trapped in a "frequency fence" and stored for later food.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -74,6 +85,7 @@
 - Suggestion to increase third-party satellite site support for informational protection.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -88,6 +100,7 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - Transmitting source identifies as "Other," not alien.
@@ -95,4 +108,20 @@
 - Responds to queries with Orion-language greeting "**Farnoon**."
 
 ---
+
+
+
+## Health, Diet, and Supplements
+
+- No direct references in this session.
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- Light sabers as imagined in fiction are not possible with existing Earth technology.
+
+---
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** February 22, 2010
@@ -13,6 +14,7 @@
 **Participants:** Laura, Ark, Andromeda, Perceval, Burma Jones, Belibaste, PoB, Bubbles, Ailén, Mr. Scott, Psyche
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,13 +24,16 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Humanity previously engaged in "**technospirituality**."
 - The cosmic vibrations are expected to change back soon.
 - Restoration of technospirituality is anticipated.
+- This capability was lost due to regression and a change in the cosmic environment.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -39,8 +44,11 @@
 - Detoxifying **mercury** can eliminate "brain zaps."
 - A couple likely suffers from dietary toxicity in their home environment.
 - **Kamut** is okay to eat, especially under current 3D constraints.
+- Alice in Wonderland Syndrome (AIWS) is caused by a brain disorder related to defective myelinization and signaling dysfunction in optical pathways.
+- Cereal grain agriculture was introduced only in the past 10,000 years and linked to humanity’s "fall."
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -58,6 +66,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Group performed well in resisting external psychic interference from Sue's visit.
@@ -69,14 +78,17 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Earlier civilizations did not practice agriculture as we know it.
 - Cereal-based diets have negatively influenced humanity.
 - **Techno-spiritual** capability allowed for materializing one's own food in earlier times.
 - Future vibrations may allow for materialization of healthy food again.
+- Question about ancient agriculture points back to earlier Cs material and Laura’s writings.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -86,6 +98,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - **EM bursts** possibly caused camera damage.
@@ -93,6 +106,7 @@
 - Hint given that Ark is being helped by Cs with his time machine theories.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -102,11 +116,13 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Cats purr via self-stimulation of their vagus nerve, similar to **Eiriu Eolas** practice.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -115,4 +131,13 @@
 - In the 18th century Lowlands, psychopathy reached 9%.
 
 ---
+
+
+
+## Earth Changes & Environmental Events
+
+- No significant discussion under this category.
+
+---
+
 

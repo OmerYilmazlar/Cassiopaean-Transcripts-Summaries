@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 20, 2018
@@ -14,14 +15,17 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - A deceased individual, **Chloe**, communicated from **5D**, expressing regret over jealousy and not being a better friend to Laura.
 - It was difficult for Chloe to channel energy due to this weakened connection.
 - Art was described as both her shield and her undoing.
 - Chloe's purpose in contacting was to express unresolved feelings before saying goodbye.
+- Her connection to Laura had weakened over the years due to her withdrawal from reality and immersion in art.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -34,6 +38,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - The September 19, 2017 **Mexico earthquake** was linked to collective memory and emotion surrounding the 1985 earthquake on the same date.
@@ -42,6 +47,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - The **HIV virus** does not trigger specific genetic mutations.
@@ -49,6 +55,7 @@
 - Some unpleasant effects reported from Quinton use may be psychosomatic or imagination-driven.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -61,11 +68,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Art, while a skill Laura possesses, is viewed by her as lacking in permanent value compared to other pursuits.
+- Laura discussed R.G. Collingwood’s perspective on art as aligning with her own views.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -73,6 +83,17 @@
 - The shooter was mind-programmed; the programming was linked to **CIA** activity.
 - Increasing global frequency of mass shootings, stabbings, and car rammings is a manifestation of long-foreseen **Greenbaum** programming and sociopolitical manipulation.
 - **Macron** was confirmed to be homosexual.
+- The location of the shooting near the new Kerch Strait Bridge connecting Crimea to Russia is seen as symbolic.
 
 ---
+
+
+
+## Esoteric Work & Personal Development
+
+- The spiral (e.g., Golden Ratio structures) acts more as an attractor or transducer of information rather than carrying intrinsic informational content.
+- Its function depends on contextual factors and can amplify or channel information.
+
+---
+
 

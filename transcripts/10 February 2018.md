@@ -6,6 +6,7 @@ Tags: Neurofeedback, Genetic Coding, Psychokinesis, Belief Center, Developmental
 
 ---
 
+
 ## Session Details
 
 Date: February 10, 2018
@@ -14,11 +15,13 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Soul development can be influenced by overcoming **developmental trauma** and opening to **receivership capability**.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -29,12 +32,14 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - A coming **cataclysm** may stop the plans of radical ideological movements attempting to eliminate true Semites.
 - "Wait and see" regarding potential parallels to Nazi Germany.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -43,6 +48,7 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 - Neurofeedback assists in healing **developmental trauma** and enhancing brainwave regulation.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -53,6 +59,7 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 - Next financial crash will be largely due to reality catching up to illusion.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -71,12 +78,14 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - **Healing Developmental Trauma** and Samenow's work represent the most practical expression of "The Work."
 - These works help develop receivership capability and unblocking through understanding and calming the brain.
 
 ---
+
 
 ## Notable Warnings & Predictions
 
@@ -88,12 +97,17 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Computer systems can respond to **psychic** and mental energy.
 - **Consciousness** collapses wave possibilities, even retroactively.
+- Computer systems can respond to psychic and mental energy; randomness may not be truly random.
+- PK can affect recorded material (retro PK), aligning with wave function theory.
+- Consciousness collapses wave possibilities, even retroactively (e.g., prerecorded tapes affected after the fact).
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -101,6 +115,7 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 - They may be products of **experimental processes** or born in other ways.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -110,11 +125,13 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 
 ---
 
+
 ## Historical Insights
 
 - **Nazi Germany** was a rehearsal for current sociopolitical movements aiming to eliminate true Semites.
 
 ---
+
 
 ## Political Power Structures
 
@@ -123,4 +140,17 @@ Participants: Laura, Andromeda, Artemis at the board; Pierre, Joe, Ark, Possibil
 - Sociopolitical events mirror the dynamic of **Nazi Germany**, with a planned elimination of a group possessing higher potential or light.
 
 ---
+
+
+
+## Notable Warnings or Predictions
+
+- Radical ideologies aim to eliminate true Semites—this echoes Nazi Germany.
+- The next Nazi-Jew scenario is playing out; identities should now be obvious.
+- “Help is on the way” includes but is not limited to Jordan Peterson; more dramatic help is implied.
+- Watch out for many anomalies related to neurofeedback and other energetic work.
+- Retro PK is real; time can be violated through consciousness collapsing wave possibilities.
+
+---
+
 

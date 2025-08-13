@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 06 September 2006
@@ -14,11 +15,14 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - A mental episode was described as "Your mind was leading your soul into peril thus an **emergency shutdown**."
+- This was followed by: “Virus protection activated.”
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -27,17 +31,20 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - No direct content in this category.
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - No direct content in this category.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -48,14 +55,17 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - His concept of "giving all" was questioned—he gives what he wants to receive, not what others need.
 - J**** was said to have "stars in her eyes."
 - It was suggested that a visit from J**** and J**** would be useful "for a **test period**."
 - Comment: "All" will be tested.
+- J**** was advised to “hopefully” learn “in advance” before he “hits the wall again.”
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -63,17 +73,20 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - The **"April Drop Dead Date"** from a previous session was confirmed to be a general statement, not influenced by Guest's presence.
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Mental shutdown was humorously compared to a computer's "**blue screen**" and "dump of the memory."
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -82,9 +95,12 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Celebration on September 2, 2006 **(lunar standstill)** was acknowledged positively by the Cassiopaeans: "Yes."
 
 ---
+
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** August 5, 2017
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Galatea, Pierre, Joe, Ark, Possibility of Being, Chu, Data, Scottie, Niall, Noko the Wonderdog, Opal the Majesticat, Penelope the Original Kitty
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,8 +24,10 @@
 - A child mentioned in the 1990s session was not karmically meant to be born with Laura.
 - That child was born elsewhere and may be found again if meant to be.
 - The child does not yet know the group.
+- Disintegration and soul smashing are increasing.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -34,6 +38,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - A recent wave of rescuing baby birds is a general sign of the times.
@@ -42,6 +47,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Laura's stem cell knee therapy is progressing: 46% rebuilt, but still soft and fragile.
@@ -49,6 +55,7 @@
 - Suggested solution for Pierre is to try the "new creation"—a custom-built **infrared bed** ("Dracula Option").
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -66,8 +73,10 @@
 - The situation mirrors the Ukraine coup led by the CIA.
 - Trump's only potential ally is the general population.
 - He might have to call for revolution.
+- More likely than assassination is a convenient death due to stress.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -78,11 +87,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Water transfer from Mars to Earth occurred due to a **Birkeland current** between bodies with different electric potentials.
+- Rise of trans identities is a reflection of chaos and entropy, tied to disintegration and soul smashing.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -90,8 +102,10 @@
 - The USA is close to the verge of a revolution.
 - Increasing signs of chaos and entropy in nature and society.
 - The hyperkinetic sensate nature of the Wave is actively manifesting in **global behaviors**.
+- Disintegration and soul smashing events are accelerating.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -99,9 +113,12 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Suggested use of an infrared bed ("Dracula Option") for therapeutic purposes.
 
 ---
+
+
 

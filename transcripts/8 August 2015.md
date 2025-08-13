@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** August 8, 2015
@@ -20,6 +21,7 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Paul reincarnated.
@@ -27,11 +29,14 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Mention of a reality split tied to misremembering events is analogous to the Matrix "cat" glitch.
+- Putin is somewhat aware of the hyperdimensional reality, but in a different context—more like mental martial arts.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -39,8 +44,10 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 - Chelyabinsk is a **magnetic attractor area** with many strange occurrences.
 - Recent "lizard man" photo from South Carolina was faked, but there have been real sightings in the area—more than just energetic phenomena.
 - US climate scientists did not die of natural causes; deaths were induced.
+- Recent plane parts found on Réunion are **not** from MH370.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -60,8 +67,10 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 - Herbal treatments may act as supportive agents but are less effective than pharmaceuticals.
 - Fluconazole, antivirals, and turpentine discussed as additional strategies.
 - Nutritional improvement noted: eggs are now tolerable post-protocol.
+- Cold therapy is beneficial when added further into the antibiotic protocol.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -73,12 +82,14 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Group efforts on SOTT and the Forum are crucial and generate **unseen signals** with significant ramifications.
 - **Colinearity is essential** for the effectiveness of group magnetizing.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -88,11 +99,14 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - The phenomenon includes real exhibits of some sort beyond faked sightings.
+- Real sightings of lizard-type beings have occurred in South Carolina, in addition to hoaxes.
 
 ---
+
 
 ## Spiritual Practices & Ritual
 
@@ -100,10 +114,42 @@ Pierre, Perceval, Chu, PoB, Arky, Data, Athena, Scottie, Oxajil, Niall, Noko the
 
 ---
 
+
 ## Historical Insights
 
 - Average percentage of psychopaths in Rome during Caesar's lifetime was **29%**.
 - Before the civil war in Rome, the percentage rose to **42%**.
+- Rome functioned as an attractor for psychopathic individuals, even among common people.
 
 ---
+
+
+
+## Books, Research, and Cultural Commentary
+
+- No specific books or cultural references directly discussed in this session.
+
+---
+
+
+## Genetics and Ancestry
+
+- No relevant content in this session.
+
+---
+
+
+## Religious and Historical Preservation
+
+- No relevant content in this session.
+
+---
+
+
+## Political Power Structures
+
+- Recognition of Palestine, the UN agenda, blood moons, and Shemitah year speculated as markers, but actual escalation may begin in October.
+
+---
+
 

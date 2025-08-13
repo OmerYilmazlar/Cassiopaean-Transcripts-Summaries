@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** February 6, 2016
@@ -14,12 +15,15 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Gravity "travels" on ether.
 - EM gravity is noted as a key entry point in understanding the information field.
+- Ether is described as the interface between information and manifestation.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -34,6 +38,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Zika virus mutations originated in **vaccinated humans** and spread via genetically modified mosquitoes.
@@ -43,6 +48,7 @@
 - Mass vaccinations in Brazil corresponded with outbreak emergence.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -54,8 +60,11 @@
 - Financial motives (money equals energy) drive destructive use of energy, which spirals out of control.
 - Coming economic collapse may be the first blow leading to militarism and war.
 - All current turmoil is part of a larger **cleansing process**.
+- Over 10,000 refugee children are missing; most are victims of human trafficking (organ harvesting, sexual exploitation), some abducted by aliens.
+- Root cause of refugee crisis is the aggression from Israeli-American alliance.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -67,8 +76,10 @@
 - Water can be used to detox the body by speaking intentions.
 - Human body water has been propagandized; fresh water is needed to "reprogram."
 - Water is compared to "**Google search of the universe**."
+- Homeopathy works on an information level.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -79,6 +90,7 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Some predictions from the 1994 list are currently manifesting, notably since January 2016.
@@ -86,8 +98,10 @@
 - Articles and media reports may reflect timeline bleedthrough or mass unconscious perception.
 - Magnetic reversal is progressing.
 - Major changes ahead will leave the world **unrecognizable**.
+- Flash-freezing and inversion events could happen again.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
@@ -95,9 +109,27 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - Increasing outgassing from Earth is related to cosmic energy influx and internal heating.
+- Similarities drawn between ancient Pompeii gas-related animal deaths and current global animal die-offs.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- Soul orientation or absence of same influences both human and alien exploitative behavior.
+
+---
+
+
+## Contact and Alien Interactions
+
+- Some refugee children are abducted by aliens who consume humans as delicacies.
+
+---
+
 

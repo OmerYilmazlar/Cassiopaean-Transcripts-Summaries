@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 23 November 2024
@@ -15,6 +16,7 @@
 **FOTCM Members via Zoom:** 100+ listed (including 3DStudent, Adobe US, Alana, Alejo, Arwenn, Cosmos, dugdeep, Ennio, irjO, Navigator, T.C., Yas, Zim)
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -27,6 +29,7 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - The **Quorum** made decisions to reduce collective suffering as more people awaken.
@@ -36,6 +39,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Dome of protection prevented Caesarea from flooding during Hurricane Helene.
@@ -43,6 +47,7 @@
 - Current global weather patterns signal the *ongoing* process of an **Ice Age** onset.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -52,6 +57,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - Nearly **100 million** real votes were cast for Trump; fewer than **23 million** for Kamala.
@@ -59,6 +65,7 @@
 - STS hoped the attack on Tucker Carlson would frighten him or convince him it was government-based.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -68,6 +75,7 @@
 - Group was reminded that **laughter** and maintaining perspective are essential during uncertain times.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -80,6 +88,7 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Expect more weather and celestial events to escalate in frequency and intensity.
@@ -88,12 +97,14 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Russian "**bunker buster**" weapons previously mentioned by the Cs were confirmed as recently used.
 - These weapons may also serve as explanations or distractions for atmospheric or comet-induced phenomena.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -102,6 +113,7 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Emotional imprinting during infancy and childhood plays a major role in spiritual blockages.
@@ -109,6 +121,9 @@
 
 ---
 
+
 ## End of Session
 
 - *"Expect more weather and celestial events to excite the populace. Thrilling times ahead indeed! Goodbye."*
+
+

@@ -5,6 +5,7 @@
 **Tags:** Energy Waves, 4th Density Struggle, COVID-19 Vaccines, Cometary Events, Truth vs Deception, Mass Awakening, Psychological Manipulation, Planetary Cleansing
 
 ---
+
 ## Session Details
 
 **Date:** 31 December 2020
@@ -14,6 +15,7 @@
 **FOTCM Members via Zoom:** Not provided.
 
 ---
+
 ## Cosmic Structure & Densities
 
 - Energy waves are present and increasing in **frequency**.
@@ -24,6 +26,7 @@
 - Protection from these influences includes diet, mental and psychic hygiene, and cleansing from exposure to such energies.
 
 ---
+
 ## Earth Changes & Environmental Events
 
 - There is a link between societal collapse, **cometary bombardments**, and pandemics.
@@ -33,6 +36,7 @@
 - The warning signs of escalating disasters and changes are becoming more apparent.
 
 ---
+
 ## Health, Diet, and Supplements
 
 - New severe cases of COVID-like illnesses, including lung masses, are emerging among young individuals.
@@ -47,6 +51,7 @@
 - Ark needs cleansing after his hospital stays due to energy exposure.
 
 ---
+
 ## Control System & Sociopolitical Manipulation
 
 - Trump was overwhelmingly elected and has majority support.
@@ -58,6 +63,7 @@
 - The event is part of the broader pattern of programmed violence used to **terrorize** populations.
 
 ---
+
 ## Esoteric Work & Personal Development
 
 - Protection from energy influences includes diet, mental and psychic hygiene, and cleansing practices.
@@ -65,6 +71,7 @@
 - A previous session from 1998 warned about the importance of logging **dreams**, as they may contain significant visions.
 
 ---
+
 ## Notable Warnings or Predictions
 
 - Humanity is being given one last chance to distinguish truth from lies.
@@ -74,28 +81,65 @@
 - If humanity does not awaken, mass suffering will follow.
 
 ---
+
 ## Technology and Artificial Intelligence
 
 - Artificial sources of energy waves include technology capable of inducing auditory hallucinations and thought manipulation.
 
 ---
+
 ## Spiritual Practices & Ritual
 
 - Recommended practices include salting and burning **sage** for energetic cleansing.
 
 ---
+
 ## Genetics and Ancestry
 
 - mRNA vaccines interfere with DNA and may activate endogenous retroviruses.
 - Vaccinated individuals may become vectors for dangerous **mutations** due to genetic recombination.
 
 ---
+
 ## Historical Insights
 
 - The **Justinian plague** occurred after a cometary event and contributed to the collapse of the late Roman Empire.
 
 ---
+
 ## Political Power Structures
 
 - Trump vs. Biden represents a broader struggle over the fate of the U.S. and its political direction.
+
+
+
+---
+## Afterlife & Soul Topics
+
+- No direct content under this category in this session.
+
+
+---
+## Books, Research, and Cultural Commentary
+
+- No direct content under this category in this session.
+
+
+---
+## Contact and Alien Interactions
+
+- No direct content under this category in this session.
+
+
+---
+## Religious and Historical Preservation
+
+- No direct content under this category in this session.
+
+
+---
+## Environmental & Industrial Events
+
+- No direct content under this category in this session.
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 30 December 2023
@@ -15,6 +16,7 @@
 **FOTCM Members via Zoom:** Not provided.
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -29,8 +31,12 @@
     - The Cs appear as "**humanlike shaped light**" gathered during communication.
     - A "**glory**" is coming for all—planet-wide and including the solar system.
     - He understands the information field and its structure (**spiral/helix**).
+- He is in a state of freedom, without pain or time, resembling dreaming.
+- He visited in a dream to alert Thomas about Laura's foot—confirming his presence.
+- He perceives an anticipation and shift around Earth.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -40,6 +46,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Major 2023 events included:
@@ -48,11 +55,13 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Revelations about Covid and vaccines were part of the major events of 2023.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -60,8 +69,10 @@
     - Middle East **escalation** since October
     - Efforts to block Trump in the U.S.
 - The group is under scrutiny and may be targeted if unity and communication lapse.
+- Escalating immigration agendas
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -73,11 +84,13 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - John DeSouza is misled by questionable sources due to lack of preparation.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -91,12 +104,14 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Increased **UFO disclosures** noted in 2023 (e.g., David Grusch).
 - The claim about David Grusch being an **organic actor** rather than controlled is true.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -105,6 +120,7 @@
 
 ---
 
+
 ## Political Power Structures
 
 - Global **awakening** to Israel's actions is occurring.
@@ -112,6 +128,9 @@
 
 ---
 
+
 ## End of Session
 
 "Peace be with you. Goodbye."
+
+

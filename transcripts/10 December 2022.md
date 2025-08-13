@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 10 December 2022
@@ -16,6 +17,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Nikola Tesla has not **reincarnated**.
@@ -25,12 +27,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Major catastrophes can temporarily shift areas to **fourth density**.
 - Such shifts can increase **lithosphere plasticity** and allow for rapid reshaping.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -44,12 +48,15 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - **HBOT** (Hyperbaric Oxygen Therapy) reintegrates energy, eliminates attachment sites by killing pathogens, and strengthens gene expression.
 - It does not directly remove **spirit attachments** but closes vulnerabilities.
+- Oxygen acts as an interface for neurons to access the information field.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -64,22 +71,27 @@
 - The shutdown of 50% of France's **nuclear reactors** was planned, not sabotage.
 - No conspiracy to raise Indians or Brahmins to power globally, though they may be more susceptible to control structures.
 - The IRS-triggered police check on Caesarea was simple **harassment**.
+- The elite are pushing for a machine translator as part of an AI initiative.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
 - A **rocky period** lies ahead.
 - It is crucial to "**keep the lighthouse lit**."
 - Final message: "Be excellent to each other!"
+- Group members should continue communication and mutual support to refine frequency for receiving.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
 - Jordan Peterson has not read key works like ***Ponerology***, contributing to his failure to grasp psychopathy and hyperdimensional issues.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -92,6 +104,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Elite-backed **machine translator** project targets alien speech.
@@ -102,14 +115,17 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - **Nordic-type aliens** interact with humans in physical meetings.
 - Some humans trained to **block thoughts** to keep secrecy.
 - Some humans act as hosts for **"walk-ins."**
 - Aliens promote **survival plans** and guide elites.
+- Alien agenda is ultimately beyond full human or elite comprehension.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -117,6 +133,7 @@
 - Walk-ins may be genetically or energetically predisposed.
 
 ---
+
 
 ## Historical Insights
 
@@ -126,12 +143,15 @@
 
 ---
 
+
 ## Political Power Structures
 
 - **Victor Bout** is not entirely innocent but also not the "Lord of War"; CIA is the world's largest arms dealer.
 - The elite are unaware their power will become **meaningless** in the planetary shift.
+- No elite conspiracy to raise certain ethnic groups to power, but ambition and susceptibility are exploited.
 
 ---
+
 
 ## Environmental & Industrial Events
 
@@ -142,4 +162,6 @@
 - No portal exists at the **Vatican**.
 
 ---
+
+
 

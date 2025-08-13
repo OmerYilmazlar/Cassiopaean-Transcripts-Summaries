@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** February 13th, 2011
@@ -14,11 +15,13 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Powers in **4D** include the ability to hear colors and taste music.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -28,6 +31,7 @@
 - Viruses such as those causing the **Black Death** are "alien" from a certain perspective
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -43,8 +47,14 @@
 - Fragment seen over **Kazakhstan** was a comet, not a rocket
 - Chemicals from the **Gulf oil spill** have reached Europe and the UK; not noticeable yet, avoid bottom fish
 - **Electrical discharges** from rain, dust, and snow are causing animal deaths and effects like cracked airplane windows
+- Overhead explosion killed the birds in Arkansas.
+- The sun did not rise two days early in Greenland; instead, changes in atmospheric density, temperature, and dust loading caused the appearance.
+- Outburst of asteroid 596 Scheila was related to Elenin and other bodies; asteroid became electrified.
+- Explosion in a Scottish forest was a meteorite impact.
+- Electric charges can enhance human perception and thin the veil.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -55,8 +65,10 @@
 - **Shortbread cookies** made with coconut oil are beneficial
 - **Veggies** are largely not good for human health due to life-preserving mechanisms like **lectins** and **anti-nutrients**
 - Nutrients can be obtained from animals; **wild-fed** is better but not necessary
+- Smoking tobacco is a clue and an aid for protection.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -68,6 +80,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Thinning of the **veil** results in visible apparitions like the horse and rider seen in Egypt (**Saladin**)
@@ -75,12 +88,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - *The Controversy of Zion* by **Douglas Reed** is relevant to current global manipulations
 - "**New Light on the Black Death**: The Viral and Cosmic Connection" article in *The Dot Connector* is mentioned
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -94,6 +109,7 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - **Genetic profile** affects susceptibility to the Black Death
@@ -101,11 +117,13 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - **Saladin** apparition over Egypt linked to historical resonance through thinning veil
 
 ---
+
 
 ## Political Power Structures
 
@@ -114,10 +132,41 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - **Gulf oil spill** chemicals have reached Europe and UK
 - **Electrical phenomena** increasing due to atmospheric dust and weather
 
 ---
+
+
+
+## Technology and Artificial Intelligence
+
+- None.
+
+---
+
+
+## Contact and Alien Interactions
+
+- Black Death virus seen as alien and interactive with 4D STS feeding.
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- Crop circles function as messages of cosmic grace; ignoring them results in karmic consequences.
+
+---
+
+
+## Historical Insights
+
+- Saladin’s image seen as apparition during Egyptian protests.
+
+---
+
 

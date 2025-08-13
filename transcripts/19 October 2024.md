@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 19 October 2024
@@ -15,6 +16,7 @@
 **FOTCM Members via Zoom:** 3DStudent, A Jay, Adobe, Aeneas, Aiming, Alana, Alejo, Aliana, Altair, aluminumfalcon, anartist, AndrewMn, Anthony, Approaching Infinity, Arwenn, Aya, Bluefyre, Bo, Bobo08, Breton, Carl, Cosmos, Deliverance, dugdeep, Eboard10, Ellipse, Ennio, fabric, Faith, finduilas495, France, Glenn, goyacobol, Harmony99, herondancer, Hesper, Hesperides, iamthatis, irjO, iscreamsandwish, Jacques, JeanneT, JEEP, Jefferson, Jenn, Joanne, Josi, Juba, Kari Baba, keyhole, KJN, Konstantin, korzik18, Laurs, Learner, Lilou, Loreta, LQB, Luc, Luis Miguel, Maat, Madara Horseman, maiko, marek760, Mari, Mark, Mike, Mililea, Miracle, mkrnhr, msante, Natus Videre, Navigator, Neil, Nicholas, Nienna, Obi, Ollie, OrangeScorpion, Oxajil, Pecha, Posibility of Being, Puma, RedFox, Redrock12, Regulattor, Ryan, Ryu, Saman, seek10, seeker2seer, Stoneboss, sToRmR1dR, T.C., Thorbjorn, Timótheos, Tristan, Vulcan59, whitecoast, Windmill Knight, Ysus, Z…, Zim
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -29,6 +31,7 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - 4D to 5D beings contributed to events labeled as "**divine intervention**"; Trump-related example was not a 6D act.
@@ -36,6 +39,7 @@
 - Referenced the Zoroastrian battle of **Ahriman vs. Ahura Mazda** to frame cosmic balance and cycles.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -49,6 +53,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - **Vitamin D** levels vary by individual; official recommendations are too low for most.
@@ -56,6 +61,7 @@
 - **Amanita muscaria** microdosing confirmed as beneficial for sleep and neuromuscular conditions, with minimal and manageable downside.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -65,6 +71,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Reaffirmation that suffering and chaos must be viewed from a **higher, cosmic vantage point**.
@@ -72,12 +79,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Discussion of **Zoroastrian cosmology**—Ahriman vs. Ahura Mazda—as a metaphor for the current balance-restoring process.
 - Cultural understanding of ancient **symbolic battles** helpful to frame present dynamics.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -87,12 +96,16 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - **X-class solar flare** of strength X+5 required to significantly disrupt current tech networks.
 
 ---
 
+
 ## End of Session
 
 - *"Pay attention to last final messages. Things are really heating up. There are certifiable, insane persons in positions of power. Goodbye."*
+
+

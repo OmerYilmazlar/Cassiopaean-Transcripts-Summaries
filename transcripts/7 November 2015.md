@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** November 7th, 2015
@@ -14,18 +15,23 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Psychic attacks target individuals with **missions and their support networks**.
 - Spacetime distortion can enable **realm curtain openings** and anomalous disappearances or deaths.
+- Suffering of one individual can affect others psychically, especially close relations.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
 - The "butterfly" UFO was identified as a **4D STS manifestation**.
+- The Golem-type entity involved in the Elisa Lam case was related to spacetime distortions and realm curtain activity.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -36,6 +42,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Galatea's health event was a **psychic attack** that physically manifested as a burst blood vessel.
@@ -44,6 +51,7 @@
 - Healing physical health also contributes to healing psychic wounds.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -54,6 +62,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Maintaining awareness and engaging in **networking with love** is key to countering psychic attacks.
@@ -63,6 +72,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Reference made to the **Missing 411** book series highlighting mysterious disappearances possibly linked to spacetime distortions.
@@ -71,14 +81,17 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - A critical **timeline split** recently occurred; the group narrowly avoided a destructive reality.
 - Chaos and psychological disintegration were symptoms of an impending timeline shift.
 - **Continued awareness** is essential to avoid falling into destructive potential realities.
 - Reminder that apparent outcomes may not reflect deeper truths.
+- Warning to remain alert when physical symptoms or anomalies appear within the group.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
@@ -87,6 +100,7 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - 4D STS beings manifested as UFOs resembling **butterflies or manta rays**.
@@ -94,17 +108,21 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Emotional and psychic bonding acts as a shield against external psychic manipulation.
+- Importance of giving and receiving love abundantly within the group emphasized for protection and healing.
 
 ---
+
 
 ## Environmental & Industrial Events
 
 - Strange phenomena in locations like Italy with **burning water pipes** were linked to weapons testing or target practice.
 
 ---
+
 
 ## End of Session
 

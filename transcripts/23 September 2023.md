@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 23 September 2023
@@ -16,6 +17,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - COVID vaccines have no effect on blocking souls in the afterlife.
@@ -24,12 +26,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Mozart had **4D, 5D, and 6D** inspirations contributing to his genius.
 - Petrozavodsk 1977 UFO phenomenon was a **4D mass transfer** event—something from 4D temporarily became visible in 3D.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -40,6 +44,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - **Testosterone therapy** is beneficial for elderly men.
@@ -48,6 +53,7 @@
 - Mold exposure is ubiquitous and affects everyone; **Pau d'Arco** is helpful.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -61,17 +67,20 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Laura's curly hair enhances her **perceptive abilities**; hair is important for tuning.
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Isaac Kappy's suicide was the result of **psychological manipulation**, similar to Paul Bennewitz.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -81,19 +90,23 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Secret **underground rail systems** in the US exist, using magnetic levitation or vacuum tubes.
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - MH370 viral video is not actual footage of MH370, but shows a different plane disappearing over Lake Michigan.
 - **4D metallic orbs** (probes) are increasingly seen; used for mind reading, control, and abductions.
 - These beings went underground approximately **14,000 years ago** due to cometary bombardment.
+- Underground beings number around 4.6 million, with 2–2.5 million active on the surface at any time.
 
 ---
+
 
 ## Political Power Structures
 
@@ -103,6 +116,7 @@
 
 ---
 
+
 ## Historical Insights
 
 - US-Russia karmic conflict is linked to **Atlantis**, not Kantek.
@@ -111,4 +125,6 @@
 - Swissair Flight 111 crash in 1998 was a deliberate act of **sabotage**.
 
 ---
+
+
 

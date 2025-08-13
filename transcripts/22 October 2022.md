@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 22 October 2022
@@ -15,6 +16,7 @@
 **FOTCM Members via Zoom:** 3DStudent, 987baz, A Jay, Adobe, Aeneas, aimarok, Aiming, Alana, Alejo, Altair and many others.
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -27,6 +29,7 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Viruses are **transdensity** structures; ethereal mechanisms are largely unknown to scientists.
@@ -34,11 +37,13 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - GRB221009A, the strongest recorded gamma-ray burst, partially relates to the disruption of the PTB's electronic control systems.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -48,6 +53,7 @@
 - The Queen died from **vaccine and broken heart**.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -60,6 +66,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Weekly **meditation**, alertness, awareness, and **networking** help protect group unity.
@@ -69,12 +76,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - **Maurice Paléologue's** book is "close" to accurate.
 - Jacobo Grinberg was partially correct with his Syntergic Theory but missed its **field nature**; he disappeared due to financial conflicts, not his wife's involvement.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -86,6 +95,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Hat was used as a "sign" — 4D STS must declare themselves.
@@ -93,17 +103,20 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - A **mothership** was detected by the IRAS-B satellite in the 1980s, exposed temporarily due to EM anomalies.
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - Portals can be closed by **withdrawing energy** or using **electromagnetic beam weapons**.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -113,11 +126,13 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - Alexandria's library was burned by **Greek enforcers** working for a **secret society** aligned with 4D STS.
 
 ---
+
 
 ## Historical Insights
 
@@ -128,12 +143,16 @@
 - Kievan Rus was founded by **Scandinavian Vikings** — close enough.
 - Genghis Khan's invasion was not directly influenced by Venice, but Venetian contact revealed West's value.
 - Enoch's angels teaching women science/cosmetics = allusion to **corrupting behavior**.
+- Only 3% of Roman Italy’s inhabitants spoke Latin as their mother tongue at the time of Caesar’s assassination.
 
 ---
+
 
 ## Political Power Structures
 
 - Putin's trusted team includes Shoigu and Lavrov.
 
 ---
+
+
 

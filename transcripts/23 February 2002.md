@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** February 23, 2002
@@ -14,14 +15,17 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Discussion of V's ex-husband confirmed he called her after 22 years and has a health issue.
 - V is still legally married; he never remarried or divorced.
 - Guidance was to "fill life with joy at his absence" and "release and rejoice."
 - He is not yet dying.
+- It was suggested that trying to pursue civil action against him is a waste of time.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -38,6 +42,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - A psychic claimed the Rainforest was not being degraded "in her world," which was critiqued as denial.
@@ -45,18 +50,22 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - V's ex-husband has a health issue but it does not carry genetic implications for her son.
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - Slide (reality sequence) was described as having gotten "stuck," indicating discontinuity.
 - Discontinuities occur when frequencies fall out of synch with those who share one's reality.
+- V’s encounter with a man at a grocery store was described as a “warning.”
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -65,8 +74,10 @@
 - Attempting to generate such states for experience's sake is a trait of **STS**.
 - Rare experiences of higher awareness were emphasized.
 - "Sound and fury signifying nothing" referenced in psychological context.
+- Fear of the dark in a person was linked to her own perpetuation of the issue.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -74,6 +85,7 @@
 - Mention of Shakespeare's quote—misattributed to *The Tempest* but likely purposeful.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -83,6 +95,7 @@
 - Financial support was hinted to come from someone named "Paul" but was later told to drop the line of questioning.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
@@ -95,11 +108,13 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - Channeled source of "The **Allies of Humanity**" confirmed to be **4D STO** beings.
 
 ---
+
 
 ## Spiritual Practices & Ritual
 
@@ -107,11 +122,13 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - No genetic ramifications from V's ex-husband's health issue to her son.
 
 ---
+
 
 ## Historical Insights
 
@@ -120,9 +137,19 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - Psychics denying environmental destruction criticized as denying responsibility and refusing awareness.
 
 ---
+
+
+
+## Political Power Structures
+
+- No specific content under this heading in this session.
+
+---
+
 

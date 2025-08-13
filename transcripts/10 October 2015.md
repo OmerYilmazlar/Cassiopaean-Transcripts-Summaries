@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 10th, 2015
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Galatea, Pierre, Perceval, Niall, Chu, PoB, Data, Scottie, Approaching Infinity, Timótheos, Alana, Heimdallr, Nicolas, Noko the Wonderdog, Kitty the Cat
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -25,6 +27,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Increase in **train derailments** expected due to crust opening up
@@ -33,6 +36,7 @@
 - **Earth changes** are unfolding in slow motion due to scale
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -45,8 +49,10 @@
 - Bombings in **China** are partly natural and partly acts of sabotage
 - **Programmed shooters** in the USA are activated by simple means like a phone call
 - Shootings are timed responses to **Russia's** public actions in **Syria** to distract or suppress dissent
+- The US still follows old manipulation plans even as its narrative is being challenged globally.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -54,8 +60,10 @@
 - Changing clothing, lifestyle, habits, and detaching from popular culture can realign one's **frequency**
 - Outward changes reflect internal values like **self-respect** and consideration
 - Becoming a better **antenna** aligns one with a reality that already exists elsewhere
+- Modeling oneself on admired values and people reinforces reality shift.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -63,6 +71,7 @@
 - These events interpreted as a message from **4D STS** to prevent total nuclear destruction
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -76,11 +85,13 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - Events like **nuclear missile shutdowns** attributed to UFO activity may have been orchestrated by **4D STS** as a protective measure
 
 ---
+
 
 ## Historical Insights
 
@@ -89,14 +100,17 @@
 
 ---
 
+
 ## Political Power Structures
 
 - The **USA** and its allies attempt to destabilize **Europe**, particularly Germany
 - **ISIS** is a creation of the USA
 - ISIS operatives have been inserted among **refugees**
 - **Propaganda** is a central tool of the Powers That Be (PTB)
+- The conflict between Russia and the US involves a war of perception and truth.
 
 ---
+
 
 ## Environmental & Industrial Events
 
@@ -105,6 +119,9 @@
 
 ---
 
+
 ## End of Session
 
 A: Goodbye.
+
+

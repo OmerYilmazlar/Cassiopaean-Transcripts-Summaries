@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** September 28, 2002
@@ -13,6 +14,7 @@
 **Participants:** Ark, Laura, Andromeda, BT
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -25,8 +27,10 @@
 - Home is where the heart is.
 - The mission in this realm warrants physical preservation to complete responsibilities to humanity.
 - Souls should open their eyes; awakening is imminent.
+- Real learning is through interaction with the world and striving to see the spirit in all things.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -37,11 +41,13 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - No direct mention of natural earth changes, but movement away from the **USA** is advised for physical safety and mission preservation.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -50,6 +56,7 @@
 - Ozone won't prevent UFOs—if it did, it would be lethal to humans as well.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -60,6 +67,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Pajak's logical thinking is rare due to general hypnosis affecting the population.
@@ -69,6 +77,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - **Pajak's** "periodic principle" and propulsion system lacks sufficient understanding to work.
@@ -77,6 +86,7 @@
 - The "**telepathic communication pyramid**" design only facilitates contact with earth-bound discarnates, not 4D beings.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -88,6 +98,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Remote manipulation of body chemistry (e.g., insulin-related death of **Joel Scherk**) is possible through wave interference.
@@ -96,6 +107,7 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - Lights seen during **crop circle** formations are not necessarily 3D or even craft—mistaking psychic impulses for UFO sightings is a rationalization.
@@ -103,4 +115,6 @@
 - UFOs are made by thought (*Everything is*).
 
 ---
+
+
 

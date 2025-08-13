@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** January 10th, 2015
@@ -14,12 +15,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Variations in **electrical current** between the Earth, the Sun, and other planets influence natural cycles
 - Current **planetary fluxes** impact environmental and biological behavior
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -29,22 +32,29 @@
 - **Inner Earth energy** activation is sometimes in response to surface or cosmic events
 - Use of **infrasound machines** can trigger destructive planetary reactions, possibly even impacting the entire solar system
 - Pool surface behavior described as "**oily swells**" was linked to resonance and inner Earth frequency responses
+- Vortexes can form without lightning and result from temperature variations in atmospheric layers enhanced by charge potential differences.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
 - The use of **infrasound machines** is linked to the control of human emotional states and may provoke planetary and social disturbances
 - France remains a potential target for a **nuclear event**, which could be natural or artificial in nature
 - Increased global **unrest** and odd emotional behavior may precede violent or cataclysmic events
+- Mind-programmed individuals could be unexpectedly triggered by natural frequencies and act unpredictably, even against their handlers.
+- Mass activation of such individuals is implied to be possible, leading to widespread disruptions, potentially even assassinations.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
 - Reports of people experiencing strange emotional and physical symptoms before major events, perceived as a "**disturbance in the Force**"
+- "Question all!" — an exhortation to maintain critical thinking and inquiry.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -52,6 +62,7 @@
 - These descriptions refer to both technological artifacts of **Atlantis** and cometary phenomena
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -62,11 +73,13 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - **Infrasound machines** are used by secret projects to manipulate emotional states and possibly provoke planetary and cosmic responses
 
 ---
+
 
 ## Historical Insights
 
@@ -74,15 +87,61 @@
 
 ---
 
+
 ## Political Power Structures
 
 - Implication that programmed individuals could assassinate political figures, possibly disrupting **elite control structures**
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - **Drones** over nuclear power plants in France are linked to "**Bad Guys**," raising concerns about **sabotage** or **false-flag operations**
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- *No specific points under this session.*
+
+---
+
+
+## Health, Diet, and Supplements
+
+- *No specific points under this session.*
+
+---
+
+
+## Contact and Alien Interactions
+
+- *No specific points under this session.*
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- *No specific points under this session.*
+
+---
+
+
+## Genetics and Ancestry
+
+- *No specific points under this session.*
+
+---
+
+
+## Religious and Historical Preservation
+
+- *No specific points under this session.*
+
+---
+
 

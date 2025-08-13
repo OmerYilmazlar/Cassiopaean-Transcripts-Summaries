@@ -11,7 +11,7 @@ OUTPUT_FOLDER = "transcripts"
 JSON_OUTPUT   = "transcripts.json"
 Path(OUTPUT_FOLDER).mkdir(exist_ok=True)
 
-# 1) “No-info” phrases
+# 1) "No-info" phrases - EXACT MATCHING ONLY (SAFE)
 KEYWORDS = [
     "no direct content under this heading in this session",
     "no specific content under this heading",
@@ -88,6 +88,62 @@ ZOOM_LINE_RE        = re.compile(
     re.IGNORECASE
 )
 
+def is_duplicate_summary(line1, line2):
+    """Check if two lines are duplicate summary headers."""
+    # Both must start with ##
+    if not (line1.startswith('## ') and line2.startswith('## ')):
+        return False
+    
+    # Both must contain "Summary" and have a link
+    if not ('Summary' in line1 and 'Summary' in line2 and '(' in line1 and '(' in line2):
+        return False
+    
+    # Extract dates from both lines
+    date_pattern = r'(\d{1,2}\s+\w+\s+\d{4})'
+    date1 = re.search(date_pattern, line1)
+    date2 = re.search(date_pattern, line2)
+    
+    if date1 and date2:
+        # If dates are the same, it's a duplicate
+        return date1.group(1) == date2.group(1)
+    
+    return False
+
+def remove_duplicate_sections(text: str) -> str:
+    """Remove duplicate summary sections and other duplicates."""
+    lines = text.splitlines(keepends=True)
+    seen_summaries = []
+    result_lines = []
+    skip_until_next_section = False
+    
+    for i, line in enumerate(lines):
+        # If we're in skip mode, skip until next section
+        if skip_until_next_section:
+            if line.startswith('## '):
+                skip_until_next_section = False
+            else:
+                continue
+        
+        # Check for summary headers
+        if line.startswith('## ') and 'Summary' in line and '(' in line:
+            is_duplicate = False
+            
+            # Check against all previously seen summaries
+            for seen_summary in seen_summaries:
+                if is_duplicate_summary(line, seen_summary):
+                    print(f"   🗑️  Removing duplicate summary section")
+                    is_duplicate = True
+                    skip_until_next_section = True
+                    break
+            
+            if not is_duplicate:
+                seen_summaries.append(line)
+                result_lines.append(line)
+        else:
+            result_lines.append(line)
+    
+    return ''.join(result_lines)
+
 def clean_sections(text: str) -> str:
     parts, out = SECTION_SPLIT_RE.split(text), []
     for part in parts:
@@ -96,7 +152,9 @@ def clean_sections(text: str) -> str:
             kept = []
             for L in lines:
                 m = BULLET_RE.match(L)
-                if m and any(kw in m.group(1).lower() for kw in KEYWORDS):
+                # CONFIRMED: This uses EXACT matching - completely safe!
+                # Only removes bullet points that EXACTLY match the keywords
+                if m and m.group(1).strip().lower() in KEYWORDS:
                     continue
                 kept.append(L)
             has_bullet = any(BULLET_RE.match(L) for L in kept)
@@ -150,12 +208,22 @@ def insert_separators(text: str) -> str:
 
 def process_file(in_path: Path):
     txt      = in_path.read_text(encoding="utf-8")
-    cleaned  = clean_sections(txt)
+    
+    # STEP 1: Remove duplicate sections (NEW)
+    deduped  = remove_duplicate_sections(txt)
+    
+    # STEP 2: Clean sections (existing)
+    cleaned  = clean_sections(deduped)
+    
     # get session date from first line "# 25 January 2025"
     first    = cleaned.splitlines()[0]
     m        = re.match(r'^#\s+(.*)', first)
     session_date = m.group(1).strip() if m else ""
+    
+    # STEP 3: Standardize (existing)
     std      = standardize(cleaned, session_date)
+    
+    # STEP 4: Insert separators (existing)
     final    = insert_separators(std)
     return final
 

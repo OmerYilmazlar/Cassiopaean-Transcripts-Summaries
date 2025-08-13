@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** February 2, 2003
@@ -14,17 +15,21 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - No direct content in this section.
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - The EM pulse that struck the shuttle was from a **3/4th density** Consortium.
+- Forces from 4D STS created a hole in a rock at Palomar, described as a “wall outlet” or antennae.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -32,12 +37,15 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Radiation sickness was **not a major factor** due to containment of the Ark.
 - Helen/Nefertiti/Sarah was suspected because she did **not get sick** during the plague.
+- The "plague" described in ancient texts had multiple elements, including leprosy.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -47,8 +55,10 @@
 - The Bush administration is aware there is a "**Maverick**" element at large, causing some primal fear.
 - There are efforts to **conceal the true cause** of such events, just like with the death of Senator Wellstone.
 - The so-called "bodyguard" of Saddam Hussein presented by Mossad was produced via **psychological conditioning**.
+- Bush and his administration are “reaction machines,” largely unaware of the deeper agendas they fulfill.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -57,6 +67,7 @@
 - The daughter's strange dreams about cars are her mind **sorting data** about upcoming changes.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -69,6 +80,7 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - **Confusion is always the mask**—implying symbolic or deceptive layers in public events.
@@ -76,11 +88,13 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - The hole in the rock at Palomar was created by 4D STS and functions as a kind of **antennae**.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -89,11 +103,13 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - No direct content in this section.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -106,6 +122,7 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - Abraham, Paris/Alexander, and Moses are linked as the **same individual** in different guises.
@@ -114,13 +131,23 @@
 - The blessing given to Esau and the return of the Ark were separate events.
 - Akhenaten went mad and was helped (killed); not eaten by crocodiles.
 - The plague referenced in Manetho was **multi-faceted**, likely linked to cometary showers.
+- Abraham acquired the Perseid female in a manner that suggests abduction.
+- Libyans of the Exodus period were a Sumerian and Aryan mix; some ended up in Crete.
+- The importance of Argos is connected to Jason and the Argonauts.
+- The myth of a girl flying on a ram and drowning is alluded to as potentially relevant.
 
 ---
+
 
 ## Historical Insights
 
 - "Dragon Slayers" are a key group involved in **protecting** the last Perseid family member.
 - The Ark and Grail represent different **technological and esoteric traditions**.
+- Connections between myths (Helen, Nefertiti, Paris, Jason and the Argonauts) and biblical stories are reinforced.
+- Stories like Daedalus and Icarus, Jason and the Argonauts, and myths of escape from confinement may contain historical truth.
+- Helen/Nefertiti/Sarah may be at the root of monotheistic tradition and its destructive consequences.
 
 ---
+
+
 

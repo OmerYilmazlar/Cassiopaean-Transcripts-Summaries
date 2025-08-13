@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** September 7, 2013
@@ -14,19 +15,25 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Individuals lacking a magnetic center tend to exhibit **narcissistic traits**.
 - Infantile internal states result in inability to perceive beyond self.
 - Narcissism is often linked to self-pity and desire to dominate.
+- Crystallization on a wrong foundation often stems from early family dynamics.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
 - The eleven-year solar cycle is caused by **reverberations from the companion's passes** (resonance).
+- The main cause for the geomagnetic field is electric flow between the Sun and the cosmic environment.
+- Industrial plumes can act as attractors for cometary discharges due to their electrical charge.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -37,6 +44,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Regular giving of plasma without medical necessity negatively affects the body by **depleting life force and awareness**.
@@ -44,6 +52,7 @@
 - Relationship dynamics may attract negative energies, impacting the health and well-being of offspring.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -59,6 +68,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Thinking with emotions can lead to **disastrous consequences**, as seen in the example of a father's and son's behavior.
@@ -67,21 +77,26 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - A referenced article discusses moral "Endo-skeletons" vs. "Exo-skeletons," which the Cs say is close to the idea of people needing **external rules** due to infantile internal development.
 - Cicero likened to modern personalities such as P____ A____ and Jack Abramoff, described as cowardly and preening.
 - Movie "Casino Jack" recommended to understand Cicero's character.
+- Speculation on a mutation event causing both pigs and humans to emerge in tandem.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
 - Without knowledge and awareness, individuals are susceptible to **attack and karmic repercussions**.
 - A communist-style revolution is "very possible" due to increasing class divide rhetoric and historical cycles.
 - Evil actions and intentions can manifest physically and deteriorate health.
+- Some relationships can attract destructive energies impacting families on multiple levels.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -92,13 +107,16 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - Josephus has clues and is referred to as the "father" of Jesus.
 - Octavian published the Cicero letters.
 - Cicero confirmed to be cowardly; described with reference to modern figures.
+- Jesus as popularly known is a conglomerate with only a small portion based on a real rebel fighter.
 
 ---
+
 
 ## Historical Insights
 
@@ -108,6 +126,7 @@
 
 ---
 
+
 ## Political Power Structures
 
 - The AZF chemical plant explosion was a **warning to Chirac**, caused by a bomb planted by Mossad.
@@ -115,9 +134,14 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - Shockwaves from the AZF plant explosion were possibly manipulated or misinterpreted.
+- Industrial plumes can attract comet discharges due to negative electrical charge.
+- One explosion at the AZF plant may have occurred 3.5 km above ground.
 
 ---
+
+
 

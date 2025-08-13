@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** January 18, 2003
@@ -14,11 +15,13 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - A former group member has cancer and is unlikely to recover without letting go of internal bitterness.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -27,6 +30,7 @@
 - Other superpowers like **Russia** and **China** are not autonomous centers of power.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -39,11 +43,13 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Ambient **EM changes** on the planet can cause individuals to become more or less of a capacitor, explaining sudden electrical shocks and dizziness.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -61,8 +67,13 @@
 - **Game Theory** is cited as a tool used by the control system, but it can fail if the data is disrupted.
 - Only uncorruptible leadership, like a hypothetical stronger **JFK**, could potentially shift things.
 - **North Korea's** leadership is portrayed as a **mirror image** of Bush, highlighting global absurdity.
+- Advertising and increasing site traffic can be done in an **STO** way.
+- The war is a distraction and fear tactic.
+- The media is described as controlled by **Zionist Jews** pursuing an agenda that leads to their own destruction due to hubris.
+- The Achilles heel of **STS** is **Wishful Thinking**, which will result in a **big miscalculation** revealing the “Man behind the curtain.”
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -72,20 +83,25 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Reference to **Eisenhower's** warning about the **Industrial-Military Complex** and its relevance to the current state of global affairs.
 - Discussion of **JFK's** failure to fully act on intelligence threats and the potential for change if a truly **uncorruptible leader** could rise.
 - The importance of personal integrity and not allowing oneself to be blackmailed by past mistakes is emphasized.
+- Criticism of media manipulation and blackmail tactics (e.g., by **Vincent Bridges**) as methods of control.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
 - A **big miscalculation** is forthcoming that will expose hidden controllers.
 - Despite appearances, the group is "doing well" and should stay the course.
+- Continued deception and manipulation are underway, but those responsible will eventually be revealed by their own error.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
@@ -94,11 +110,13 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - **4th density** beings are actively involved in controlling and shaping events through human intermediaries and advanced tech embedded in military structures like the Pentagon.
 
 ---
+
 
 ## Political Power Structures
 
@@ -108,4 +126,6 @@
 - **U.S.** and **Israeli Zionist** power structures are depicted as executing a script devised by the **Consortium**.
 
 ---
+
+
 

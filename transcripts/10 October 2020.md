@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 10th, 2020
@@ -16,6 +17,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - The C's reminded: "Create a network of **psychic light** now that all those who asked have been served with the basic protection."
@@ -23,12 +25,14 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Government leaders are aware of upcoming **catastrophes** such as cometary impacts, Ice Age, earth changes, death, destruction, and mass chaos.
 - The public is mostly unaware, but "some few others" are aware and should "**enjoy the show**."
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -45,13 +49,16 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - A **satellite beam-type weapon** caused multiple cardiac events including Ark's.
 - The weapon was configured to attack individuals with **higher abilities**, such as academics, doctors, and potential dissenters against the Covid narrative.
 - The primary target was in **France**, but not near the group's location.
+- Sweden was hinted to have taken a different path from other nations regarding lockdowns—“Just wait!”
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -61,6 +68,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Two books Ark was studying:
@@ -69,6 +77,7 @@
 - These suggestions were given due to Ark's current health and energy state.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -84,6 +93,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Use of a beam-type **satellite weapon** capable of targeting individuals with specific DNA/energetic traits.
@@ -91,11 +101,13 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - Cassiopaeans introduced themselves as "**Nighhillaea** of Cassiopaea."
 
 ---
+
 
 ## Spiritual Practices & Ritual
 
@@ -104,11 +116,14 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - The weapon was targeting DNA signatures associated with "**higher abilities**."
+- Ark’s psychic shielding and DNA provided natural protection against the energy weapon.
 
 ---
+
 
 ## Political Power Structures
 
@@ -117,4 +132,20 @@
 - Governments continue lockdowns despite evidence due to deeper knowledge of looming **disasters**.
 
 ---
+
+
+
+## [Summary of October 10th, 2020 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-10-october-2020.49595/#post-898385)
+
+**Tags:** Health Attacks, Satellite Weapons, DNA Targeting, Covid-19, Political Chaos, Martial Law, Chemotherapy, Psychic Light Network, Disclosure
+
+---
+
+
+## Cosmic Structure & Densities
+
+- No content under this heading in this session.
+
+---
+
 

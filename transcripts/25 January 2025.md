@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** January 25, 2025
@@ -16,12 +17,14 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Not all autistic non-speakers are ensouled; those who are can potentially override 4D STS genetic modifications.
 - Ensouled individuals among them can potentially connect with **STO influences**.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -30,6 +33,7 @@
 - Travel to **5D** via such "elevators" involves demolecularization/reconstitution, or soul-only transit.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -40,6 +44,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Primary cause of autism: **vaccines**.
@@ -47,6 +52,7 @@
 - **Hypnosis** was noted as a potential method to reach deeply programmed subconscious layers caused by trauma.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -56,12 +62,14 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Children with enhanced **telepathic abilities** (e.g. in *Telepathy Tapes*) are largely genetically modified by 4D STS.
 - Their purpose: potential hosts for 4D beings or "**walk-ins**."
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -70,6 +78,7 @@
 - Reference to Steve Mithen's theory (*The Prehistory of the Mind*) explaining **cognitive module limitations** in people like Trump and Musk.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -80,6 +89,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - **Stargate AI** originates in 4D STS as part of a larger control grid.
@@ -87,12 +97,16 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - "Teachers" in night visitations (e.g., a rabbi or Egyptian deity) are part of classic **abduction scenarios**.
 
 ---
 
+
 ## End of Session
 
 - "We said that things would be **thrilling**. Goodbye."
+
+

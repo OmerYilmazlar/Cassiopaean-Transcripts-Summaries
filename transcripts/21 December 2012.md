@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** December 21, 2012
@@ -14,6 +15,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - A trained mind is more in tune with the **cosmic mind**.
@@ -21,6 +23,7 @@
 - Researching history teaches respect for facts, logic, and leads to deeper understanding.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -32,6 +35,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Strange electrical humming was due to increased electrical charge.
@@ -40,6 +44,7 @@
 - The airburst targeted a location with an underground electric charge "opening up."
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -52,6 +57,7 @@
     - Advice was consistent with prior dietary recommendations.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -71,6 +77,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Only personal research, mental discipline, and pattern recognition will reveal hidden truths (e.g., gold hoard).
@@ -80,6 +87,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Volume II of the **Secret History** was pending release.
@@ -88,16 +96,21 @@
     - No one has found it since.
     - Clues were already given in earlier sessions.
 - Clues must be uncovered through rigorous personal effort and intellectual discipline.
+- Volume III of *The Secret History of the World* is 80% complete and explores cosmic mind interaction with human activity.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
 - Significant price hikes expected in January due to exposed food scarcity.
 - Food shortages will lead to widespread sickness.
 - The "end of the world" did not occur, but an "end" in stages is unfolding.
+- Sandy Hook and similar events were orchestrated to reinforce public dependence on authority figures.
+- Humanity is in a transitional phase with symbolic and actual manifestations of hyperdimensional interference.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
@@ -105,16 +118,21 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - UFO in **Denver** enters and exits via a "time lock."
 - Such UFOs are hyperdimensional and detectable during density transitions.
+- Alien invasion already occurred via mind and social manipulation.
 
 ---
+
 
 ## Environmental & Industrial Events
 
 - **Indiana** explosion was not a gas leak but an electrically charged airburst related to underground energy conditions.
 
 ---
+
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 11, 2014
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Kniall, Pierre, Perceval, Approaching Infinity, Chu, adam7117, parallel, Breton, Windmill Knight, Altair, Prodigal Son, Mr. Scott, Arky, PoB, Alana, Data, Noko the Wonderdog
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -24,6 +26,7 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - **Black-eyed children** sightings are due to **window fallers** at realm border weaknesses and wave approach
@@ -32,12 +35,14 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - **Explosion** heard two days before the session was a **comet fragment** entering the upper atmosphere
 - Multiple such atmospheric **explosions** have occurred recently
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -49,13 +54,18 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - **Paul** was not the evil manipulator portrayed by Unterbrink
 - Paul was of the **Herodian family** and not from Tarsus, despite legend
 - Paul's "pay taxes" message was part of being "wise as a serpent," delivering "**milk**" in letters while reserving "**meat**" for in-person teaching
+- The Jesus myth is an amalgamation of Mithras and Caesar stories.
+- Roman authorities altered and co-opted Caesar's teachings of care and kindness for the masses, leading to creation of a pacifying religion.
+- Christianity's Eucharist borrowed from both Mithraic tradition and Caesar’s compassion for the hungry and his troops.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -69,6 +79,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - **Daniel T. Unterbrink's** *Judas of Nazareth* is referenced; **Judas of Galilee** was the historical "prototype" for Jesus
@@ -79,6 +90,7 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - "Things will get a lot more interesting" regarding **paranormal events** and border phenomena
@@ -87,6 +99,7 @@
 - Limitation on personal questions for psychomantium sessions; questions must pertain to broader **destiny paths**
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -98,10 +111,14 @@
 
 ---
 
+
 ## Historical Insights
 
 - **Caesar's** story was manipulated posthumously to suppress his teachings and co-opt them into the Jesus myth
 - Elements of Caesar's life, including a shared meal before death, were incorporated into the **Jesus narrative**
+- The star seen at Jesus' (Judas’) birth was likely a comet marking Caesar’s own birth.
 
 ---
+
+
 

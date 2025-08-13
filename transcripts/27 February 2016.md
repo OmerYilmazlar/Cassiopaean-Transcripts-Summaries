@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** February 27, 2016
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Galatea, Pierre, Joe, Chu, Data, Arky, Possibility of Being, Scottie, Niall, Noko the Wonderdog
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,8 +24,10 @@
     - Joe: 28
     - Average person: 17
     - The term "strands" refers to more than just physical DNA.
+- "Strands" of DNA referenced in a cosmo-spiritual context:
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -34,6 +38,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - **El Niño** is powered by the Sun's interaction with its companion.
@@ -43,6 +48,7 @@
 - The Wave is already showing signs and symptoms.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -56,8 +62,12 @@
         - Andromeda: from products used, including whitener in feminine products.
 - **Cilantro** tincture: supportive for natural detox, but insufficient alone for deep detox; mechanical methods like **DMSA** recommended.
 - Cold showers for sneezing: beneficial, but a dip in the pool is suggested.
+- Symbolic dreams of flying and consciousness expansion are related to iodine intake.
+- Uranium in Galatea and Athena: childhood exposure via nefarious substances in an alley.
+- High strontium levels in Andromeda, Chu, and Joe: not harmful; considered beneficial.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -68,20 +78,25 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - **Galatea's** dream of flying into outer space: also linked to the effects of iodine on consciousness.
 - Galatea's seeing flashes of light in the dark: attributed to phosphenes in the brain.
 - **EM "recording"** phenomena experienced at the Farm, likely due to flowing water under the location.
+- Ark's dream of elevator going through the roof: symbolic of consciousness expansion and elevated ideas.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
 - "**Black-eyed children**" story: identified as a hoax.
     - Two Asian-looking men witnessed: part of the "away team".
+- Ocean's UFO sighting in Oman (cylindrical object): confirmed as an actual craft.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -93,8 +108,10 @@
     - **Potassium-40** and physiological oddities: "transfer process leak" and failure.
     - Fireballs observed: probing portals.
 - Incompetent science in our reality can have similar destructive effects in others, including nuclear experiments.
+- These amateur experiments are not uncommon and often have unintended consequences.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -106,12 +123,14 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Mishandled advanced tech (like portals) can result in phenomena like time dilation, bodily injury, or death.
 - Analogy to **Philadelphia Experiment** used to explain remolecularization failure.
 
 ---
+
 
 ## Environmental & Industrial Events
 
@@ -123,4 +142,6 @@
 - **Arsenic** found in everyday products, especially some feminine hygiene items.
 
 ---
+
+
 

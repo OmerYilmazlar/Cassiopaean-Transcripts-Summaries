@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 30 January 2021
@@ -16,12 +17,14 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - A deceased cat now acts as a guardian in the **astral realms.**
 - A missing time event was due to a glitch in the matrix caused by Laura; the **matrix program** was changed and the new version is better.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -32,12 +35,15 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - The asteroid belt is the remnants of **Kantek**.
 - Most of Kantek's mass disintegrated into dust and was ejected from the solar system.
+- The planetary explosion affected other planets and left evidence on Earth.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -49,6 +55,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - Greed for power is a sickness; ruling elites are sabotaging themselves.
@@ -59,8 +66,10 @@
 - Suppression of dissent is escalating: deplatforming, imprisonment, psychiatric evaluations.
 - Western countries are more vulnerable due to their history of freedom and prosperity.
 - The Powers That Be will try to restrict the internet but depend on it too much for total shutdown.
+- The Deep State is now in power via Biden and Harris, which will bring chaos due to fear of losing control.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -72,11 +81,13 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - The **GameStop stock** surge was primarily a grassroots movement, with no major covert manipulation.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -88,12 +99,16 @@
 - Cosmically, the forces of darkness have painted a target on themselves.
 - Some U.S. states may seriously consider **secession**, but Trump will not become president of a new USA.
 - The phrase "**Enjoy the show**" is reiterated, hinting at dramatic unfolding events.
+- The next economic crisis will begin as a manufactured event but spiral out of control, similar to COVID.
 
 ---
+
 
 ## Contact and Alien Interactions
 
 - Nanotechnology in some vaccines was developed by both humans and **aliens**.
 
 ---
+
+
 

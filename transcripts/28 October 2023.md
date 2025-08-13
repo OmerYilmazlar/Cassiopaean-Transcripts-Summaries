@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 28 October 2023
@@ -15,6 +16,7 @@
 **FOTCM Members via Zoom:** Not provided.
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -31,8 +33,12 @@
 - Pierre's **high soul frequency** rendered his body incompatible, contributing to disease.
 - The group's grieving process is reciprocally felt by Pierre.
 - Emotional release and healing on both sides signal mutual recovery.
+- Pierre’s passing was sudden and surprising to both him and the group.
+- He will be born again in 4D.
+- Morphine and similar drugs can cause short-term disorientation after death but help ease the soul’s exit.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -42,12 +48,15 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - A suggestion was given to stock up on **diesel and gasoline**.
 - More global **chaos** is expected over the coming months.
+- Despite turmoil, good things can arise from chaos.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -64,22 +73,27 @@
 - 4D beings are becoming desperate as change approaches.
 - People around the world are **waking up**—albeit through suffering.
 - The movement of souls from suffering leads to awakening in others.
+- America was previously called a "5D city on a hill"—but is destined for destruction.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
 - Emotional release and healing on both sides signal mutual recovery.
 - Prayers and loving thoughts help Pierre in his transition.
 - The group's grieving process is reciprocally felt by Pierre.
+- Despite turmoil, good things can arise from chaos.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
 - Religious propaganda has deeply influenced public perception.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -90,3 +104,11 @@
 - The idea of relocating was acknowledged; the opportunity will present itself in due time.
 - Trump will **not** go to prison.
 - Erdogan's alignment: 53% "good guy."
+
+
+---
+## Health, Diet, and Supplements
+
+- Morphine and similar drugs can cause short-term disorientation after death but help ease the soul’s exit.
+
+---

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 6 August 2005
@@ -14,13 +15,16 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Less than **3,000 individuals** have managed to escape from 3D in the current cycle.
 - Dan Winter described as "**over the edge**"; expected to distort Laura's work.
 - "Some people are born to serve, others are born to be served…"
+- Transition to 4D is possible, but those who return are generally STS.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -30,17 +34,20 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - The "**wave**" and networking are emphasized as part of the transformation process.
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - To prepare for possible germ warfare: "**Stay healthy**."
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -60,8 +67,11 @@
 - Percentage of French population capable of real thinking: **59%**
 - Special prosecutor Fitzgerald unlikely to bring down Bush gang—Bush will likely **prevail**.
 - US **CoIntelPro** working to keep John Kaminski from moving to France.
+- Pentagon attack: Two survivors, one possibly ex-IDF linked to Pentagon.
+- Thermo-Nuclear Reactor project in France seen as a distraction; a maneuver to buy time.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -70,12 +80,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - **Desarab Nicolescu**, **Jakob Bohm** mentioned during discussion on special missions.
 - Ark told to extract a "**wisdom tooth**" from Dan Winter; warning of distortions of group's work.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -88,17 +100,20 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - **HAARP** used to influence population cognition, turning brains to "tapioca."
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - **Lonomiah** is the Cassiopaean transmitter for this session.
 
 ---
+
 
 ## Spiritual Practices & Ritual
 
@@ -107,10 +122,13 @@
 
 ---
 
+
 ## Political Power Structures
 
 - Tony Blair is **blackmailed or manipulated**; "promised a place on the 'rapture special.'"
 - France plays strategically "**dumb like a fox**" to maneuver against the Bush gang.
 
 ---
+
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** December 29, 2009
@@ -13,6 +14,7 @@
 **Participants:** Laura, Ark, Anart, Joe, A*, P**, Allen, C**, I**, Scottie, G***
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -22,8 +24,11 @@
 - Encouragement to keep faith in the reality of higher densities and energies.
 - Dramatic demonstrations of the efficacy of the group's approach are forthcoming.
 - A matching frequency must be established for help to come from higher densities.
+- A “5D city on a hill” was mentioned again; it is a large-scale concept rather than a specific city.
+- “Build it and they will come” confirms the necessity of groundwork before higher-density help can arrive.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -31,6 +36,7 @@
 - Triangular **UFO** over Moscow was real, not fake.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -42,8 +48,11 @@
 - **4D STS** makes indirect moves to repress creativity, thereby revealing their hand.
 - Ongoing efforts by authorities to pathologize conspiracy thinking as mental illness.
 - Discussion of new **Putin Doctrine** and shift from defensive to offensive weapons in Russia.
+- Psychopathy results in a supreme lack of insight.
+- Climategate and false flag terrorism (airplane attack) are seen as part of the control agenda.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -56,6 +65,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Suggestion to align **SOTT.net** with **PaleoChristianity** and include commentary from a philosophical angle.
@@ -67,13 +77,16 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - International travel shutdown is predicted, possibly in 8 months.
 - Shutdown will not be total or long-lasting.
 - "Wait and see" response to why airports will be shut down.
+- Eventual cosmic catastrophe implied in relation to the “5D city on a hill.”
 
 ---
+
 
 ## Religious and Historical Preservation
 
@@ -82,11 +95,13 @@
 
 ---
 
+
 ## Historical Insights
 
 - Reference to prior statements and insights from **Political Ponerology** about psychopaths in leadership and systemic collapse.
 
 ---
+
 
 ## Political Power Structures
 
@@ -96,10 +111,55 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - Missile over **Norway** was real; atmospheric effects were due to dust from space debris.
 - Discussion of incoming rocks and debris affecting atmospheric phenomena.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- No specific discussion under this category in this session.
+
+---
+
+
+## Health, Diet, and Supplements
+
+- No specific discussion under this category in this session.
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- No specific discussion under this category in this session.
+
+---
+
+
+## Contact and Alien Interactions
+
+- No specific discussion under this category in this session.
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- Lighting of three Christmas candles at session start; symbolic but not discussed further.
+
+---
+
+
+## Genetics and Ancestry
+
+- No specific discussion under this category in this session.
+
+---
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 21 September 2024
@@ -16,6 +17,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Soul dissociation may mimic de-identification during Joe Dispenza-style meditations.
@@ -24,6 +26,7 @@
 - **Incarnation** is drawn by gravitational-like attraction from 5D after certain balance is achieved.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -35,6 +38,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Aryan-Vedic chronology theories discussed; confusion due to repeated **cataclysms** and historical manipulation.
@@ -44,6 +48,7 @@
 - Deer were possibly also affected by this bioweapon.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -55,6 +60,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - **Rothschilds, Rockefellers, and Soros** families are red herrings; not true Illuminati but knowingly work with them.
@@ -63,6 +69,7 @@
 - Trump's would-be assassin had **help**; such actions are still pursued while trying to appear innocent.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -73,6 +80,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Laura recommends David Reich's *Who We Are and How We Got Here* and Carleton S. Coon's work for **genetics history**.
@@ -81,6 +89,7 @@
 - Graham Hancock's documentary work is noted, with a second Netflix season upcoming.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -91,6 +100,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Many nanotech elements seen in vaccines and other products serve as **future-use tech**, including remote-activated functions.
@@ -98,12 +108,16 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - **2% of the global population** is abducted—around 160 million individuals.
 
 ---
 
+
 ## End of Session
 
 - *Final message:* "Explosive revelations and events coming! Goodbye."
+
+

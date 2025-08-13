@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** September 21, 2002
@@ -14,11 +15,13 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - The object seen off Hollywood was a flight of density transiting craft.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -27,12 +30,14 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - **Silk** clothing and headgear can help reduce vulnerability to EM interference.
 - **Aluminum pyramids** with silk lining mentioned humorously but acknowledged.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -43,8 +48,10 @@
 - Raising the "**djed**" ritual promoted by Vincent Bridges will result in nothing.
 - The bombing of **Iraq** by George Bush's administration is inevitable.
 - Efforts to oppose the war are not wasted—they will result in different returns.
+- A possible technical solution includes building a wave generator with broad-spectrum EM canceling capability and an adjustable detector.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -53,25 +60,47 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Things are moving rapidly now, justifying a sudden change in guidance to move.
 - Selling the house and relocating—specifically to **France**—is advised.
 - A nuke hit on the U.S. is certain; less probability now for France.
 - Money needed for relocation will come very soon.
+- September 22 event suggested by Vincent Bridges is not likely to result in anything.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
 - Discussion of building an **EM wave generator** with a canceling frequency detector.
 - Mention of a high-level **scanner object** in orbit, not a rocket booster, but a sector-scanning device.
+- The object belongs to a high-level consortium—both human and alien.
 
 ---
+
 
 ## Contact and Alien Interactions
 
 - A craft seen near Hollywood was a **4D** transiting craft, not an ICBM.
+- The high-level scanning device is operated by a human/alien consortium.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- *(No direct references in this session.)*
+
+---
+
+
+## Books, Research, and Cultural Commentary
+
+- *(No direct references in this session.)*
+
+---
+
 

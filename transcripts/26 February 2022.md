@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 26 February 2022
@@ -16,13 +17,16 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - The group attending the session is part of a specific reincarnated group from **Atlantis**.
 - **Kantekkians**, while powerful and intense, were also responsible for destroying their own planet.
 - Putin has higher help, including from **ancestors** and his future self.
+- Current events are not a karmic replay of the battle between Atlanteans and Athenians.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -33,25 +37,33 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Widespread **food shortages** across Europe are expected eventually.
+- The conflict represents an attack on the food supply system.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
 - Targeted populations (e.g., Kantekkians/true Semites/Caucasians) are genetically more affected due to overexpression of **ACE2 protein**.
 - The vaccine can include **nanotechnology**, which can facilitate later manipulation or control.
+- COVID-19 vaccines include “docking elements” for later pathogen propagation and may serve as ethnic weapons.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
 - The UK lifted COVID restrictions due to growing **public unrest**.
 - Schwab's claim about Putin is false—he is not a puppet.
+- Propaganda has been preparing the Western public for years to see Putin as evil.
+- Anonymous (seen as a CIA front) will attempt to hack Russia with limited success.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -59,6 +71,7 @@
 - Laura and Ark are needed and should not delay attention to themselves.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -76,14 +89,17 @@
 - More global **suffering** is needed as not enough people are awakening.
 - The overall success of the plans of TPTB is rated **4 out of 10**.
 - Timeline has not changed due to Russia's actions in Ukraine.
+- The DC convoy will have a positive outcome, but not in an expected way.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
 - The vaccine can include nanotechnology, which can facilitate later manipulation or control.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -97,12 +113,14 @@
 
 ---
 
+
 ## Genetics and Ancestry
 
 - Russians from Belarus are closer original Ukrainians. And they were originally **Kantekkians** and had recently destroyed their own planet.
 - Targeted populations (e.g., Kantekkians/true Semites/Caucasians) are genetically more affected due to overexpression of ACE2 protein.
 
 ---
+
 
 ## Political Power Structures
 
@@ -114,9 +132,19 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - War and sanctions are affecting global food supply—e.g., **wheat and fertilizer** exports from Russia and Ukraine, sunflower oil shortages.
 
 ---
+
+
+
+## Books, Research, and Cultural Commentary
+
+- [Not covered in this session.]
+
+---
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** November 21st, 2015
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Galatea, Pierre, Perceval, PoB, Chu, Arky, Data, Niall, Scottie, Approaching Infinity, Timótheos, Alana, Windmill knight, Prodigal Son, Parallel, nicklebleu, Zak, Noko the Wonderdog
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,11 +24,13 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - **Iodine** protects all glandular systems which serve as interfaces with higher densities.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -36,6 +40,7 @@
 - A real atmospheric mirage of a city in **China** occurred due to refraction effects from atmospheric cooling; more mirages are expected.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -52,8 +57,11 @@
 - Iodine can combat diseases including **AIDS**, **Ebola**, plague, chickenpox, measles.
 - Clean terrain (low toxicity, no microbes) reduces vulnerability to control mechanisms.
 - People will experience stronger willpower as they detox and restore health.
+- Iodine serves as an antidote to the effects of the frequency fence.
+- Iodine also protects against radiation and supports metabolism and energy by feeding glands and every cell.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -68,12 +76,15 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Engagement with iodine detox improves spiritual resilience and willpower.
 - Stronger physical health correlates with psychological and esoteric fortitude.
+- Arky is encouraged to proceed with dream communication and inspired work, especially in light of newfound iodine-induced energy.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -82,6 +93,7 @@
 - Public is uninformed about iodine's benefits due to lack of profitability and PTB's intent to maintain population weakness.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -93,6 +105,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Circular objects that fell in **Spain** were gas tanks from satellites, placed deliberately as a message.
@@ -102,11 +115,14 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - Satellite incidents are attributed to actions by non-human intelligences ("aliens in spaceships" implied).
+- A message was conveyed to Earth powers via satellite destruction and artifact placement.
 
 ---
+
 
 ## End of Session
 

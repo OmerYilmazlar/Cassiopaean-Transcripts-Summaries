@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** 18 September 2021
@@ -16,6 +17,7 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Contact made with entity identifying as "**Gloriaea**" (Latin reference to *Gloria in excelsis Deo*).
@@ -25,12 +27,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - The claim about the Cassiopaeans being **future versions** of humans (within 1,000 years) is true.
 - Communication becomes distorted with greater time distances.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -41,6 +45,7 @@
 - Weather-related destruction of food sources is worse than reported.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -53,6 +58,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - People may alleviate inner tension through **conformity**, such as vaccination.
@@ -60,8 +66,10 @@
 - Both pro- and anti-vaccine individuals may fall into traps if driven by stress, fear, or radicalism.
 - Influences from other realms aim to reduce **fertility** and mutate DNA.
 - **Communism** in the 19th century was a partial rehearsal for current control agendas.
+- The idea that willingly vaccinated individuals could be more aligned with alien agendas is humorously hinted at (e.g., "alien zombies").
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -73,11 +81,13 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Cassiopaeans suggest ***Parable of the Sower*** for understanding current soul dynamics.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -86,11 +96,14 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - **Alien influences** are connected to the vaccine agenda and Earth changes.
+- The idea of “alien zombies” is suggested in relation to those aligned with alien agendas.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -99,11 +112,15 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - **Paul's predictions** about the end of the world were accurate in context.
+- The claim about the nonexistence of “Vulgar Latin” and faulty historical chronology is true.
+- Many Roman and early Christian historical accounts are fabricated or reused stories.
 
 ---
+
 
 ## Historical Insights
 
@@ -113,11 +130,13 @@
 
 ---
 
+
 ## Political Power Structures
 
 - Communism in the 19th century was a partial **rehearsal** for current control agendas.
 
 ---
+
 
 ## Environmental & Industrial Events
 
@@ -125,4 +144,20 @@
 - The claim about real **food shortages** being masked by fake news is true.
 
 ---
+
+
+
+## Technology and Artificial Intelligence
+
+- None mentioned.
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- None mentioned.
+
+---
+
 

@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 31, 2001
@@ -14,12 +15,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - Cometary bodies and the **Twin Sun** influence planetary movement and pole shifts.
 - The Twin Sun "grounds current flow through entire system" initiating a motor-like dynamic.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -32,8 +35,10 @@
 - Planets in the solar system may shift out of orbits due to these influences.
 - The magnetic pole reversal is only partly explained by current dynamo theory.
 - Missing element in dynamo theory is the **crystalline ammonia core**.
+- The coming pole shift will involve a new axial orientation and magnetic reversal.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -42,6 +47,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - Possible but not probable that further terrorist attacks will occur in the United States.
@@ -49,11 +55,13 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Final message: "Love one another."
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -67,12 +75,16 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Cometary impacts and celestial mechanics will contribute to these shifts.
 - No mini black hole exists at the Earth's core.
+- Pole shift with magnetic reversal is highly probable within a decade.
+- "Light will break in a big way" is predicted as the next major life event.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -80,11 +92,13 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - **Ark of the Covenant** not related to Vril force or composed of gold and rutilated quartz.
 
 ---
+
 
 ## Historical Insights
 
@@ -92,4 +106,48 @@
 - **Crystalline ammonia** naturally accretes iron from supernova remnants.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- *(No specific content under this category in this session)*
+
+---
+
+
+## Technology and Artificial Intelligence
+
+- *(No specific content under this category in this session)*
+
+---
+
+
+## Contact and Alien Interactions
+
+- *(No specific content under this category in this session)*
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- *(No specific content under this category in this session)*
+
+---
+
+
+## Political Power Structures
+
+- *(No specific content under this category in this session)*
+
+---
+
+
+## Environmental & Industrial Events
+
+- *(No specific content under this category in this session)*
+
+---
+
 

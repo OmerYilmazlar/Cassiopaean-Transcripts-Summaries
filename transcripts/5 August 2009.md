@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** August 5, 2009
@@ -14,13 +15,16 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Humans destined to "meet" themselves in the future can now do so with greater facility due to breathing and meditation efforts.
 - The "zoning out" phenomenon is related to spending time with the **higher self/teacher**.
 - The soul is taxed greatly by being embodied.
+- The dissociation ability is being used as originally intended—rather than wasted on illusions.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -30,6 +34,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - The pyramids in Bosnia are confirmed to be built structures.
@@ -38,12 +43,15 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - "Keep flushing" suggests continuation of detox process.
 - EFT is described as a "keep busy" activity that focuses attention, but is counter to the presented program's purpose.
+- Inflammation and tiredness experienced by Laura are due to both attack and increased detoxing.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -51,6 +59,7 @@
 - Valletta is not Illuminati "Central".
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -64,6 +73,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - The book *Talking With Angels* has a source mix of **4D STS and STO**, and the events recounted are real.
@@ -73,6 +83,7 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Breathing and meditation efforts will soon lead to breakthroughs.
@@ -81,11 +92,13 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - No content in this session.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -93,11 +106,14 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - A specific dance discovered resembling a slow crane movement is significant and relevant.
+- Breathing and meditation are foundational and should continue regularly.
 
 ---
+
 
 ## Genetics and Ancestry
 
@@ -107,14 +123,17 @@
 - The "out of Africa" vs "out of Asia" debate should be reframed as "**out of Kantek vs out of Earth**".
 - South Slavs originated from the Caucasus area.
 - The Maltese language is closely related to Lebanese; Phoenician origin theory is "close enough".
+- There was early blending between Kantekkian and Earth populations.
 
 ---
+
 
 ## Religious and Historical Preservation
 
 - No content in this session.
 
 ---
+
 
 ## Historical Insights
 
@@ -123,15 +142,19 @@
 
 ---
 
+
 ## Political Power Structures
 
 - No content in this session.
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - No content in this session.
 
 ---
+
+
 

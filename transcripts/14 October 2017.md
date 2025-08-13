@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 14, 2017
@@ -13,6 +14,7 @@
 **Participants:** Laura, Andromeda, Artemis, Pierre, Joe, Chu, Ark, Mikey, Scottie, Niall, Opal the Majesticat, Noko the Wonderdog, Princess Leia
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -23,6 +25,7 @@
 - Gurdjieff denied the importance of **dreams** and sleep, which is essential for soul recharging
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -35,13 +38,16 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Animals and environment suffer due to these energies
 - **Lensing effect** by "agents" focuses environmental energies on individuals, affecting pets and local surroundings
 - Regional chaos noted, including abnormal human behavior
+- General chaotic energies of transition are affecting the environment.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -51,6 +57,7 @@
 - Poor health habits possibly contributed to his early death
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -63,6 +70,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - His system is barren, lacking awareness of **hyperdimensional realities**, compassion, or spiritual context
@@ -70,8 +78,11 @@
 - No meaningful outcomes observed in modern **Gurdjieff groups**
 - His system destroys natural conscience and compassion due to materialistic paradigm
 - Cs emphasize value of **feedback** and **networks**—something Gurdjieff lacked due to ego
+- Gurdjieff's work described man as a machine and tried to overcome this through crystallization.
+- His goal was personal salvation and immortal life.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -84,12 +95,15 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - **Dreams** involving break-ins or the devil reflect real attempts by agents to direct negative energies
 - The world is experiencing extreme **chaos**, indicating a significant shift or transition
+- Individuals are encouraged to tighten awareness and remain vigilant.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
@@ -98,6 +112,7 @@
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - External impingements on individuals are often non-material (thoughts, ideas, etc.), yet have physical effects
@@ -105,10 +120,13 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - **Sleep** and **dreams** are spiritually important and should not be dismissed
 - Gurdjieff's dismissal of sleep and dreams conflicts with their known spiritual and psychological value
 
 ---
+
+
 

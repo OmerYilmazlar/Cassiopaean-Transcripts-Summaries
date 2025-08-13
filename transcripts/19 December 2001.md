@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** December 19, 2001
@@ -13,6 +14,7 @@
 **Participants:** Laura, Ark, Barry
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -22,6 +24,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - Danny saw a "**rip in the sky**," and the response confirms many such occurrences lately.
@@ -29,11 +32,13 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - **Chemtrails** also have a chemical effect on human brains and physiology.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -42,14 +47,18 @@
 - **Terri** is a conscious agent; **JoJo**, **Olga**, and **Vincent** are not.
 - **TB** is confirmed to be a conscious agent.
 - The group should no longer interact with or investigate **VB**, but previously posted material about him should not be removed to avoid setting a precedent.
+- The Amsterdam server crash was due to an attack through the owner, but not a conscious one.
+- The group should be closed, but with modifications in participation as previously outlined—specifically pulling back from deep personal involvement.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
 - The **I Ching** advised against forgiving and forgetting criminals, specifically advising to cease engagement with VB.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
@@ -58,6 +67,7 @@
 
 ---
 
+
 ## Notable Warnings & Predictions
 
 - Attacks on the group will continue regardless of the server chosen.
@@ -65,10 +75,36 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - **Server reliability** is a concern due to external attacks via unconscious influence.
 - Consideration between servers in **Canada** and **Hong Kong** discussed.
 
 ---
+
+
+
+## Cosmic Structure & Densities
+
+- No relevant content in this session.
+
+---
+
+
+## Notable Warnings or Predictions
+
+- Attacks on the group will continue regardless of the server chosen.
+- It is advised to choose based on instincts and server support capabilities rather than attack prevention.
+- Noah is described as “Extremely!!!” important in the present context.
+
+---
+
+
+## Contact and Alien Interactions
+
+- No direct alien contact discussed, but references to hyperdimensional manipulation and sky anomalies imply such interaction.
+
+---
+
 

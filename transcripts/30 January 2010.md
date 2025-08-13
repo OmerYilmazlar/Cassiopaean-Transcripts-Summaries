@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** January 30th, 2010
@@ -14,11 +15,13 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - **5D** is watching closely.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -30,8 +33,10 @@
 - Semi-major axis of the companion's orbit: ~1.7 light years.
 - The **companion star** has previously perturbed the solar system; this is evident in the geological/historical record.
 - Suggestion for Ark's theory: convert half of gravity into EM light.
+- Earth's position relative to the sun affects perception of the sun's companion.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -47,6 +52,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
     - Consciousness orientation.
@@ -54,8 +60,10 @@
     - Wave readers or homing devices.
 - Lack of spindle cells is associated with psychopathy and schizophrenia.
 - Whales also have spindle cells.
+- Spindle cells (von Economo neurons) function as:
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -76,6 +84,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - **Machine elves** seen during DMT experiences are cryptogeographic beings—consciousness connected to energy.
@@ -86,12 +95,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Laura's book referenced as a more accurate source on British origins.
 - "**The Origins of the British**" by Oppenheimer suggested for deeper insight.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -101,6 +112,7 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Induced earthquakes carried out using triangulated space-based weapons, not submarines.
@@ -108,10 +120,20 @@
 
 ---
 
+
 ## Spiritual Practices & Ritual
 
 - **EE** (Éiriú Eolas) program and forum activity acknowledged positively.
 - Group encouraged to stay vigilant for subtle signs of progress.
 
 ---
+
+
+
+## Contact and Alien Interactions
+
+- Spindle cells in the brain act as “wave readers”—relevant to "Wave Reading Consciousness Units" (souled humans).
+
+---
+
 

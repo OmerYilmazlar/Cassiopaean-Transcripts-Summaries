@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** February 26, 2002
@@ -13,6 +14,7 @@
 **Participants:** Ark, Laura, Rick O
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -26,6 +28,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - Laura’s broken tooth is due to a **lack of dentist**.
@@ -38,6 +41,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - Peru is not the place of safety and is falsely promoted as a source of wisdom to **diffuse knowledge**.
@@ -48,6 +52,7 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - People often ignore warning signs in others due to **personal need or loneliness**.
@@ -56,6 +61,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Matti Pitkänen is noted as someone who resonates with correct ideas (p-adic numbers, dimensions, quantum jumps).
@@ -63,17 +69,23 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Two sessions per week are recommended if needed.
+- Frank is rumored (by Jay Weidner) to be seen as a **channel for Set** by those searching for the Ark/Mother Stone.
+- STS entities may wait for **STO individuals to find and tune** the Mother Stone, then attempt to seize it.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
 - It was created on **Kantek** and used to transport Kantekkians to Earth, some via Lizards.
+- The **Mother Stone** (a.k.a. Gift of God) was used in ancient times to **manifest all things needful for existence**.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -83,15 +95,61 @@
 
 ---
 
+
 ## Religious and Historical Preservation
 
 - The Mother Stone is linked to ancient myths of the **Ark of the Covenant**, **Holy Grail**, and **Merkabah**.
 
 ---
 
+
 ## Historical Insights
 
 - The group guarding secrets in the south of France uses **Machiavellian tactics** to appear as evil and mislead others.
 
 ---
+
+
+
+## Afterlife & Soul Topics
+
+- No direct content under this category in this session.
+
+---
+
+
+## Earth Changes & Environmental Events
+
+- No direct content under this category in this session.
+
+---
+
+
+## Spiritual Practices & Ritual
+
+- No direct content under this category in this session.
+
+---
+
+
+## Genetics and Ancestry
+
+- No direct content under this category in this session.
+
+---
+
+
+## Political Power Structures
+
+- No direct content under this category in this session.
+
+---
+
+
+## Environmental & Industrial Events
+
+- No direct content under this category in this session.
+
+---
+
 

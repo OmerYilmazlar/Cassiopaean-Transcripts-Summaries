@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** October 09, 2001
@@ -14,12 +15,14 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - Help only comes to those who give a guarantee to succeed and show **determination** to reach the goal.
 - A **shield** can be erected by group effort against **psychic attacks**.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -33,17 +36,21 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - **Kobe, Japan earthquake** predicted as coming “soon.”
+- When asked if it would be a big one, the response was an indecipherable phrase sounding like “Tonechance.”
 
 ---
+
 
 ## Health, Diet, and Supplements
 
 - “**Health** is harmed by **stasis**.”
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -53,6 +60,7 @@
 - **Terri Burns** is partly **mind programmed**.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -64,11 +72,14 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - **Laura** is working on finishing her **book**.
+- Discussion around website content and editing—removal of personal content like Grace was considered, and editing encouraged.
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -78,11 +89,14 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - Mention of **Dirac operators** in connection with **Riemannian manifolds**.
+- “Operators” discussed in a mathematical and possibly metaphysical context.
 
 ---
+
 
 ## Contact and Alien Interactions
 

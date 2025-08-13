@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** December 6, 2014
@@ -14,14 +15,18 @@
 
 ---
 
+
 ## Afterlife & Soul Topics
 
 - This disconnection tore his **triple cycle veil**, resulting in energy leakage and a decline in intellectual function.
 - He effectively "left his **true self** behind" near his children; only his body centers are present.
 - He suffers from a lack of faith in the process and allows **fear** to guide decisions.
 - He gives too much power to his ex-partner and hasn't developed the force and skills to overcome obstacles.
+- Breton has precipitately disconnected psychic and etheric cords that bound him to a specific plan and milieu.
+- He is reminded of his karmic commitment to his children and encouraged to fulfill duties while supporting the network.
 
 ---
+
 
 ## Cosmic Structure & Densities
 
@@ -31,6 +36,7 @@
 
 ---
 
+
 ## Earth Changes & Environmental Events
 
 - A **planetary field resonance** was triggered by the group's acquisition of two properties in July, resonating with reality change.
@@ -38,6 +44,7 @@
 - The Cs suggest checking global news for additional clues of this resonance.
 
 ---
+
 
 ## Health, Diet, and Supplements
 
@@ -47,6 +54,7 @@
 
 ---
 
+
 ## Control System & Sociopolitical Manipulation
 
 - Drones observed over French nuclear plants are confirmed to be **actual drones**.
@@ -55,21 +63,26 @@
 
 ---
 
+
 ## Esoteric Work & Personal Development
 
 - Results matter more than mere presence; one must see **results** to assess alignment and action.
 - "Where your energy goes, your heart is" — **funding and energy** input into the network determine future placement and support.
 - The group is encouraged to prepare to receive and aid others from the network's outer edges.
 - **Tribal unit strength** is emphasized as an essential goal.
+- “Fully engaged” participation in the network in all possible ways ensures timely information reception.
 
 ---
+
 
 ## Books, Research, and Cultural Commentary
 
 - Robert Price's analysis suggests early Christianity had a **dual path** similar to the Buddhist Great and Small Vehicles.
 - The concept applies to network members: both full community members and those integrated from afar can contribute meaningfully.
+- Discussion on biblical contradictions between asceticism and worldly responsibility mirrors differences in early Buddhism (Hinayana vs. Mahayana).
 
 ---
+
 
 ## Notable Warnings or Predictions
 
@@ -79,15 +92,20 @@
 
 ---
 
+
 ## Technology and Artificial Intelligence
 
 - The identity of those flying drones over France is withheld, implying intelligence agencies with **surveillance capacities**.
 
 ---
 
+
 ## Contact and Alien Interactions
 
 - Channeling is described as rare and reserved for individuals with the right mix of **genetics, soul potential, mission, and preparation**.
+- The Cs mention they’ll meet Laura in the psychomantium soon, indicating continued communication in altered states.
 
 ---
+
+
 

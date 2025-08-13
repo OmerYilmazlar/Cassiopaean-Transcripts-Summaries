@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Session Details
 
 **Date:** November 28, 2009
@@ -13,6 +14,7 @@
 **Participants:** Laura, Ark, A*, Joe, L*, C**, Allen, I**, P**, C**, Scottie, G*
 
 ---
+
 
 ## Afterlife & Soul Topics
 
@@ -25,12 +27,14 @@
 
 ---
 
+
 ## Cosmic Structure & Densities
 
 - The wave is described as "**hyperkinetic sensate**" and will massively amplify whatever is inside an individual.
 - The wave is coming, and people are being taught to surf it rather than be dragged under.
 
 ---
+
 
 ## Earth Changes & Environmental Events
 
@@ -40,6 +44,7 @@
 
 ---
 
+
 ## Health, Diet, and Supplements
 
 - The recent flu experienced by the group was engineered and similar to **swine flu**. The group is now immune.
@@ -48,8 +53,10 @@
 - **Tamiflu** and vaccines have been linked to psychological side effects.
 - Most current mental conditions are the result of **autoimmune disorders**.
 - The degradation of human health has been ongoing for almost a hundred years, originating around the time of the **Industrial Revolution**.
+- Massive inflammation atop existing autoimmune conditions is contributing to mental disorders.
 
 ---
+
 
 ## Control System & Sociopolitical Manipulation
 
@@ -60,6 +67,7 @@
 - "**Climategate**" and similar events may be influenced by the group's generated energy, empowering external truth-tellers.
 
 ---
+
 
 ## Esoteric Work & Personal Development
 
@@ -73,6 +81,7 @@
 
 ---
 
+
 ## Books, Research, and Cultural Commentary
 
 - Audio books and other accessible formats of the **Knowledge and Being** materials are suggested.
@@ -84,20 +93,25 @@
 
 ---
 
+
 ## Notable Warnings or Predictions
 
 - Soul smashing may occur if individuals do not clear suppressed emotions before the wave's amplification effect.
 - Infiltration by pathological individuals poses a serious risk; extensive checks and oversight are necessary.
 - Teachers should be evaluated and monitored with direct feedback mechanisms to prevent misconduct.
+- Hidden psychological conditions could lead to emotional destruction if not addressed ahead of time.
 
 ---
+
 
 ## Technology and Artificial Intelligence
 
 - DVDs and training materials are recommended as core teaching tools.
 - Inclusion of feedback links in DVDs or as on-screen post-video text is advised.
+- Teachers' presentations and performance should be tracked in a central database.
 
 ---
+
 
 ## Contact and Alien Interactions
 
@@ -105,10 +119,13 @@
 
 ---
 
+
 ## Environmental & Industrial Events
 
 - **Fort Hood** incident and engineered viruses are part of systemic covert operations.
 - Vaccination campaigns are linked to mutation engineering and mental degradation.
 
 ---
+
+
 
