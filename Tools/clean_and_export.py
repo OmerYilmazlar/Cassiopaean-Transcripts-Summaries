@@ -98,14 +98,53 @@ def is_duplicate_summary(line1, line2):
     if not ('Summary' in line1 and 'Summary' in line2 and '(' in line1 and '(' in line2):
         return False
     
-    # Extract dates from both lines
-    date_pattern = r'(\d{1,2}\s+\w+\s+\d{4})'
-    date1 = re.search(date_pattern, line1)
-    date2 = re.search(date_pattern, line2)
+    # Extract dates from both lines using multiple patterns
+    date_patterns = [
+        r'(\d{1,2}\s+\w+\s+\d{4})',  # "29 March 2025"
+        r'(\w+\s+\d{1,2},\s+\d{4})',  # "March 29, 2025"
+    ]
+    
+    date1, date2 = None, None
+    
+    for pattern in date_patterns:
+        if not date1:
+            date1 = re.search(pattern, line1)
+        if not date2:
+            date2 = re.search(pattern, line2)
     
     if date1 and date2:
-        # If dates are the same, it's a duplicate
-        return date1.group(1) == date2.group(1)
+        # Normalize dates for comparison
+        from datetime import datetime
+        try:
+            # Try to parse and compare dates
+            date1_str = date1.group(1)
+            date2_str = date2.group(1)
+            
+            # Simple string comparison if they're exactly the same
+            if date1_str == date2_str:
+                return True
+            
+            # Try to parse different formats
+            formats = ['%d %B %Y', '%B %d, %Y']
+            parsed1, parsed2 = None, None
+            
+            for fmt in formats:
+                try:
+                    if not parsed1:
+                        parsed1 = datetime.strptime(date1_str, fmt)
+                except:
+                    pass
+                try:
+                    if not parsed2:
+                        parsed2 = datetime.strptime(date2_str, fmt)
+                except:
+                    pass
+            
+            if parsed1 and parsed2:
+                return parsed1.date() == parsed2.date()
+                
+        except:
+            pass
     
     return False
 

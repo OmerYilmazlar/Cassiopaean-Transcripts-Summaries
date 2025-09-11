@@ -43,6 +43,26 @@ def extract_bullets_from_text(text):
             bullets.append(line.strip())
     return bullets
 
+def is_duplicate_section(section_name1, section_name2):
+    """Check if two sections are duplicates (especially summary sections)."""
+    # Normalize section names for comparison
+    name1 = section_name1.lower().strip()
+    name2 = section_name2.lower().strip()
+    
+    # Check for summary duplicates with different formats
+    if 'summary' in name1 and 'summary' in name2:
+        # Extract dates from both section names
+        import re
+        date_pattern = r'(\d{1,2}\s+\w+\s+\d{4})'
+        date1 = re.search(date_pattern, name1)
+        date2 = re.search(date_pattern, name2)
+        
+        if date1 and date2:
+            # If dates are the same, it's a duplicate
+            return date1.group(1) == date2.group(1)
+    
+    return False
+
 def merge_section_content(current_section, original_section):
     """Merge content from original into current, preserving structure."""
     current_bullets = extract_bullets_from_text(current_section)
@@ -148,9 +168,18 @@ def compare_and_fix_transcript(filename):
         # Check for completely missing sections
         for section_name in original_sections.keys():
             if section_name not in current_sections:
-                print(f"   ➕ Adding missing section: '{section_name}'")
-                fixed_sections[section_name] = original_sections[section_name]
-                changes_made = True
+                # Check if this is a duplicate of an existing section
+                is_duplicate = False
+                for existing_section in current_sections.keys():
+                    if is_duplicate_section(section_name, existing_section):
+                        print(f"   ⚠️  Skipping duplicate section: '{section_name}' (similar to '{existing_section}')")
+                        is_duplicate = True
+                        break
+                
+                if not is_duplicate:
+                    print(f"   ➕ Adding missing section: '{section_name}'")
+                    fixed_sections[section_name] = original_sections[section_name]
+                    changes_made = True
         
         if changes_made:
             # Reconstruct the file

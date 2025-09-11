@@ -130,18 +130,7 @@
 - Some world leaders are aware of upcoming **catastrophic events** and have been given inside information, motivating compliance with destructive policies.
 - The chaos following a Trump re-election is likely part of a larger **control strategy**.
 - Governments continue lockdowns despite evidence due to deeper knowledge of looming **disasters**.
-
 ---
-
-
-
-## [Summary of October 10th, 2020 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-10-october-2020.49595/#post-898385)
-
-**Tags:** Health Attacks, Satellite Weapons, DNA Targeting, Covid-19, Political Chaos, Martial Law, Chemotherapy, Psychic Light Network, Disclosure
-
----
-
-
 ## Cosmic Structure & Densities
 
 - No content under this heading in this session.

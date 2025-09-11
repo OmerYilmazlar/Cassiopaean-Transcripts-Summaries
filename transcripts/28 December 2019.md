@@ -96,18 +96,7 @@
 
 - Venus as a **comet** in the ancient solar system had a gradually stabilizing orbital period.
 - Reference to **five historical close passes** of cometary Venus near Earth, though no precise dates were given.
-
 ---
-
-
-
-## [Summary of December 28, 2019 Cassiopaean Session](https://cassiopaea.org/forum/threads/session-28-december-2019.48106/)
-
-**Tags:** Wave effects, Paul’s Christ, cosmic anomalies, esoteric salvation, control system distortions, cometary history, upcoming chaos
-
----
-
-
 ## Contact and Alien Interactions
 
 - Speculation about upcoming 4D bleedthrough and strange sightings (e.g., crafts) affecting public perception and reactions.
